@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 52,
+    "name": "Break the Chain",
+    "url": "https://cssbattle.dev/play/52"
+  },
+  "battle": {
+    "id": 10,
+    "name": "Block"
+  },
+  "submission": {
+    "id": "gdCsnCxiLGovaOD9mGto",
+    "url": "https://cssbattle.dev/submission/gdCsnCxiLGovaOD9mGto",
+    "submittedAt": "2022-06-21T11:56:51.701Z"
+  },
+  "scores": {
+    "scoreThen": 643.41,
+    "scoreNow": 643.41,
+    "match": 100,
+    "characters": 233,
+    "scoreNowCharacters": 233,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 23,
+    "name": "Boxception",
+    "url": "https://cssbattle.dev/play/23"
+  },
+  "battle": {
+    "id": 4,
+    "name": "Display"
+  },
+  "submission": {
+    "id": "6NGJMGfgBjbMDtT146nO",
+    "url": "https://cssbattle.dev/submission/6NGJMGfgBjbMDtT146nO",
+    "submittedAt": "2021-09-06T09:03:51.479Z"
+  },
+  "scores": {
+    "scoreThen": 751.31,
+    "scoreNow": 751.31,
+    "match": 100,
+    "characters": 102,
+    "scoreNowCharacters": 102,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 86,
+    "name": "Stairway",
+    "url": "https://cssbattle.dev/play/86"
+  },
+  "battle": {
+    "id": 15,
+    "name": "Filter"
+  },
+  "submission": {
+    "id": "tP2ZA0pRzD3VKV46FYtm",
+    "url": "https://cssbattle.dev/submission/tP2ZA0pRzD3VKV46FYtm",
+    "submittedAt": "2021-10-06T21:10:50.435Z"
+  },
+  "scores": {
+    "scoreThen": 684.6,
+    "scoreNow": 684.6,
+    "match": 100,
+    "characters": 163,
+    "scoreNowCharacters": 163,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

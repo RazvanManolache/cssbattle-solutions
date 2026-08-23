@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 56,
+    "name": "Skull",
+    "url": "https://cssbattle.dev/play/56"
+  },
+  "battle": {
+    "id": 11,
+    "name": "Overflow"
+  },
+  "submission": {
+    "id": "flryUaLRQmFsbdwyTv1S",
+    "url": "https://cssbattle.dev/submission/flryUaLRQmFsbdwyTv1S",
+    "submittedAt": "2021-10-27T09:34:24.887Z"
+  },
+  "scores": {
+    "scoreThen": 619.13,
+    "scoreNow": 561.54,
+    "match": 100,
+    "characters": 319,
+    "scoreNowCharacters": 319,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

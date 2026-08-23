@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 95,
+    "name": "Pokeball",
+    "url": "https://cssbattle.dev/play/95"
+  },
+  "battle": {
+    "id": 16,
+    "name": "Aspect"
+  },
+  "submission": {
+    "id": "gYTMeINMxipyLtsaRs9B",
+    "url": "https://cssbattle.dev/submission/gYTMeINMxipyLtsaRs9B",
+    "submittedAt": "2021-11-20T21:56:01.804Z"
+  },
+  "scores": {
+    "scoreThen": 687.89,
+    "scoreNow": 27.68,
+    "match": 100,
+    "characters": 159,
+    "scoreNowCharacters": 159,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

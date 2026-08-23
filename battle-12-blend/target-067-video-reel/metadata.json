@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 67,
+    "name": "Video Reel",
+    "url": "https://cssbattle.dev/play/67"
+  },
+  "battle": {
+    "id": 12,
+    "name": "Blend"
+  },
+  "submission": {
+    "id": "EbUzGjamc2gFOF4k1drr",
+    "url": "https://cssbattle.dev/submission/EbUzGjamc2gFOF4k1drr",
+    "submittedAt": "2021-11-22T00:38:42.029Z"
+  },
+  "scores": {
+    "scoreThen": 728.67,
+    "scoreNow": 2.22,
+    "match": 100,
+    "characters": 119,
+    "scoreNowCharacters": 119,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

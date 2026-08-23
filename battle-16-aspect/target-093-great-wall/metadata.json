@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 93,
+    "name": "Great Wall",
+    "url": "https://cssbattle.dev/play/93"
+  },
+  "battle": {
+    "id": 16,
+    "name": "Aspect"
+  },
+  "submission": {
+    "id": "OZX3j1vhMie6QFafyPpM",
+    "url": "https://cssbattle.dev/submission/OZX3j1vhMie6QFafyPpM",
+    "submittedAt": "2021-11-15T22:51:30.509Z"
+  },
+  "scores": {
+    "scoreThen": 621.65,
+    "scoreNow": 2.17,
+    "match": 100,
+    "characters": 306,
+    "scoreNowCharacters": 306,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

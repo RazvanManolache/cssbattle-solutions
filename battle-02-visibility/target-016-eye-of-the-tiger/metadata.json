@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 16,
+    "name": "Eye of the Tiger",
+    "url": "https://cssbattle.dev/play/16"
+  },
+  "battle": {
+    "id": 2,
+    "name": "Visibility"
+  },
+  "submission": {
+    "id": "ZADJFXtZy6AvbK0HbHcv",
+    "url": "https://cssbattle.dev/submission/ZADJFXtZy6AvbK0HbHcv",
+    "submittedAt": "2021-12-21T11:40:29.570Z"
+  },
+  "scores": {
+    "scoreThen": 687.05,
+    "scoreNow": 687.05,
+    "match": 100,
+    "characters": 160,
+    "scoreNowCharacters": 160,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL after retry",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

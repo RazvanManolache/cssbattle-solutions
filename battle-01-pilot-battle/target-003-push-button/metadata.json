@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 3,
+    "name": "Push Button",
+    "url": "https://cssbattle.dev/play/3"
+  },
+  "battle": {
+    "id": 1,
+    "name": "Pilot Battle"
+  },
+  "submission": {
+    "id": "PCJ2XWoH0U78hGEnfgOw",
+    "url": "https://cssbattle.dev/submission/PCJ2XWoH0U78hGEnfgOw",
+    "submittedAt": "2021-10-01T09:20:25.403Z"
+  },
+  "scores": {
+    "scoreThen": 738.87,
+    "scoreNow": 738.87,
+    "match": 100,
+    "characters": 111,
+    "scoreNowCharacters": 111,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

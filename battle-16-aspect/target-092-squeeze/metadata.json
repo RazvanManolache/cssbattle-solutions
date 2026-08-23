@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 92,
+    "name": "Squeeze",
+    "url": "https://cssbattle.dev/play/92"
+  },
+  "battle": {
+    "id": 16,
+    "name": "Aspect"
+  },
+  "submission": {
+    "id": "k6Dszvk13jZW66FLPxsA",
+    "url": "https://cssbattle.dev/submission/k6Dszvk13jZW66FLPxsA",
+    "submittedAt": "2021-11-08T00:40:28.080Z"
+  },
+  "scores": {
+    "scoreThen": 726.24,
+    "scoreNow": 2.72,
+    "match": 100,
+    "characters": 121,
+    "scoreNowCharacters": 121,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

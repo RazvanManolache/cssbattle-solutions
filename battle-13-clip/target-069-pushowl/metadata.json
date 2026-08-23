@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 69,
+    "name": "PushOwl",
+    "url": "https://cssbattle.dev/play/69"
+  },
+  "battle": {
+    "id": 13,
+    "name": "Clip"
+  },
+  "submission": {
+    "id": "yDAT10DnQgZ3MsL9e28E",
+    "url": "https://cssbattle.dev/submission/yDAT10DnQgZ3MsL9e28E",
+    "submittedAt": "2022-08-22T10:44:57.101Z"
+  },
+  "scores": {
+    "scoreThen": 656.15,
+    "scoreNow": 656.15,
+    "match": 100,
+    "characters": 206,
+    "scoreNowCharacters": 206,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "last-score-matching-chars"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

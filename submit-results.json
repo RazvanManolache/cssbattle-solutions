@@ -1,0 +1,811 @@
+{
+  "updatedAt": "2026-08-23T01:04:14.062Z",
+  "completed": 129,
+  "failed": 0,
+  "note": "Each score was collected by loading the exported solution into CSSBattle and clicking Submit. Some targets reported the result in Last score instead of Your stats; those were accepted only when the returned character count matched the exported solution.",
+  "results": [
+    {
+      "levelId": 1,
+      "scoreNowSubmitted": 839.08,
+      "charactersNowSubmitted": 54,
+      "status": "submitted",
+      "note": "manual first submit in this turn"
+    },
+    {
+      "levelId": 2,
+      "scoreNowSubmitted": 788.39,
+      "charactersNowSubmitted": 79,
+      "status": "submitted"
+    },
+    {
+      "levelId": 3,
+      "scoreNowSubmitted": 738.87,
+      "charactersNowSubmitted": 111,
+      "status": "submitted"
+    },
+    {
+      "levelId": 4,
+      "scoreNowSubmitted": 712.6,
+      "charactersNowSubmitted": 133,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 5,
+      "scoreNowSubmitted": 683.8,
+      "charactersNowSubmitted": 164,
+      "status": "submitted"
+    },
+    {
+      "levelId": 6,
+      "scoreNowSubmitted": 723.86,
+      "charactersNowSubmitted": 123,
+      "status": "submitted"
+    },
+    {
+      "levelId": 7,
+      "scoreNowSubmitted": 733.67,
+      "charactersNowSubmitted": 115,
+      "status": "submitted"
+    },
+    {
+      "levelId": 8,
+      "scoreNowSubmitted": 575.82,
+      "charactersNowSubmitted": null,
+      "status": "submitted"
+    },
+    {
+      "levelId": 9,
+      "scoreNowSubmitted": 699.48,
+      "charactersNowSubmitted": 146,
+      "status": "submitted"
+    },
+    {
+      "levelId": 10,
+      "scoreNowSubmitted": 3.69,
+      "charactersNowSubmitted": null,
+      "status": "submitted"
+    },
+    {
+      "levelId": 11,
+      "scoreNowSubmitted": 696.67,
+      "charactersNowSubmitted": 149,
+      "status": "submitted"
+    },
+    {
+      "levelId": 12,
+      "scoreNowSubmitted": 684.6,
+      "charactersNowSubmitted": 163,
+      "status": "submitted"
+    },
+    {
+      "levelId": 13,
+      "scoreNowSubmitted": 830.13,
+      "charactersNowSubmitted": 58,
+      "status": "submitted"
+    },
+    {
+      "levelId": 14,
+      "scoreNowSubmitted": 525.87,
+      "charactersNowSubmitted": 145,
+      "status": "submitted"
+    },
+    {
+      "levelId": 15,
+      "scoreNowSubmitted": 741.54,
+      "charactersNowSubmitted": 109,
+      "status": "submitted"
+    },
+    {
+      "levelId": 16,
+      "scoreNowSubmitted": 687.05,
+      "charactersNowSubmitted": 160,
+      "status": "submitted"
+    },
+    {
+      "levelId": 17,
+      "scoreNowSubmitted": 649.61,
+      "charactersNowSubmitted": 219,
+      "status": "submitted"
+    },
+    {
+      "levelId": 18,
+      "scoreNowSubmitted": 702.36,
+      "charactersNowSubmitted": 143,
+      "status": "submitted"
+    },
+    {
+      "levelId": 19,
+      "scoreNowSubmitted": 696.67,
+      "charactersNowSubmitted": 149,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 20,
+      "scoreNowSubmitted": 672.63,
+      "charactersNowSubmitted": 179,
+      "status": "submitted"
+    },
+    {
+      "levelId": 21,
+      "scoreNowSubmitted": 662.36,
+      "charactersNowSubmitted": 195,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 22,
+      "scoreNowSubmitted": 710.47,
+      "charactersNowSubmitted": 135,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 23,
+      "scoreNowSubmitted": 751.31,
+      "charactersNowSubmitted": 102,
+      "status": "submitted"
+    },
+    {
+      "levelId": 24,
+      "scoreNowSubmitted": 34.41,
+      "charactersNowSubmitted": 176,
+      "status": "submitted"
+    },
+    {
+      "levelId": 25,
+      "scoreNowSubmitted": 1.44,
+      "charactersNowSubmitted": 225,
+      "status": "submitted"
+    },
+    {
+      "levelId": 26,
+      "scoreNowSubmitted": 2.21,
+      "charactersNowSubmitted": 133,
+      "status": "submitted"
+    },
+    {
+      "levelId": 27,
+      "scoreNowSubmitted": 708.39,
+      "charactersNowSubmitted": 137,
+      "status": "submitted"
+    },
+    {
+      "levelId": 28,
+      "scoreNowSubmitted": 465.73,
+      "charactersNowSubmitted": 199,
+      "status": "submitted"
+    },
+    {
+      "levelId": 29,
+      "scoreNowSubmitted": 708.39,
+      "charactersNowSubmitted": 137,
+      "status": "submitted"
+    },
+    {
+      "levelId": 30,
+      "scoreNowSubmitted": 771.26,
+      "charactersNowSubmitted": 89,
+      "status": "submitted"
+    },
+    {
+      "levelId": 31,
+      "scoreNowSubmitted": 754.22,
+      "charactersNowSubmitted": 100,
+      "status": "submitted"
+    },
+    {
+      "levelId": 32,
+      "scoreNowSubmitted": 321.74,
+      "charactersNowSubmitted": 159,
+      "status": "submitted"
+    },
+    {
+      "levelId": 33,
+      "scoreNowSubmitted": 1.2,
+      "charactersNowSubmitted": 182,
+      "status": "submitted"
+    },
+    {
+      "levelId": 34,
+      "scoreNowSubmitted": 597.96,
+      "charactersNowSubmitted": 118,
+      "status": "submitted"
+    },
+    {
+      "levelId": 35,
+      "scoreNowSubmitted": 1.2,
+      "charactersNowSubmitted": 202,
+      "status": "submitted"
+    },
+    {
+      "levelId": 36,
+      "scoreNowSubmitted": 700.43,
+      "charactersNowSubmitted": 145,
+      "status": "submitted"
+    },
+    {
+      "levelId": 37,
+      "scoreNowSubmitted": 325.78,
+      "charactersNowSubmitted": 140,
+      "status": "submitted"
+    },
+    {
+      "levelId": 38,
+      "scoreNowSubmitted": 731.15,
+      "charactersNowSubmitted": 117,
+      "status": "submitted"
+    },
+    {
+      "levelId": 39,
+      "scoreNowSubmitted": 688.73,
+      "charactersNowSubmitted": 158,
+      "status": "submitted"
+    },
+    {
+      "levelId": 40,
+      "scoreNowSubmitted": 1.71,
+      "charactersNowSubmitted": 132,
+      "status": "submitted"
+    },
+    {
+      "levelId": 41,
+      "scoreNowSubmitted": 597.89,
+      "charactersNowSubmitted": 152,
+      "status": "submitted"
+    },
+    {
+      "levelId": 42,
+      "scoreNowSubmitted": 179.72,
+      "charactersNowSubmitted": 240,
+      "status": "submitted"
+    },
+    {
+      "levelId": 43,
+      "scoreNowSubmitted": 697.6,
+      "charactersNowSubmitted": 148,
+      "status": "submitted"
+    },
+    {
+      "levelId": 44,
+      "scoreNowSubmitted": 726.24,
+      "charactersNowSubmitted": 121,
+      "status": "submitted"
+    },
+    {
+      "levelId": 45,
+      "scoreNowSubmitted": 678.39,
+      "charactersNowSubmitted": 171,
+      "status": "submitted"
+    },
+    {
+      "levelId": 46,
+      "scoreNowSubmitted": 477.85,
+      "charactersNowSubmitted": 145,
+      "status": "submitted"
+    },
+    {
+      "levelId": 47,
+      "scoreNowSubmitted": 17.91,
+      "charactersNowSubmitted": 272,
+      "status": "submitted"
+    },
+    {
+      "levelId": 48,
+      "scoreNowSubmitted": 9.2,
+      "charactersNowSubmitted": 147,
+      "status": "submitted"
+    },
+    {
+      "levelId": 49,
+      "scoreNowSubmitted": 0.94,
+      "charactersNowSubmitted": 251,
+      "status": "submitted"
+    },
+    {
+      "levelId": 50,
+      "scoreNowSubmitted": 483.37,
+      "charactersNowSubmitted": 385,
+      "status": "submitted"
+    },
+    {
+      "levelId": 51,
+      "scoreNowSubmitted": 25.15,
+      "charactersNowSubmitted": 282,
+      "status": "submitted"
+    },
+    {
+      "levelId": 52,
+      "scoreNowSubmitted": 643.41,
+      "charactersNowSubmitted": 233,
+      "status": "submitted"
+    },
+    {
+      "levelId": 53,
+      "scoreNowSubmitted": 1.47,
+      "charactersNowSubmitted": 132,
+      "status": "submitted"
+    },
+    {
+      "levelId": 54,
+      "scoreNowSubmitted": 375.35,
+      "charactersNowSubmitted": 368,
+      "status": "submitted"
+    },
+    {
+      "levelId": 55,
+      "scoreNowSubmitted": 2.21,
+      "charactersNowSubmitted": 156,
+      "status": "submitted"
+    },
+    {
+      "levelId": 56,
+      "scoreNowSubmitted": 561.54,
+      "charactersNowSubmitted": 319,
+      "status": "submitted"
+    },
+    {
+      "levelId": 57,
+      "scoreNowSubmitted": 447.67,
+      "charactersNowSubmitted": 225,
+      "status": "submitted"
+    },
+    {
+      "levelId": 58,
+      "scoreNowSubmitted": 445.52,
+      "charactersNowSubmitted": 300,
+      "status": "submitted"
+    },
+    {
+      "levelId": 59,
+      "scoreNowSubmitted": 2.94,
+      "charactersNowSubmitted": 209,
+      "status": "submitted"
+    },
+    {
+      "levelId": 60,
+      "scoreNowSubmitted": 598,
+      "charactersNowSubmitted": 99,
+      "status": "submitted"
+    },
+    {
+      "levelId": 61,
+      "scoreNowSubmitted": 522.88,
+      "charactersNowSubmitted": 643,
+      "status": "submitted"
+    },
+    {
+      "levelId": 62,
+      "scoreNowSubmitted": 684.6,
+      "charactersNowSubmitted": 163,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 63,
+      "scoreNowSubmitted": 678.39,
+      "charactersNowSubmitted": 171,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 64,
+      "scoreNowSubmitted": 2.21,
+      "charactersNowSubmitted": 158,
+      "status": "submitted"
+    },
+    {
+      "levelId": 65,
+      "scoreNowSubmitted": 40.38,
+      "charactersNowSubmitted": 291,
+      "status": "submitted"
+    },
+    {
+      "levelId": 66,
+      "scoreNowSubmitted": 683,
+      "charactersNowSubmitted": 165,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 67,
+      "scoreNowSubmitted": 2.22,
+      "charactersNowSubmitted": 119,
+      "status": "submitted"
+    },
+    {
+      "levelId": 68,
+      "scoreNowSubmitted": 687.89,
+      "charactersNowSubmitted": 159,
+      "status": "submitted"
+    },
+    {
+      "levelId": 69,
+      "scoreNowSubmitted": 656.15,
+      "charactersNowSubmitted": 206,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 70,
+      "scoreNowSubmitted": 2.43,
+      "charactersNowSubmitted": 282,
+      "status": "submitted"
+    },
+    {
+      "levelId": 71,
+      "scoreNowSubmitted": 615.07,
+      "charactersNowSubmitted": 344,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 72,
+      "scoreNowSubmitted": 194.42,
+      "charactersNowSubmitted": 347,
+      "status": "submitted"
+    },
+    {
+      "levelId": 73,
+      "scoreNowSubmitted": 618.94,
+      "charactersNowSubmitted": 320,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 74,
+      "scoreNowSubmitted": 25.79,
+      "charactersNowSubmitted": 699,
+      "status": "submitted"
+    },
+    {
+      "levelId": 75,
+      "scoreNowSubmitted": 600.11,
+      "charactersNowSubmitted": 861,
+      "status": "submitted"
+    },
+    {
+      "levelId": 76,
+      "scoreNowSubmitted": 21.4,
+      "charactersNowSubmitted": 273,
+      "status": "submitted"
+    },
+    {
+      "levelId": 77,
+      "scoreNowSubmitted": 654.57,
+      "charactersNowSubmitted": 209,
+      "status": "submitted"
+    },
+    {
+      "levelId": 78,
+      "scoreNowSubmitted": 279.35,
+      "charactersNowSubmitted": 345,
+      "status": "submitted"
+    },
+    {
+      "levelId": 79,
+      "scoreNowSubmitted": 3.67,
+      "charactersNowSubmitted": 310,
+      "status": "submitted"
+    },
+    {
+      "levelId": 80,
+      "scoreNowSubmitted": 17.66,
+      "charactersNowSubmitted": 285,
+      "status": "submitted"
+    },
+    {
+      "levelId": 81,
+      "scoreNowSubmitted": 351.67,
+      "charactersNowSubmitted": 205,
+      "status": "submitted"
+    },
+    {
+      "levelId": 82,
+      "scoreNowSubmitted": 597.9,
+      "charactersNowSubmitted": 151,
+      "status": "submitted"
+    },
+    {
+      "levelId": 83,
+      "scoreNowSubmitted": 2.46,
+      "charactersNowSubmitted": 151,
+      "status": "submitted"
+    },
+    {
+      "levelId": 84,
+      "scoreNowSubmitted": 742.9,
+      "charactersNowSubmitted": 108,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 85,
+      "scoreNowSubmitted": 22.43,
+      "charactersNowSubmitted": 151,
+      "status": "submitted"
+    },
+    {
+      "levelId": 86,
+      "scoreNowSubmitted": 684.6,
+      "charactersNowSubmitted": 163,
+      "status": "submitted"
+    },
+    {
+      "levelId": 87,
+      "scoreNowSubmitted": 0.94,
+      "charactersNowSubmitted": 220,
+      "status": "submitted"
+    },
+    {
+      "levelId": 88,
+      "scoreNowSubmitted": 705.33,
+      "charactersNowSubmitted": 140,
+      "status": "submitted"
+    },
+    {
+      "levelId": 89,
+      "scoreNowSubmitted": 2.21,
+      "charactersNowSubmitted": 133,
+      "status": "submitted"
+    },
+    {
+      "levelId": 90,
+      "scoreNowSubmitted": 597.91,
+      "charactersNowSubmitted": 145,
+      "status": "submitted"
+    },
+    {
+      "levelId": 91,
+      "scoreNowSubmitted": 721.52,
+      "charactersNowSubmitted": 125,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 92,
+      "scoreNowSubmitted": 2.72,
+      "charactersNowSubmitted": 121,
+      "status": "submitted"
+    },
+    {
+      "levelId": 93,
+      "scoreNowSubmitted": 2.17,
+      "charactersNowSubmitted": 306,
+      "status": "submitted"
+    },
+    {
+      "levelId": 94,
+      "scoreNowSubmitted": 597.88,
+      "charactersNowSubmitted": 158,
+      "status": "submitted"
+    },
+    {
+      "levelId": 95,
+      "scoreNowSubmitted": 27.68,
+      "charactersNowSubmitted": 159,
+      "status": "submitted"
+    },
+    {
+      "levelId": 96,
+      "scoreNowSubmitted": 3.71,
+      "charactersNowSubmitted": 146,
+      "status": "submitted"
+    },
+    {
+      "levelId": 97,
+      "scoreNowSubmitted": 620.64,
+      "charactersNowSubmitted": 311,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 98,
+      "scoreNowSubmitted": 437.72,
+      "charactersNowSubmitted": 199,
+      "status": "submitted"
+    },
+    {
+      "levelId": 99,
+      "scoreNowSubmitted": 595.85,
+      "charactersNowSubmitted": 173,
+      "status": "submitted"
+    },
+    {
+      "levelId": 100,
+      "scoreNowSubmitted": 639.84,
+      "charactersNowSubmitted": 242,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 101,
+      "scoreNowSubmitted": 5.19,
+      "charactersNowSubmitted": 195,
+      "status": "submitted"
+    },
+    {
+      "levelId": 102,
+      "scoreNowSubmitted": 606.09,
+      "charactersNowSubmitted": 439,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 103,
+      "scoreNowSubmitted": 610,
+      "charactersNowSubmitted": 387,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 104,
+      "scoreNowSubmitted": 613.31,
+      "charactersNowSubmitted": 357,
+      "status": "submitted"
+    },
+    {
+      "levelId": 105,
+      "scoreNowSubmitted": 620.84,
+      "charactersNowSubmitted": 310,
+      "status": "submitted"
+    },
+    {
+      "levelId": 106,
+      "scoreNowSubmitted": 713.68,
+      "charactersNowSubmitted": 132,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 107,
+      "scoreNowSubmitted": 611.99,
+      "charactersNowSubmitted": 368,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 108,
+      "scoreNowSubmitted": 12.9,
+      "charactersNowSubmitted": 355,
+      "status": "submitted"
+    },
+    {
+      "levelId": 109,
+      "scoreNowSubmitted": 771.26,
+      "charactersNowSubmitted": 89,
+      "status": "submitted"
+    },
+    {
+      "levelId": 110,
+      "scoreNowSubmitted": 687.89,
+      "charactersNowSubmitted": 159,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 111,
+      "scoreNowSubmitted": 734.95,
+      "charactersNowSubmitted": 114,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 112,
+      "scoreNowSubmitted": 687.05,
+      "charactersNowSubmitted": 160,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 113,
+      "scoreNowSubmitted": 790.19,
+      "charactersNowSubmitted": 78,
+      "status": "submitted"
+    },
+    {
+      "levelId": 114,
+      "scoreNowSubmitted": 747.04,
+      "charactersNowSubmitted": 105,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 115,
+      "scoreNowSubmitted": 684.6,
+      "charactersNowSubmitted": 163,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 116,
+      "scoreNowSubmitted": 676.18,
+      "charactersNowSubmitted": 174,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 117,
+      "scoreNowSubmitted": 600.97,
+      "charactersNowSubmitted": 632,
+      "status": "submitted"
+    },
+    {
+      "levelId": 118,
+      "scoreNowSubmitted": 625.22,
+      "charactersNowSubmitted": 290,
+      "status": "submitted"
+    },
+    {
+      "levelId": 119,
+      "scoreNowSubmitted": 602.04,
+      "charactersNowSubmitted": 554,
+      "status": "submitted"
+    },
+    {
+      "levelId": 120,
+      "scoreNowSubmitted": 648.67,
+      "charactersNowSubmitted": 221,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 121,
+      "scoreNowSubmitted": 617.22,
+      "charactersNowSubmitted": 330,
+      "status": "submitted"
+    },
+    {
+      "levelId": 122,
+      "scoreNowSubmitted": 606.27,
+      "charactersNowSubmitted": 436,
+      "status": "submitted"
+    },
+    {
+      "levelId": 123,
+      "scoreNowSubmitted": 627.74,
+      "charactersNowSubmitted": 280,
+      "status": "submitted"
+    },
+    {
+      "levelId": 124,
+      "scoreNowSubmitted": 603.31,
+      "charactersNowSubmitted": 503,
+      "status": "submitted"
+    },
+    {
+      "levelId": 130,
+      "scoreNowSubmitted": 728.67,
+      "charactersNowSubmitted": 119,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 137,
+      "scoreNowSubmitted": 783.08,
+      "charactersNowSubmitted": 82,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 148,
+      "scoreNowSubmitted": 754.22,
+      "charactersNowSubmitted": 100,
+      "status": "submitted",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 160,
+      "scoreNowSubmitted": 703.34,
+      "charactersNowSubmitted": 142,
+      "status": "submitted"
+    },
+    {
+      "levelId": 187,
+      "scoreNowSubmitted": 602.9,
+      "charactersNowSubmitted": 517,
+      "status": "submitted"
+    }
+  ]
+}

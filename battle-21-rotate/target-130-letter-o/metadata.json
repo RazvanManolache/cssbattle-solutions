@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 130,
+    "name": "Letter O",
+    "url": "https://cssbattle.dev/play/130"
+  },
+  "battle": {
+    "id": 21,
+    "name": "Rotate"
+  },
+  "submission": {
+    "id": "9AHGN9XJF6mucL62dU1f",
+    "url": "https://cssbattle.dev/submission/9AHGN9XJF6mucL62dU1f",
+    "submittedAt": "2022-10-07T11:17:35.034Z"
+  },
+  "scores": {
+    "scoreThen": 728.67,
+    "scoreNow": 728.67,
+    "match": 100,
+    "characters": 119,
+    "scoreNowCharacters": 119,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "last-score-matching-chars"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

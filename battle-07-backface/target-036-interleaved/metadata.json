@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 36,
+    "name": "Interleaved",
+    "url": "https://cssbattle.dev/play/36"
+  },
+  "battle": {
+    "id": 7,
+    "name": "Backface"
+  },
+  "submission": {
+    "id": "R08sUx8rhj1RUe2wD9JT",
+    "url": "https://cssbattle.dev/submission/R08sUx8rhj1RUe2wD9JT",
+    "submittedAt": "2021-11-01T22:51:11.269Z"
+  },
+  "scores": {
+    "scoreThen": 700.43,
+    "scoreNow": 700.43,
+    "match": 100,
+    "characters": 145,
+    "scoreNowCharacters": 145,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

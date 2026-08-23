@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 57,
+    "name": "Pillars",
+    "url": "https://cssbattle.dev/play/57"
+  },
+  "battle": {
+    "id": 11,
+    "name": "Overflow"
+  },
+  "submission": {
+    "id": "BJtCB276xp70R0Ql1XjO",
+    "url": "https://cssbattle.dev/submission/BJtCB276xp70R0Ql1XjO",
+    "submittedAt": "2021-11-05T23:01:12.272Z"
+  },
+  "scores": {
+    "scoreThen": 646.85,
+    "scoreNow": 447.67,
+    "match": 100,
+    "characters": 225,
+    "scoreNowCharacters": 225,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

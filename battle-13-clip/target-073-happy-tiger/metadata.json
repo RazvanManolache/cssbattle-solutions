@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 73,
+    "name": "Happy Tiger",
+    "url": "https://cssbattle.dev/play/73"
+  },
+  "battle": {
+    "id": 13,
+    "name": "Clip"
+  },
+  "submission": {
+    "id": "4pJsWsb69W3tfgbMTLM0",
+    "url": "https://cssbattle.dev/submission/4pJsWsb69W3tfgbMTLM0",
+    "submittedAt": "2022-08-22T10:45:12.935Z"
+  },
+  "scores": {
+    "scoreThen": 618.94,
+    "scoreNow": 618.94,
+    "match": 100,
+    "characters": 320,
+    "scoreNowCharacters": 320,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "last-score-matching-chars"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

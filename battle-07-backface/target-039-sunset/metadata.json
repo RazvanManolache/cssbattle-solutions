@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 39,
+    "name": "Sunset",
+    "url": "https://cssbattle.dev/play/39"
+  },
+  "battle": {
+    "id": 7,
+    "name": "Backface"
+  },
+  "submission": {
+    "id": "HdLy2PRvvRHRae1MPePN",
+    "url": "https://cssbattle.dev/submission/HdLy2PRvvRHRae1MPePN",
+    "submittedAt": "2021-11-17T09:59:20.545Z"
+  },
+  "scores": {
+    "scoreThen": 688.73,
+    "scoreNow": 688.73,
+    "match": 100,
+    "characters": 158,
+    "scoreNowCharacters": 158,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 187,
+    "name": "Striped Triangle",
+    "url": "https://cssbattle.dev/play/187"
+  },
+  "battle": {
+    "id": 30,
+    "name": "Gradient"
+  },
+  "submission": {
+    "id": "0E3Fwjmni4RGSHgdZqA3",
+    "url": "https://cssbattle.dev/submission/0E3Fwjmni4RGSHgdZqA3",
+    "submittedAt": "2024-10-28T13:01:36.618Z"
+  },
+  "scores": {
+    "scoreThen": 602.9,
+    "scoreNow": 602.9,
+    "match": 100,
+    "characters": 517,
+    "scoreNowCharacters": 517,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

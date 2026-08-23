@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 10,
+    "name": "Cloaked Spirits",
+    "url": "https://cssbattle.dev/play/10"
+  },
+  "battle": {
+    "id": 1,
+    "name": "Pilot Battle"
+  },
+  "submission": {
+    "id": "kHJtFLhyE4jjvOXS4F3r",
+    "url": "https://cssbattle.dev/submission/kHJtFLhyE4jjvOXS4F3r",
+    "submittedAt": "2021-10-05T11:42:43.099Z"
+  },
+  "scores": {
+    "scoreThen": 642.59,
+    "scoreNow": 3.69,
+    "match": 100,
+    "characters": 235,
+    "scoreNowCharacters": 235,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

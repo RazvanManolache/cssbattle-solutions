@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 102,
+    "name": "One Piece",
+    "url": "https://cssbattle.dev/play/102"
+  },
+  "battle": {
+    "id": 18,
+    "name": "Float"
+  },
+  "submission": {
+    "id": "aWPQetakE5gJxBLCtDPD",
+    "url": "https://cssbattle.dev/submission/aWPQetakE5gJxBLCtDPD",
+    "submittedAt": "2022-04-04T15:54:02.650Z"
+  },
+  "scores": {
+    "scoreThen": 606.09,
+    "scoreNow": 606.09,
+    "match": 100,
+    "characters": 439,
+    "scoreNowCharacters": 439,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "last-score-matching-chars"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 112,
+    "name": "Chevron",
+    "url": "https://cssbattle.dev/play/112"
+  },
+  "battle": {
+    "id": 19,
+    "name": "Spacing"
+  },
+  "submission": {
+    "id": "8BlIK1UNM6k9NQXdsP2X",
+    "url": "https://cssbattle.dev/submission/8BlIK1UNM6k9NQXdsP2X",
+    "submittedAt": "2022-06-21T11:58:16.911Z"
+  },
+  "scores": {
+    "scoreThen": 687.05,
+    "scoreNow": 687.05,
+    "match": 100,
+    "characters": 160,
+    "scoreNowCharacters": 160,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "last-score-matching-chars"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

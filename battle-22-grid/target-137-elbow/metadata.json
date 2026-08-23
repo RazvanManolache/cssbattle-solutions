@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 137,
+    "name": "Elbow",
+    "url": "https://cssbattle.dev/play/137"
+  },
+  "battle": {
+    "id": 22,
+    "name": "Grid"
+  },
+  "submission": {
+    "id": "wLvUAerGLMiCIDxv5oyz",
+    "url": "https://cssbattle.dev/submission/wLvUAerGLMiCIDxv5oyz",
+    "submittedAt": "2024-10-28T07:22:43.276Z"
+  },
+  "scores": {
+    "scoreThen": 783.08,
+    "scoreNow": 783.08,
+    "match": 100,
+    "characters": 82,
+    "scoreNowCharacters": 82,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "last-score-matching-chars"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

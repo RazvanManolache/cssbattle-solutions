@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 77,
+    "name": "Notes",
+    "url": "https://cssbattle.dev/play/77"
+  },
+  "battle": {
+    "id": 14,
+    "name": "ZIndex"
+  },
+  "submission": {
+    "id": "5eLQQMYXWDXOUVD2t7L1",
+    "url": "https://cssbattle.dev/submission/5eLQQMYXWDXOUVD2t7L1",
+    "submittedAt": "2022-06-21T11:56:38.208Z"
+  },
+  "scores": {
+    "scoreThen": 654.57,
+    "scoreNow": 654.57,
+    "match": 100,
+    "characters": 209,
+    "scoreNowCharacters": 209,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

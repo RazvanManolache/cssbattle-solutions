@@ -1,0 +1,2945 @@
+{
+  "exportedAt": "2026-08-22T23:56:31.275Z",
+  "player": "razvanm",
+  "total": 129,
+  "battles": [
+    {
+      "id": 1,
+      "name": "Pilot Battle",
+      "folder": "battle-01-pilot-battle",
+      "targets": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "scoreThenTotal": 8613.53,
+      "scoreNowTotal": 7880.53
+    },
+    {
+      "id": 2,
+      "name": "Visibility",
+      "folder": "battle-02-visibility",
+      "targets": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "scoreThenTotal": 4311.12,
+      "scoreNowTotal": 4136.56
+    },
+    {
+      "id": 3,
+      "name": "Cursor",
+      "folder": "battle-03-cursor",
+      "targets": [
+        19,
+        20
+      ],
+      "scoreThenTotal": 1369.3,
+      "scoreNowTotal": 1369.3
+    },
+    {
+      "id": 4,
+      "name": "Display",
+      "folder": "battle-04-display",
+      "targets": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "scoreThenTotal": 5526.75,
+      "scoreNowTotal": 3336.32
+    },
+    {
+      "id": 5,
+      "name": "Inline",
+      "folder": "battle-05-inline",
+      "targets": [
+        29,
+        30
+      ],
+      "scoreThenTotal": 1479.65,
+      "scoreNowTotal": 1479.65
+    },
+    {
+      "id": 6,
+      "name": "Conic",
+      "folder": "battle-06-conic",
+      "targets": [
+        31,
+        32
+      ],
+      "scoreThenTotal": 1442.11,
+      "scoreNowTotal": 1075.96
+    },
+    {
+      "id": 7,
+      "name": "Backface",
+      "folder": "battle-07-backface",
+      "targets": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "scoreThenTotal": 6292.1,
+      "scoreNowTotal": 3646.05
+    },
+    {
+      "id": 8,
+      "name": "Transition",
+      "folder": "battle-08-transition",
+      "targets": [
+        42,
+        43,
+        44
+      ],
+      "scoreThenTotal": 2064.45,
+      "scoreNowTotal": 1603.56
+    },
+    {
+      "id": 9,
+      "name": "Margin",
+      "folder": "battle-09-margin",
+      "targets": [
+        45,
+        46
+      ],
+      "scoreThenTotal": 1378.82,
+      "scoreNowTotal": 1156.24
+    },
+    {
+      "id": 10,
+      "name": "Block",
+      "folder": "battle-10-block",
+      "targets": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "scoreThenTotal": 3845.85,
+      "scoreNowTotal": 1179.98
+    },
+    {
+      "id": 11,
+      "name": "Overflow",
+      "folder": "battle-11-overflow",
+      "targets": [
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "scoreThenTotal": 5315.26,
+      "scoreNowTotal": 2434.7
+    },
+    {
+      "id": 12,
+      "name": "Blend",
+      "folder": "battle-12-blend",
+      "targets": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68
+      ],
+      "scoreThenTotal": 5377.13,
+      "scoreNowTotal": 3301.57
+    },
+    {
+      "id": 13,
+      "name": "Clip",
+      "folder": "battle-13-clip",
+      "targets": [
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76
+      ],
+      "scoreThenTotal": 4962.29,
+      "scoreNowTotal": 2734.31
+    },
+    {
+      "id": 14,
+      "name": "ZIndex",
+      "folder": "battle-14-zindex",
+      "targets": [
+        77,
+        78,
+        79,
+        80
+      ],
+      "scoreThenTotal": 2516.79,
+      "scoreNowTotal": 955.25
+    },
+    {
+      "id": 15,
+      "name": "Filter",
+      "folder": "battle-15-filter",
+      "targets": [
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88
+      ],
+      "scoreThenTotal": 5523.21,
+      "scoreNowTotal": 3108.23
+    },
+    {
+      "id": 16,
+      "name": "Aspect",
+      "folder": "battle-16-aspect",
+      "targets": [
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96
+      ],
+      "scoreThenTotal": 5558.54,
+      "scoreNowTotal": 1955.8
+    },
+    {
+      "id": 17,
+      "name": "Christmas 🎄",
+      "folder": "battle-17-christmas",
+      "targets": [
+        97,
+        98,
+        99,
+        100
+      ],
+      "scoreThenTotal": 2597.42,
+      "scoreNowTotal": 2294.05
+    },
+    {
+      "id": 18,
+      "name": "Float",
+      "folder": "battle-18-float",
+      "targets": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108
+      ],
+      "scoreThenTotal": 5051.84,
+      "scoreNowTotal": 3794
+    },
+    {
+      "id": 19,
+      "name": "Spacing",
+      "folder": "battle-19-spacing",
+      "targets": [
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116
+      ],
+      "scoreThenTotal": 5779.16,
+      "scoreNowTotal": 5779.16
+    },
+    {
+      "id": 20,
+      "name": "Hover",
+      "folder": "battle-20-hover",
+      "targets": [
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124
+      ],
+      "scoreThenTotal": 4931.44,
+      "scoreNowTotal": 4931.44
+    },
+    {
+      "id": 21,
+      "name": "Rotate",
+      "folder": "battle-21-rotate",
+      "targets": [
+        130
+      ],
+      "scoreThenTotal": 728.67,
+      "scoreNowTotal": 728.67
+    },
+    {
+      "id": 22,
+      "name": "Grid",
+      "folder": "battle-22-grid",
+      "targets": [
+        137
+      ],
+      "scoreThenTotal": 783.08,
+      "scoreNowTotal": 783.08
+    },
+    {
+      "id": 24,
+      "name": "Offset",
+      "folder": "battle-24-offset",
+      "targets": [
+        148
+      ],
+      "scoreThenTotal": 754.22,
+      "scoreNowTotal": 754.22
+    },
+    {
+      "id": 26,
+      "name": "Initial",
+      "folder": "battle-26-initial",
+      "targets": [
+        160
+      ],
+      "scoreThenTotal": 703.34,
+      "scoreNowTotal": 703.34
+    },
+    {
+      "id": 30,
+      "name": "Gradient",
+      "folder": "battle-30-gradient",
+      "targets": [
+        187
+      ],
+      "scoreThenTotal": 602.9,
+      "scoreNowTotal": 602.9
+    }
+  ],
+  "targets": [
+    {
+      "levelId": 1,
+      "battleId": 1,
+      "targetName": "Simply Square",
+      "submissionId": "9jCU1SlocwVjynTXntUu",
+      "scoreThen": 839.08,
+      "scoreNow": 839.08,
+      "match": 100,
+      "codeSize": 54,
+      "lastUpdated": "2021-07-14T11:12:05.165Z",
+      "solution": "<a style=box-shadow:0+0+0+2in#b5e0ba,0+0+0+5in#5d3a3a>",
+      "files": {
+        "solution": "battle-01-pilot-battle/target-001-simply-square/solution.html",
+        "reference": "battle-01-pilot-battle/target-001-simply-square/reference.png",
+        "rendered": "battle-01-pilot-battle/target-001-simply-square/rendered.png"
+      },
+      "scoreNowCharacters": 54,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 2,
+      "battleId": 1,
+      "targetName": "Carrom",
+      "submissionId": "to7sxnKFJkmy0lWqaptQ",
+      "scoreThen": 788.39,
+      "scoreNow": 788.39,
+      "match": 100,
+      "codeSize": 79,
+      "lastUpdated": "2022-02-02T16:05:06.445Z",
+      "solution": "<style>*{background:69%44q/65%53%conic-gradient(at 80%53q,#fdc57b 25%,#62374e 0",
+      "files": {
+        "solution": "battle-01-pilot-battle/target-002-carrom/solution.html",
+        "reference": "battle-01-pilot-battle/target-002-carrom/reference.png",
+        "rendered": "battle-01-pilot-battle/target-002-carrom/rendered.png"
+      },
+      "scoreNowCharacters": 79,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 3,
+      "battleId": 1,
+      "targetName": "Push Button",
+      "submissionId": "PCJ2XWoH0U78hGEnfgOw",
+      "scoreThen": 738.87,
+      "scoreNow": 738.87,
+      "match": 100,
+      "codeSize": 111,
+      "lastUpdated": "2021-10-01T09:20:25.403Z",
+      "solution": "<style>*{margin:75 50;background:radial-gradient(1q,#EEB850 26q,0,#243D83 79q,0,#0000 132q,#243D83)space#6592CF",
+      "files": {
+        "solution": "battle-01-pilot-battle/target-003-push-button/solution.html",
+        "reference": "battle-01-pilot-battle/target-003-push-button/reference.png",
+        "rendered": "battle-01-pilot-battle/target-003-push-button/rendered.png"
+      },
+      "scoreNowCharacters": 111,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 4,
+      "battleId": 1,
+      "targetName": "Ups n Downs",
+      "submissionId": "0fc6yl0aL9E4It9oueZa",
+      "scoreThen": 712.6,
+      "scoreNow": 712.6,
+      "match": 100,
+      "codeSize": 133,
+      "lastUpdated": "2022-04-04T19:00:52.349Z",
+      "solution": "<style>*{background:#62306D}*>*{background:#F7EC7D;clip-pat\\68:path('M42 142v42a1,1,0,00100,15V92a1,1,0,01100,0v92a1,1,0,00100,15v-57",
+      "files": {
+        "solution": "battle-01-pilot-battle/target-004-ups-n-downs/solution.html",
+        "reference": "battle-01-pilot-battle/target-004-ups-n-downs/reference.png",
+        "rendered": "battle-01-pilot-battle/target-004-ups-n-downs/rendered.png"
+      },
+      "scoreNowCharacters": 133,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 5,
+      "battleId": 1,
+      "targetName": "Acid Rain",
+      "submissionId": "rJ6FzfBODBTUPozVAqgA",
+      "scoreThen": 683.8,
+      "scoreNow": 683.8,
+      "match": 100,
+      "codeSize": 164,
+      "lastUpdated": "2021-11-01T13:09:34.916Z",
+      "solution": "<style>*{background:radial-gradient(1q,#f3ac3c,63q,#0b2429)63q -127q}*>*{border-radius:50%0+50%50%;box-shadow:63q -63q#998235;margin:150+50%30+80;background:#F3AC3C",
+      "files": {
+        "solution": "battle-01-pilot-battle/target-005-acid-rain/solution.html",
+        "reference": "battle-01-pilot-battle/target-005-acid-rain/reference.png",
+        "rendered": "battle-01-pilot-battle/target-005-acid-rain/rendered.png"
+      },
+      "scoreNowCharacters": 164,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 6,
+      "battleId": 1,
+      "targetName": "Missing Slice",
+      "submissionId": "yBpg6pkJhfwN9un8k2Cj",
+      "scoreThen": 723.86,
+      "scoreNow": 723.86,
+      "match": 100,
+      "codeSize": 123,
+      "lastUpdated": "2021-11-01T13:07:17.354Z",
+      "solution": "<style>*{background:radial-gradient(1q,#0000,25vw,#E3516E),conic-gradient(#FADE8B,25%,#E3516E 0 50%,#F7F3D7 0 75%,#51B5A9 0",
+      "files": {
+        "solution": "battle-01-pilot-battle/target-006-missing-slice/solution.html",
+        "reference": "battle-01-pilot-battle/target-006-missing-slice/reference.png",
+        "rendered": "battle-01-pilot-battle/target-006-missing-slice/rendered.png"
+      },
+      "scoreNowCharacters": 123,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 7,
+      "battleId": 1,
+      "targetName": "Leafy Trail",
+      "submissionId": "9bh5q5i2brpj4vvM3Ij1",
+      "scoreThen": 733.67,
+      "scoreNow": 733.67,
+      "match": 100,
+      "codeSize": 115,
+      "lastUpdated": "2021-11-14T23:48:47.560Z",
+      "solution": "<body bgcolor=0B2429 style=border-radius:67%0;margin:75+85%75-90;box-shadow:7cm+0#F3AC3C,57mm+0#998235,55vh+0#4984>",
+      "files": {
+        "solution": "battle-01-pilot-battle/target-007-leafy-trail/solution.html",
+        "reference": "battle-01-pilot-battle/target-007-leafy-trail/reference.png",
+        "rendered": "battle-01-pilot-battle/target-007-leafy-trail/rendered.png"
+      },
+      "scoreNowCharacters": 115,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 8,
+      "battleId": 1,
+      "targetName": "Forking Crazy",
+      "submissionId": "243k3yVVROu9c6aCC3Lm",
+      "scoreThen": 669.92,
+      "scoreNow": 575.82,
+      "match": 100,
+      "codeSize": 183,
+      "lastUpdated": "2022-01-06T09:45:16.197Z",
+      "solution": "<body bgcolor=6592CF style=margin:50+190+140;border-radius:1in;box-shadow:5vw+0,-5vw+0,10vw+0#6592CF,-10vw+0#6592CF,15vw+0,-15vw+0,0-201q+0+25vw#6592CF,0+32q+0+60px,0+2in text=060F55>",
+      "files": {
+        "solution": "battle-01-pilot-battle/target-008-forking-crazy/solution.html",
+        "reference": "battle-01-pilot-battle/target-008-forking-crazy/reference.png",
+        "rendered": "battle-01-pilot-battle/target-008-forking-crazy/rendered.png"
+      },
+      "scoreNowCharacters": 183,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 9,
+      "battleId": 1,
+      "targetName": "Tesseract",
+      "submissionId": "xI6ZvlNf7GMR1r8MAhc4",
+      "scoreThen": 699.48,
+      "scoreNow": 699.48,
+      "match": 100,
+      "codeSize": 146,
+      "lastUpdated": "2021-07-28T11:25:44.583Z",
+      "solution": "<style>*{border:53q solid#222730;background:radial-gradient(#393E46 24%,#4CAAB3 0)}html{border-width:75 0}*>*{margin:-50 75;transform:rotate(45deg",
+      "files": {
+        "solution": "battle-01-pilot-battle/target-009-tesseract/solution.html",
+        "reference": "battle-01-pilot-battle/target-009-tesseract/reference.png",
+        "rendered": "battle-01-pilot-battle/target-009-tesseract/rendered.png"
+      },
+      "scoreNowCharacters": 146,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 10,
+      "battleId": 1,
+      "targetName": "Cloaked Spirits",
+      "submissionId": "kHJtFLhyE4jjvOXS4F3r",
+      "scoreThen": 642.59,
+      "scoreNow": 3.69,
+      "match": 100,
+      "codeSize": 235,
+      "lastUpdated": "2021-10-05T11:42:43.099Z",
+      "solution": "<style>*>*{--:linear-gradient(#F7EC7D,#F7EC7D)no-repeat 50%;background:radial-gradient(1q,#E38F66 32q,#AA445F 0 50px,#0000 0)0 53q/50%,radial-gradient(1q,#AA445F 32q,#E38F66 0 53q,#0000 0)0-53q,var(--)50vw/75%68%,var(--)25vw/25%#62306D",
+      "files": {
+        "solution": "battle-01-pilot-battle/target-010-cloaked-spirits/solution.html",
+        "reference": "battle-01-pilot-battle/target-010-cloaked-spirits/reference.png",
+        "rendered": "battle-01-pilot-battle/target-010-cloaked-spirits/rendered.png"
+      },
+      "scoreNowCharacters": 235,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 11,
+      "battleId": 1,
+      "targetName": "Eye of Sauron",
+      "submissionId": "viy6HgoenwJvBTRZh778",
+      "scoreThen": 696.67,
+      "scoreNow": 696.67,
+      "match": 100,
+      "codeSize": 149,
+      "lastUpdated": "2021-11-11T22:06:03.698Z",
+      "solution": "ᐡ<p>ᐢ<style>p{margin:-380 200}*>*{background:radial-gradient(1q,#84271C,26q,#191210 0 53q,#eca03d 0 74q,#191210);margin:98 36;color:ECA03D;font:300q'",
+      "files": {
+        "solution": "battle-01-pilot-battle/target-011-eye-of-sauron/solution.html",
+        "reference": "battle-01-pilot-battle/target-011-eye-of-sauron/reference.png",
+        "rendered": "battle-01-pilot-battle/target-011-eye-of-sauron/rendered.png"
+      },
+      "scoreNowCharacters": 149,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 12,
+      "battleId": 1,
+      "targetName": "Wiggly Moustache",
+      "submissionId": "zwsBuKuOEqnMQvHvbDiO",
+      "scoreThen": 684.6,
+      "scoreNow": 684.6,
+      "match": 100,
+      "codeSize": 163,
+      "lastUpdated": "2021-11-11T21:51:15.531Z",
+      "solution": "ᐢ<p>ᐡ<p i>.<style>html{background:#F5D6B4;color:D86F45;font:300q a}*+*{-webkit-box-reflect:right -32vw;margin:48 136}p{margin:-280-80}[i]{margin:-417-76;font:40vw'",
+      "files": {
+        "solution": "battle-01-pilot-battle/target-012-wiggly-moustache/solution.html",
+        "reference": "battle-01-pilot-battle/target-012-wiggly-moustache/reference.png",
+        "rendered": "battle-01-pilot-battle/target-012-wiggly-moustache/rendered.png"
+      },
+      "scoreNowCharacters": 163,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 13,
+      "battleId": 2,
+      "targetName": "Totally Triangle",
+      "submissionId": "W14Qt8gpQ8dttgOB5EdU",
+      "scoreThen": 830.13,
+      "scoreNow": 830.13,
+      "match": 100,
+      "codeSize": 58,
+      "lastUpdated": "2021-07-27T07:51:57.852Z",
+      "solution": "<body bgcolor=0B2429 style=zoom:59;margin:-8 text=F3AC3C>◤",
+      "files": {
+        "solution": "battle-02-visibility/target-013-totally-triangle/solution.html",
+        "reference": "battle-02-visibility/target-013-totally-triangle/reference.png",
+        "rendered": "battle-02-visibility/target-013-totally-triangle/rendered.png"
+      },
+      "scoreNowCharacters": 58,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 14,
+      "battleId": 2,
+      "targetName": "Web Maker Logo",
+      "submissionId": "G52DPrZKoUeJ6tUWvwle",
+      "scoreThen": 700.43,
+      "scoreNow": 525.87,
+      "match": 100,
+      "codeSize": 145,
+      "lastUpdated": "2022-04-05T10:12:07.655Z",
+      "solution": "▾<p>▴<style>p{margin:-426 110;color:FD4602;--:#FF6D00}*{background:#F2F2B6;color:FF6D00;margin:-7.2%6;text-shadow:var(--,#FD4602)5vw 0;font:388q'",
+      "files": {
+        "solution": "battle-02-visibility/target-014-web-maker-logo/solution.html",
+        "reference": "battle-02-visibility/target-014-web-maker-logo/reference.png",
+        "rendered": "battle-02-visibility/target-014-web-maker-logo/rendered.png"
+      },
+      "scoreNowCharacters": 145,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 15,
+      "battleId": 2,
+      "targetName": "Overlap",
+      "submissionId": "mlqmF1ro3NfOGLAns3Qa",
+      "scoreThen": 741.54,
+      "scoreNow": 741.54,
+      "match": 100,
+      "codeSize": 109,
+      "lastUpdated": "2021-07-16T15:12:34.765Z",
+      "solution": "<body bgcolor=09042A style=margin:75+44%75+75;border-radius:50%;box-shadow:25vw+0#E78481,inset+25vw+0#7B3F61>",
+      "files": {
+        "solution": "battle-02-visibility/target-015-overlap/solution.html",
+        "reference": "battle-02-visibility/target-015-overlap/reference.png",
+        "rendered": "battle-02-visibility/target-015-overlap/rendered.png"
+      },
+      "scoreNowCharacters": 109,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 16,
+      "battleId": 2,
+      "targetName": "Eye of the Tiger",
+      "submissionId": "ZADJFXtZy6AvbK0HbHcv",
+      "scoreThen": 687.05,
+      "scoreNow": 687.05,
+      "match": 100,
+      "codeSize": 160,
+      "lastUpdated": "2021-12-21T11:40:29.570Z",
+      "solution": "<style>*{margin:7%50;background:#0b2429}*>*{background:radial-gradient(1q,#0000 26q,#f3ac3c 0 74q,#0000 0 95q,#998235);border-radius:50%0;transform:rotate(45deg",
+      "files": {
+        "solution": "battle-02-visibility/target-016-eye-of-the-tiger/solution.html",
+        "reference": "battle-02-visibility/target-016-eye-of-the-tiger/reference.png",
+        "rendered": "battle-02-visibility/target-016-eye-of-the-tiger/rendered.png"
+      },
+      "scoreNowCharacters": 160,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 17,
+      "battleId": 2,
+      "targetName": "Fidget Spinner",
+      "submissionId": "0inrTTz8I8b9D6olE7hm",
+      "scoreThen": 649.61,
+      "scoreNow": 649.61,
+      "match": 100,
+      "codeSize": 219,
+      "lastUpdated": "2021-10-05T12:01:41.940Z",
+      "solution": "<style>*>*{margin:120 230 120 110;border-radius:50%;color:09042A;box-shadow:63q 56q#F5BB9C,63q -56q#F5BB9C,63q 56q 0 11q,63q -56q 0 11q,inset 0 2in,30vw 0,0 0 0 11q#E78481,30vw 0 0 11q#E78481,63q 0 0 9q#E78481,0 0 0 9in",
+      "files": {
+        "solution": "battle-02-visibility/target-017-fidget-spinner/solution.html",
+        "reference": "battle-02-visibility/target-017-fidget-spinner/reference.png",
+        "rendered": "battle-02-visibility/target-017-fidget-spinner/rendered.png"
+      },
+      "scoreNowCharacters": 219,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 18,
+      "battleId": 2,
+      "targetName": "Matrix",
+      "submissionId": "yPVRVdOz1vGG2APmJHqh",
+      "scoreThen": 702.36,
+      "scoreNow": 702.36,
+      "match": 100,
+      "codeSize": 143,
+      "lastUpdated": "2022-06-21T11:57:26.123Z",
+      "solution": "<style>*>*{background:radial-gradient(at 99%99%,#0000,84q,#5C434C 0)30%45%/25%106q,0 0/50%67%repeating-conic-gradient(#F5D6B4,25%,#F09462 0 50%",
+      "files": {
+        "solution": "battle-02-visibility/target-018-matrix/solution.html",
+        "reference": "battle-02-visibility/target-018-matrix/reference.png",
+        "rendered": "battle-02-visibility/target-018-matrix/rendered.png"
+      },
+      "scoreNowCharacters": 143,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 19,
+      "battleId": 3,
+      "targetName": "Cube",
+      "submissionId": "eJ8f2WnKtnCjfyjRrjEx",
+      "scoreThen": 696.67,
+      "scoreNow": 696.67,
+      "match": 100,
+      "codeSize": 149,
+      "lastUpdated": "2022-04-04T21:36:53.376Z",
+      "solution": "<body bgcolor=0B2429 style=margin:-97+59+45;border:solid+47vh;border-color:0#4984#F3AC3C#998235;clip-pat\\68:path('m141,141,71,70v71l-71,71-70-70v-72>",
+      "files": {
+        "solution": "battle-03-cursor/target-019-cube/solution.html",
+        "reference": "battle-03-cursor/target-019-cube/reference.png",
+        "rendered": "battle-03-cursor/target-019-cube/rendered.png"
+      },
+      "scoreNowCharacters": 149,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 20,
+      "battleId": 3,
+      "targetName": "Ticket",
+      "submissionId": "0lIbDeI8LK97MKqBNstR",
+      "scoreThen": 672.63,
+      "scoreNow": 672.63,
+      "match": 100,
+      "codeSize": 179,
+      "lastUpdated": "2021-11-18T09:43:15.134Z",
+      "solution": "<style>*{margin:100;border-image:radial-gradient(#62306D 71%,#0000 0)100%fill/43q/5vw}*+*{zoom:.5;margin:0 30%0 0;background:conic-gradient(at 70%99in,#E38F66,#F7EC7D)space#62306d",
+      "files": {
+        "solution": "battle-03-cursor/target-020-ticket/solution.html",
+        "reference": "battle-03-cursor/target-020-ticket/reference.png",
+        "rendered": "battle-03-cursor/target-020-ticket/rendered.png"
+      },
+      "scoreNowCharacters": 179,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 21,
+      "battleId": 4,
+      "targetName": "SitePoint Logo",
+      "submissionId": "dKBmqwLN3iH7PjQ6rVrO",
+      "scoreThen": 662.36,
+      "scoreNow": 662.36,
+      "match": 100,
+      "codeSize": 195,
+      "lastUpdated": "2021-11-06T22:56:54.416Z",
+      "solution": "<p><style>p{offset:path('M40 85')90deg;border-radius:9q 0;--:-55q -53q}*>*{height:80;width:30;color:2D9CDB;background:#f2994a;box-shadow:var(--,106q 40q,0 0 0 3in#222);offset:path('M169 93')45deg",
+      "files": {
+        "solution": "battle-04-display/target-021-sitepoint-logo/solution.html",
+        "reference": "battle-04-display/target-021-sitepoint-logo/reference.png",
+        "rendered": "battle-04-display/target-021-sitepoint-logo/rendered.png"
+      },
+      "scoreNowCharacters": 195,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 22,
+      "battleId": 4,
+      "targetName": "Cloud",
+      "submissionId": "u4msX67ENv3Hz6c9bJgS",
+      "scoreThen": 710.47,
+      "scoreNow": 710.47,
+      "match": 100,
+      "codeSize": 135,
+      "lastUpdated": "2022-04-04T19:06:24.990Z",
+      "solution": "<style>*{background:#F5D6B4}*>*{background:#D86F45;clip-pat\\68:path('M136 207h134a1 1 0 0 0-7-50c41-68-65-120-90-39c-68-47-124 67-37 89",
+      "files": {
+        "solution": "battle-04-display/target-022-cloud/solution.html",
+        "reference": "battle-04-display/target-022-cloud/reference.png",
+        "rendered": "battle-04-display/target-022-cloud/rendered.png"
+      },
+      "scoreNowCharacters": 135,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 23,
+      "battleId": 4,
+      "targetName": "Boxception",
+      "submissionId": "6NGJMGfgBjbMDtT146nO",
+      "scoreThen": 751.31,
+      "scoreNow": 751.31,
+      "match": 100,
+      "codeSize": 102,
+      "lastUpdated": "2021-09-06T09:03:51.479Z",
+      "solution": "<style>*{color:F3AC3C;zoom:5;box-shadow:-1px 1px 0 1px,-2px 0 0 2px#998235,0-2px 0 4px#1A4341,0 0 0 9q",
+      "files": {
+        "solution": "battle-04-display/target-023-boxception/solution.html",
+        "reference": "battle-04-display/target-023-boxception/reference.png",
+        "rendered": "battle-04-display/target-023-boxception/rendered.png"
+      },
+      "scoreNowCharacters": 102,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 24,
+      "battleId": 4,
+      "targetName": "Switches",
+      "submissionId": "M76rniE8TSbTheSm9YXe",
+      "scoreThen": 674.74,
+      "scoreNow": 34.41,
+      "match": 100,
+      "codeSize": 176,
+      "lastUpdated": "2021-10-26T18:24:36.692Z",
+      "solution": "<p><p i><style>p{padding:75 50;margin:50 250 0 72;background:#f7ec7d;box-shadow:inset 0 var(--,53q#aa445f,0 0 0 9in#62306d);border-radius:1in}[i]{margin:-100 212;--:-53q#e38f66",
+      "files": {
+        "solution": "battle-04-display/target-024-switches/solution.html",
+        "reference": "battle-04-display/target-024-switches/reference.png",
+        "rendered": "battle-04-display/target-024-switches/rendered.png"
+      },
+      "scoreNowCharacters": 176,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 25,
+      "battleId": 4,
+      "targetName": "Blossom",
+      "submissionId": "eii1WrGXpW8P2Yplaqz7",
+      "scoreThen": 646.85,
+      "scoreNow": 1.44,
+      "match": 100,
+      "codeSize": 225,
+      "lastUpdated": "2021-09-06T09:09:14.416Z",
+      "solution": "<a><b><c><d><style>*{background:var(--,#998235);position:fixed;width:80;height:100;border-radius:0 51q}a,b{margin:52 102;--:#1A4341}b,c{margin:80 100;border-radius:51q 0}c,d{margin:-80 0;height:60;--:#F3AC3C}d{margin:120 -100",
+      "files": {
+        "solution": "battle-04-display/target-025-blossom/solution.html",
+        "reference": "battle-04-display/target-025-blossom/reference.png",
+        "rendered": "battle-04-display/target-025-blossom/rendered.png"
+      },
+      "scoreNowCharacters": 225,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 26,
+      "battleId": 4,
+      "targetName": "Smiley",
+      "submissionId": "T8sdzhOOi5WKM0X4cQk3",
+      "scoreThen": 712.6,
+      "scoreNow": 2.21,
+      "match": 100,
+      "codeSize": 133,
+      "lastUpdated": "2021-10-24T21:55:10.124Z",
+      "solution": "<style>*>*{--:0;--r:0 48vw}*{background:radial-gradient(1q at 50%var(--,100%),#0000 42q,#060F55 0 63q,#0000)var(--r,0 25vw/50%#6592CF",
+      "files": {
+        "solution": "battle-04-display/target-026-smiley/solution.html",
+        "reference": "battle-04-display/target-026-smiley/reference.png",
+        "rendered": "battle-04-display/target-026-smiley/rendered.png"
+      },
+      "scoreNowCharacters": 133,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 27,
+      "battleId": 4,
+      "targetName": "Lock Up",
+      "submissionId": "MsUEo8tQbNXO39QdmZRg",
+      "scoreThen": 708.39,
+      "scoreNow": 708.39,
+      "match": 100,
+      "codeSize": 137,
+      "lastUpdated": "2021-10-25T18:31:04.053Z",
+      "solution": "<style>*{background:radial-gradient(1q,#AA445F 5ch,#0000 0 74q,#AA445F 0 25vw,#E38F66),repeating-conic-gradient(#F7EC7D,25%,#AA445F 0 50%",
+      "files": {
+        "solution": "battle-04-display/target-027-lock-up/solution.html",
+        "reference": "battle-04-display/target-027-lock-up/reference.png",
+        "rendered": "battle-04-display/target-027-lock-up/rendered.png"
+      },
+      "scoreNowCharacters": 137,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 28,
+      "battleId": 4,
+      "targetName": "Cups & Balls",
+      "submissionId": "y0LTIJ1mmSoONs76niZN",
+      "scoreThen": 660.03,
+      "scoreNow": 465.73,
+      "match": 100,
+      "codeSize": 199,
+      "lastUpdated": "2022-06-21T11:57:09.502Z",
+      "solution": "<a><a b c><a c><a b><a b d><a><a b><a d><style>a{--x:#EA39;float:left;margin:32 8-12 12;border-radius:50%50%3ch 3ch}[b]{--x:#F3AC3C}[c]{font:0%a}[d]{font:2in a}*{padding:25;background:var(--x,#1A443F",
+      "files": {
+        "solution": "battle-04-display/target-028-cups-balls/solution.html",
+        "reference": "battle-04-display/target-028-cups-balls/reference.png",
+        "rendered": "battle-04-display/target-028-cups-balls/rendered.png"
+      },
+      "scoreNowCharacters": 199,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 29,
+      "battleId": 5,
+      "targetName": "Suffocate",
+      "submissionId": "FJp4UnTDKJLgUfSNalBO",
+      "scoreThen": 708.39,
+      "scoreNow": 708.39,
+      "match": 100,
+      "codeSize": 137,
+      "lastUpdated": "2021-10-04T20:57:54.384Z",
+      "solution": "<style>*{background:#F3AC3C}*>*{margin:50 100;background:#1A4341;border-image:radial-gradient(#F3AC3C 70.3%,#0000 71%0)100%fill/50vw/25vw",
+      "files": {
+        "solution": "battle-05-inline/target-029-suffocate/solution.html",
+        "reference": "battle-05-inline/target-029-suffocate/reference.png",
+        "rendered": "battle-05-inline/target-029-suffocate/rendered.png"
+      },
+      "scoreNowCharacters": 137,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 30,
+      "battleId": 5,
+      "targetName": "Horizon",
+      "submissionId": "sgcNoCO3ytGkK24KeJtp",
+      "scoreThen": 771.26,
+      "scoreNow": 771.26,
+      "match": 100,
+      "codeSize": 89,
+      "lastUpdated": "2021-07-16T15:29:13.498Z",
+      "solution": "<style>*>*{background:linear-gradient(#F7EC7D 53q,#E38F66 0 106q,#AA445F 0 212q,#62306D 0",
+      "files": {
+        "solution": "battle-05-inline/target-030-horizon/solution.html",
+        "reference": "battle-05-inline/target-030-horizon/reference.png",
+        "rendered": "battle-05-inline/target-030-horizon/rendered.png"
+      },
+      "scoreNowCharacters": 89,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 31,
+      "battleId": 6,
+      "targetName": "Equals",
+      "submissionId": "BF7UkGCVvXkfqxq2Akd2",
+      "scoreThen": 754.22,
+      "scoreNow": 754.22,
+      "match": 100,
+      "codeSize": 100,
+      "lastUpdated": "2021-10-15T22:31:17.349Z",
+      "solution": "◖<c>◗<style>c{color:E38F66;margin:-169}*+*{background:#aa445f;margin:-6 63.7;color:F7EC7D;font:292q'",
+      "files": {
+        "solution": "battle-06-conic/target-031-equals/solution.html",
+        "reference": "battle-06-conic/target-031-equals/reference.png",
+        "rendered": "battle-06-conic/target-031-equals/rendered.png"
+      },
+      "scoreNowCharacters": 100,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 32,
+      "battleId": 6,
+      "targetName": "Band-aid",
+      "submissionId": "uS9q6i3crxwM0RJVts2S",
+      "scoreThen": 687.89,
+      "scoreNow": 321.74,
+      "match": 100,
+      "codeSize": 159,
+      "lastUpdated": "2021-10-29T21:55:17.652Z",
+      "solution": "<style>*{--:#F3AC3C;margin:125 100;background:linear-gradient(var(--)79q,#fbe18c 0,132q,var(--)0)space}*>*{margin:-75 75;--:#A3A368}html{transform:rotate(45deg",
+      "files": {
+        "solution": "battle-06-conic/target-032-band-aid/solution.html",
+        "reference": "battle-06-conic/target-032-band-aid/reference.png",
+        "rendered": "battle-06-conic/target-032-band-aid/rendered.png"
+      },
+      "scoreNowCharacters": 159,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 33,
+      "battleId": 7,
+      "targetName": "Birdie",
+      "submissionId": "4t3FZiQ9BNHPfvsAc6jx",
+      "scoreThen": 670.59,
+      "scoreNow": 1.2,
+      "match": 100,
+      "codeSize": 182,
+      "lastUpdated": "2021-11-04T08:49:53.333Z",
+      "solution": "<style>*>*{margin:75 200 75 125;border-radius:1in 0 0 1in;--:,#0B2429,5vh,#998235;--p:8q -32q}*{background:radial-gradient(1q var(--,at 0%100%,#F3AC3C,25vw,#1A4341))var(--p,50vw 50vh",
+      "files": {
+        "solution": "battle-07-backface/target-033-birdie/solution.html",
+        "reference": "battle-07-backface/target-033-birdie/reference.png",
+        "rendered": "battle-07-backface/target-033-birdie/rendered.png"
+      },
+      "scoreNowCharacters": 182,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 34,
+      "battleId": 7,
+      "targetName": "Christmas Tree",
+      "submissionId": "sH8RnuQvFpkPdxLHRc0c",
+      "scoreThen": 729.91,
+      "scoreNow": 597.96,
+      "match": 100,
+      "codeSize": 118,
+      "lastUpdated": "2021-10-06T22:34:30.920Z",
+      "solution": "▲<style>*{background:#007065;color:FEC;text-shadow:0 5q#F5C181,0 10q#00A79D;transform:matrix(5.17,0,0,3.27,797.4,320.4",
+      "files": {
+        "solution": "battle-07-backface/target-034-christmas-tree/solution.html",
+        "reference": "battle-07-backface/target-034-christmas-tree/reference.png",
+        "rendered": "battle-07-backface/target-034-christmas-tree/rendered.png"
+      },
+      "scoreNowCharacters": 118,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 35,
+      "battleId": 7,
+      "targetName": "Ice Cream",
+      "submissionId": "wFxhWTd0zeIHXTQ0pY7n",
+      "scoreThen": 658.33,
+      "scoreNow": 1.2,
+      "match": 100,
+      "codeSize": 202,
+      "lastUpdated": "2021-11-02T22:56:00.275Z",
+      "solution": "<p><style>*+*{margin:50 150 100;--:#fff1c1}p{position:fixed;--:linear-gradient(#a64942,11q,#fe5f55 0);inset:195q 196q 36q;--r:0 0 9q 9q}*{background:var(--,#293462);border-radius:var(--r,1in 1in 42q 42q",
+      "files": {
+        "solution": "battle-07-backface/target-035-ice-cream/solution.html",
+        "reference": "battle-07-backface/target-035-ice-cream/reference.png",
+        "rendered": "battle-07-backface/target-035-ice-cream/rendered.png"
+      },
+      "scoreNowCharacters": 202,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 36,
+      "battleId": 7,
+      "targetName": "Interleaved",
+      "submissionId": "R08sUx8rhj1RUe2wD9JT",
+      "scoreThen": 700.43,
+      "scoreNow": 700.43,
+      "match": 100,
+      "codeSize": 145,
+      "lastUpdated": "2021-11-01T22:51:11.269Z",
+      "solution": "<style>*>*{margin:25%400-30-50;border-radius:30q;color:F3AC3C;box-shadow:79q 0,238q 0,397q 0,158q -138q#998235,317q -138q#998235,0 0 0 5in#1a4341",
+      "files": {
+        "solution": "battle-07-backface/target-036-interleaved/solution.html",
+        "reference": "battle-07-backface/target-036-interleaved/reference.png",
+        "rendered": "battle-07-backface/target-036-interleaved/rendered.png"
+      },
+      "scoreNowCharacters": 145,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 37,
+      "battleId": 7,
+      "targetName": "Tunnel",
+      "submissionId": "aZOsJFfxVGFu8AAWrmtf",
+      "scoreThen": 705.33,
+      "scoreNow": 325.78,
+      "match": 100,
+      "codeSize": 140,
+      "lastUpdated": "2021-11-05T14:55:21.797Z",
+      "solution": "<dl><p><style>*,dl{background:#6592CF}*+*{margin:25 75}p{--:.5}*>*{background:#243D83;height:250}dl,p{transform:rotate(15deg)scale(var(--,.6",
+      "files": {
+        "solution": "battle-07-backface/target-037-tunnel/solution.html",
+        "reference": "battle-07-backface/target-037-tunnel/reference.png",
+        "rendered": "battle-07-backface/target-037-tunnel/rendered.png"
+      },
+      "scoreNowCharacters": 140,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 38,
+      "battleId": 7,
+      "targetName": "Not Simply Square",
+      "submissionId": "gZbjgioM1T4ZpNh7XxGO",
+      "scoreThen": 731.15,
+      "scoreNow": 731.15,
+      "match": 100,
+      "codeSize": 117,
+      "lastUpdated": "2021-07-28T11:24:35.891Z",
+      "solution": "<body bgcolor=FFF1C text=293462 style=margin:0%50%25%0;zoom:52.92;box-shadow:6q+0,4q+4q,3q+3q#A64942,0+0+0+2q#FE5F55>",
+      "files": {
+        "solution": "battle-07-backface/target-038-not-simply-square/solution.html",
+        "reference": "battle-07-backface/target-038-not-simply-square/reference.png",
+        "rendered": "battle-07-backface/target-038-not-simply-square/rendered.png"
+      },
+      "scoreNowCharacters": 117,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 39,
+      "battleId": 7,
+      "targetName": "Sunset",
+      "submissionId": "HdLy2PRvvRHRae1MPePN",
+      "scoreThen": 688.73,
+      "scoreNow": 688.73,
+      "match": 100,
+      "codeSize": 158,
+      "lastUpdated": "2021-11-17T09:59:20.545Z",
+      "solution": "<style>*{background:radial-gradient(1q,#998235,25vw,#1A4341)}*>*{background:linear-gradient(#F3AC3C 50%,#1A4341 0)0 5vw/1%5ch;margin:80 0;clip-path:circle(42%",
+      "files": {
+        "solution": "battle-07-backface/target-039-sunset/solution.html",
+        "reference": "battle-07-backface/target-039-sunset/reference.png",
+        "rendered": "battle-07-backface/target-039-sunset/rendered.png"
+      },
+      "scoreNowCharacters": 158,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 40,
+      "battleId": 7,
+      "targetName": "Letter B",
+      "submissionId": "Dt9yxg5tRJqzBWBPyPXT",
+      "scoreThen": 713.68,
+      "scoreNow": 1.71,
+      "match": 100,
+      "codeSize": 132,
+      "lastUpdated": "2021-11-02T10:34:06.044Z",
+      "solution": "<style>*{--:#6592CF,50%,#243D83 0 100%,#6592CF;background:conic-gradient(var(--))97q 22%/26%33%no-repeat,radial-gradient(25vw,var(--",
+      "files": {
+        "solution": "battle-07-backface/target-040-letter-b/solution.html",
+        "reference": "battle-07-backface/target-040-letter-b/reference.png",
+        "rendered": "battle-07-backface/target-040-letter-b/rendered.png"
+      },
+      "scoreNowCharacters": 132,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 41,
+      "battleId": 7,
+      "targetName": "Fox Head",
+      "submissionId": "x8JBxAgEbJAnlZkEK1eg",
+      "scoreThen": 693.95,
+      "scoreNow": 597.89,
+      "match": 100,
+      "codeSize": 152,
+      "lastUpdated": "2022-01-05T23:48:14.260Z",
+      "solution": "<body bgcolor=293462 text=293462 style=margin:20%150+0+200;border-radius:42q+0;box-shadow:inset+0+4ch#FE5F55;-webkit-box-reflect:left;font:53q/2.95'>  ⬤",
+      "files": {
+        "solution": "battle-07-backface/target-041-fox-head/solution.html",
+        "reference": "battle-07-backface/target-041-fox-head/reference.png",
+        "rendered": "battle-07-backface/target-041-fox-head/rendered.png"
+      },
+      "scoreNowCharacters": 152,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 42,
+      "battleId": 8,
+      "targetName": "Baby",
+      "submissionId": "eHJ6V4PfgJHrjFL66k3d",
+      "scoreThen": 640.61,
+      "scoreNow": 179.72,
+      "match": 100,
+      "codeSize": 240,
+      "lastUpdated": "2021-11-03T08:39:09.688Z",
+      "solution": "<a><style>*{background:var(--b,#293462)}*+*{--:radial-gradient(circle,#FFF1C1 25%,#0000 0)0;margin:50 100;--b:var(--)10q/25vw 55vw,var(--)-64vh/25vw 96vw#fe5f55;border-radius:50%50%25%25%}a{position:fixed;border-radius:1in;inset:55vw 45%74q",
+      "files": {
+        "solution": "battle-08-transition/target-042-baby/solution.html",
+        "reference": "battle-08-transition/target-042-baby/reference.png",
+        "rendered": "battle-08-transition/target-042-baby/rendered.png"
+      },
+      "scoreNowCharacters": 240,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 43,
+      "battleId": 8,
+      "targetName": "Wrench",
+      "submissionId": "M7YFJjsUfnshLhK1WZhu",
+      "scoreThen": 697.6,
+      "scoreNow": 697.6,
+      "match": 100,
+      "codeSize": 148,
+      "lastUpdated": "2021-10-26T19:45:24.622Z",
+      "solution": "<style>*>*{background:#6592cf;margin:30 185 7%0;border-radius:74q;border:32q solid#243d83;-webkit-box-reflect:right -30px;clip-path:inset(0-19%0%67%",
+      "files": {
+        "solution": "battle-08-transition/target-043-wrench/solution.html",
+        "reference": "battle-08-transition/target-043-wrench/reference.png",
+        "rendered": "battle-08-transition/target-043-wrench/rendered.png"
+      },
+      "scoreNowCharacters": 148,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 44,
+      "battleId": 8,
+      "targetName": "Stripes",
+      "submissionId": "xfcpmqYhbU8XA5ysLphY",
+      "scoreThen": 726.24,
+      "scoreNow": 726.24,
+      "match": 100,
+      "codeSize": 121,
+      "lastUpdated": "2021-11-22T17:35:04.485Z",
+      "solution": "<p>.<p>.<p>.<p>.<p>.<style>*{background:radial-gradient(1q,#1A4341,134em,#F3AC3C)fixed 212q}p{margin:60 0-40;font:7%/5vw'",
+      "files": {
+        "solution": "battle-08-transition/target-044-stripes/solution.html",
+        "reference": "battle-08-transition/target-044-stripes/reference.png",
+        "rendered": "battle-08-transition/target-044-stripes/rendered.png"
+      },
+      "scoreNowCharacters": 121,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 45,
+      "battleId": 9,
+      "targetName": "Magical Tree",
+      "submissionId": "ZGqRTW4aYtJPxCqre3Qd",
+      "scoreThen": 678.39,
+      "scoreNow": 678.39,
+      "match": 100,
+      "codeSize": 171,
+      "lastUpdated": "2021-10-26T19:55:58.940Z",
+      "solution": "<body bgcolor=F3AC3C text=1A434 style=margin:-78+185;box-shadow:0-3in+0+32q,0-3in+0+64q#998235,0-3in+0+95q,0-3in+0+30vw#F3AC3C,0-3in+0+50vh,0-76vh+0+30vw#998235,0+0+0+5in>",
+      "files": {
+        "solution": "battle-09-margin/target-045-magical-tree/solution.html",
+        "reference": "battle-09-margin/target-045-magical-tree/reference.png",
+        "rendered": "battle-09-margin/target-045-magical-tree/rendered.png"
+      },
+      "scoreNowCharacters": 171,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 46,
+      "battleId": 9,
+      "targetName": "Mountains",
+      "submissionId": "jzs5iRlniQAfJ9UprzwX",
+      "scoreThen": 700.43,
+      "scoreNow": 477.85,
+      "match": 100,
+      "codeSize": 145,
+      "lastUpdated": "2022-07-05T12:14:45.780Z",
+      "solution": "◆<style>*{background:#293462}*+*{background:#FFF1C1;color:FE5F55;padding:31 42;clip-path:circle(25vw at 50%142px);text-shadow:-119q 75q;font:4in'",
+      "files": {
+        "solution": "battle-09-margin/target-046-mountains/solution.html",
+        "reference": "battle-09-margin/target-046-mountains/reference.png",
+        "rendered": "battle-09-margin/target-046-mountains/rendered.png"
+      },
+      "scoreNowCharacters": 145,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 47,
+      "battleId": 10,
+      "targetName": "Corona Virus",
+      "submissionId": "p493PzbaO2Wz2h0pyRVf",
+      "scoreThen": 629.93,
+      "scoreNow": 17.91,
+      "match": 100,
+      "codeSize": 272,
+      "lastUpdated": "2021-10-22T12:38:59.773Z",
+      "solution": "<b><c><d><style>*{background:var(--,#1A4341);position:fixed}*>*{width:10;height:180;--:#F3AC3C;border-radius:1in;margin:50 195}d{height:10;color:998235;margin:111 -40;box-shadow:6q -26q,65q -7vw 0 5q,36q 5q 0 10q,42q -16q 0 48q#F3AC3C}b,c{margin:5 9;transform:rotate(60deg",
+      "files": {
+        "solution": "battle-10-block/target-047-corona-virus/solution.html",
+        "reference": "battle-10-block/target-047-corona-virus/reference.png",
+        "rendered": "battle-10-block/target-047-corona-virus/rendered.png"
+      },
+      "scoreNowCharacters": 272,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 48,
+      "battleId": 10,
+      "targetName": "Wash Your Hands",
+      "submissionId": "TX5prBfafdi5gSD5BhZ6",
+      "scoreThen": 698.53,
+      "scoreNow": 9.2,
+      "match": 100,
+      "codeSize": 147,
+      "lastUpdated": "2021-10-06T12:36:32.615Z",
+      "solution": "<p><style>*{border-radius:21q;background:var(--,#293462)}*+*{margin:90 100 110;--:#FE5F55;box-shadow:0 21q#A64942;padding:30}p{height:40;--:#A64942",
+      "files": {
+        "solution": "battle-10-block/target-048-wash-your-hands/solution.html",
+        "reference": "battle-10-block/target-048-wash-your-hands/reference.png",
+        "rendered": "battle-10-block/target-048-wash-your-hands/rendered.png"
+      },
+      "scoreNowCharacters": 147,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 49,
+      "battleId": 10,
+      "targetName": "Stay at Home",
+      "submissionId": "KSQVmDN5FN5nOCgRwM7s",
+      "scoreThen": 636.57,
+      "scoreNow": 0.94,
+      "match": 100,
+      "codeSize": 251,
+      "lastUpdated": "2021-10-07T06:49:04.080Z",
+      "solution": "<p i><p><p j><style>*{background:var(--,#6592cf)}p{position:fixed;inset:137q 159q;--:#eeb850;border-radius:11q}[i]{--:#243d83;inset:35q 132q}[j]{inset:195q 185q 0}body{margin:50 100 150;--:#243d83;clip-path:polygon(50%0,0%100%,0%200%,100%200%,100%100%",
+      "files": {
+        "solution": "battle-10-block/target-049-stay-at-home/solution.html",
+        "reference": "battle-10-block/target-049-stay-at-home/reference.png",
+        "rendered": "battle-10-block/target-049-stay-at-home/rendered.png"
+      },
+      "scoreNowCharacters": 251,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 50,
+      "battleId": 10,
+      "targetName": "Use Hand Sanitizer",
+      "submissionId": "CZc3naOXEx5FIBQEhqKv",
+      "scoreThen": 610.2,
+      "scoreNow": 483.37,
+      "match": 100,
+      "codeSize": 385,
+      "lastUpdated": "2021-10-07T14:44:46.220Z",
+      "solution": "<p><p i><p j><p l><p k><style>p{position:fixed;inset:var(--,36q 106q 226q 159q);--b:#f3ac3c}[i]{--:78q 185q 4cm;--r:10q}[j]{--:47q 201q 3cm}[l]{--:1cm 106q 205q 296q}[k]{--r:50%;color:998235;--:131q 159q 94px 212q;box-shadow:-53q 0,69q -58q 0 -16q,69q -26q 0 -16q}*{background:var(--b,#1a4341);border-radius:var(--r,21q)}body{margin:110 150 50;--b:linear-gradient(#f3ac3c 40%,#998235 0",
+      "files": {
+        "solution": "battle-10-block/target-050-use-hand-sanitizer/solution.html",
+        "reference": "battle-10-block/target-050-use-hand-sanitizer/reference.png",
+        "rendered": "battle-10-block/target-050-use-hand-sanitizer/rendered.png"
+      },
+      "scoreNowCharacters": 385,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 51,
+      "battleId": 10,
+      "targetName": "Wear a Mask",
+      "submissionId": "hwcPoQLUgIbRRsQCeyb0",
+      "scoreThen": 627.21,
+      "scoreNow": 25.15,
+      "match": 100,
+      "codeSize": 282,
+      "lastUpdated": "2021-10-07T11:30:38.137Z",
+      "solution": "<a><b><c><d><style>*{background:var(--,#293462);position:fixed}*>*{border-radius:5vw;box-shadow:0 0 0 11q#FFF1C1;inset:116q 79q 50vh}b{--:#FFF1C1;inset:116q 143q;border-radius:0 0 42q 42q}c,d{--:#FE5F55;inset:30vw 228q 180q 153q}c{box-shadow:0 5vw#FE5F55}d{inset:148q 153q 30vw 228q",
+      "files": {
+        "solution": "battle-10-block/target-051-wear-a-mask/solution.html",
+        "reference": "battle-10-block/target-051-wear-a-mask/reference.png",
+        "rendered": "battle-10-block/target-051-wear-a-mask/rendered.png"
+      },
+      "scoreNowCharacters": 282,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 52,
+      "battleId": 10,
+      "targetName": "Break the Chain",
+      "submissionId": "gdCsnCxiLGovaOD9mGto",
+      "scoreThen": 643.41,
+      "scoreNow": 643.41,
+      "match": 100,
+      "codeSize": 233,
+      "lastUpdated": "2022-06-21T11:56:51.701Z",
+      "solution": "<style>*{margin:130 421 155-41;color:243D83;border-radius:5em;box-shadow:27vh 0,42vh 0,57vh 0,260q 0,308q 0,355q 0,403q 0,27vh.0.0.6em#EEB850,57vh.0.0.6em#EEB850,42vh -.63em 0 2.45ch#EEB850,0 0 0 30em#6592CF}*>*{margin:5 5-45;font:0'",
+      "files": {
+        "solution": "battle-10-block/target-052-break-the-chain/solution.html",
+        "reference": "battle-10-block/target-052-break-the-chain/reference.png",
+        "rendered": "battle-10-block/target-052-break-the-chain/rendered.png"
+      },
+      "scoreNowCharacters": 233,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 53,
+      "battleId": 11,
+      "targetName": "Pastel Logo",
+      "submissionId": "6FBIYRwpEFJEBmDvvB9x",
+      "scoreThen": 713.68,
+      "scoreNow": 1.47,
+      "match": 100,
+      "codeSize": 132,
+      "lastUpdated": "2021-11-15T15:19:08.887Z",
+      "solution": "<style>*{background:radial-gradient(1q at var(--,50%132q,#25fc,75px,#19191A)0)}*>*{margin:125 50%50 125;--:100%0,#9ad5ff,79q,#f9e492",
+      "files": {
+        "solution": "battle-11-overflow/target-053-pastel-logo/solution.html",
+        "reference": "battle-11-overflow/target-053-pastel-logo/reference.png",
+        "rendered": "battle-11-overflow/target-053-pastel-logo/rendered.png"
+      },
+      "scoreNowCharacters": 132,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 54,
+      "battleId": 11,
+      "targetName": "Black Lives Matter",
+      "submissionId": "UeKKRyIRuxRfxoWPTvRi",
+      "scoreThen": 611.99,
+      "scoreNow": 375.35,
+      "match": 100,
+      "codeSize": 368,
+      "lastUpdated": "2021-08-03T15:06:19.292Z",
+      "solution": "<a><b><c><d><e><f><style>*{background:#F9E492;position:fixed}*>*{background:#191919;margin:var(--,69 75);height:var(--h,40)}a{width:100;border-radius:0 0 8pt 8pt}a *{width:50;--h:60;--:25;border-radius:8pt}b *{width:20;--h:45;--:-75-20}c{box-shadow:50px 0#191919}d{--h:55;--:-10 25}e{--h:35;--:20 50}f{--h:65;box-shadow:0 0 0 5px#F9E492;--:12-73;transform:rotate(60deg",
+      "files": {
+        "solution": "battle-11-overflow/target-054-black-lives-matter/solution.html",
+        "reference": "battle-11-overflow/target-054-black-lives-matter/reference.png",
+        "rendered": "battle-11-overflow/target-054-black-lives-matter/rendered.png"
+      },
+      "scoreNowCharacters": 368,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 55,
+      "battleId": 11,
+      "targetName": "Windmill",
+      "submissionId": "bESZX5hbe9bWnkwKCNbe",
+      "scoreThen": 690.43,
+      "scoreNow": 2.21,
+      "match": 100,
+      "codeSize": 156,
+      "lastUpdated": "2021-07-28T11:23:00.222Z",
+      "solution": "<img><i><img><style>*+*{margin:50 100;--:259%0/4in 50%#4F77FF}img{padding:50;--:0/25%fixed#F9E492}*{background:var(--, )radial-gradient(1q,#0000,53q,#191919",
+      "files": {
+        "solution": "battle-11-overflow/target-055-windmill/solution.html",
+        "reference": "battle-11-overflow/target-055-windmill/reference.png",
+        "rendered": "battle-11-overflow/target-055-windmill/rendered.png"
+      },
+      "scoreNowCharacters": 156,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 56,
+      "battleId": 11,
+      "targetName": "Skull",
+      "submissionId": "flryUaLRQmFsbdwyTv1S",
+      "scoreThen": 619.13,
+      "scoreNow": 561.54,
+      "match": 100,
+      "codeSize": 319,
+      "lastUpdated": "2021-10-27T09:34:24.887Z",
+      "solution": "<a><b><c><d><style>*{background:#191919;position:fixed;color:191919;border-radius:var(--,84q 84q 1pc 1pc)}a,b{padding:50 60;background:#4F77FF;margin:77 132}b,d{margin:30-40;padding:25 40;--:5vw}c{padding:10;margin:-14-10;box-shadow:25px -7vw 0 10px,-25px -7vw 0 10px}d{padding:10 5;margin:19-20;box-shadow:5vh 0,30px 0",
+      "files": {
+        "solution": "battle-11-overflow/target-056-skull/solution.html",
+        "reference": "battle-11-overflow/target-056-skull/reference.png",
+        "rendered": "battle-11-overflow/target-056-skull/rendered.png"
+      },
+      "scoreNowCharacters": 319,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 57,
+      "battleId": 11,
+      "targetName": "Pillars",
+      "submissionId": "BJtCB276xp70R0Ql1XjO",
+      "scoreThen": 646.85,
+      "scoreNow": 447.67,
+      "match": 100,
+      "codeSize": 225,
+      "lastUpdated": "2021-11-05T23:01:12.272Z",
+      "solution": "<dl><p><style>*+*{margin:95 145}*>*{--b:#4F77FF;border-image:radial-gradient(var(--,#191919)71%,#0000 0)100%fill/var(--w,64q)/5vw}dl,p{height:100%;--b:#0000;--:#F9E492;--w:48q}p{--:#4F77FF;--w:32q}*{background:var(--b,#191919",
+      "files": {
+        "solution": "battle-11-overflow/target-057-pillars/solution.html",
+        "reference": "battle-11-overflow/target-057-pillars/reference.png",
+        "rendered": "battle-11-overflow/target-057-pillars/rendered.png"
+      },
+      "scoreNowCharacters": 225,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 58,
+      "battleId": 11,
+      "targetName": "Rose",
+      "submissionId": "z1J91BBSc9GSU497ANx3",
+      "scoreThen": 622.92,
+      "scoreNow": 445.52,
+      "match": 100,
+      "codeSize": 300,
+      "lastUpdated": "2021-10-26T22:10:10.113Z",
+      "solution": "<a><b><c><d><e><f><style>*>*{--b:#F9E492;inset:var(--,47q 201q)}b{--:151q 60vh 122q}b *{--b:#4F77FF;--:67q 50vh 45vh}c *{--:90q 138q 196q;box-shadow:0 0 0 10q#191919;--r:9q 9q 52q 52q}e{--:69q 50vh 217q}f{--:48q 196q 238q;--r:50%}*{background:var(--b,#191919);position:fixed;border-radius:var(--r,1in",
+      "files": {
+        "solution": "battle-11-overflow/target-058-rose/solution.html",
+        "reference": "battle-11-overflow/target-058-rose/reference.png",
+        "rendered": "battle-11-overflow/target-058-rose/rendered.png"
+      },
+      "scoreNowCharacters": 300,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 59,
+      "battleId": 11,
+      "targetName": "Earth",
+      "submissionId": "7TlPJpgqMjHCbgH0d0C3",
+      "scoreThen": 654.57,
+      "scoreNow": 2.94,
+      "match": 100,
+      "codeSize": 209,
+      "lastUpdated": "2021-11-09T23:55:04.347Z",
+      "solution": "<style>*{--:radial-gradient(1q,#0000,99q,#191919 0 26vw,#0000);background:var(--)62q,var(--)344q,radial-gradient(1q,#0000,79q,#191919),repeating-linear-gradient(#4F77FF,32q,#0000 0 5ch)space 0/48.7%329q#191919",
+      "files": {
+        "solution": "battle-11-overflow/target-059-earth/solution.html",
+        "reference": "battle-11-overflow/target-059-earth/reference.png",
+        "rendered": "battle-11-overflow/target-059-earth/rendered.png"
+      },
+      "scoreNowCharacters": 209,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 60,
+      "battleId": 11,
+      "targetName": "Evil Triangles",
+      "submissionId": "RyIKJSVURwKAnE4c2jSz",
+      "scoreThen": 755.69,
+      "scoreNow": 598,
+      "match": 100,
+      "codeSize": 99,
+      "lastUpdated": "2021-10-04T15:00:44.059Z",
+      "solution": "<body bgcolor=191919 style=margin:77+93;letter-spacing:-14;font:68q/53q' text=4F77FF>◥◤◥◤ ◣◢◣◢ ◥◤◥◤",
+      "files": {
+        "solution": "battle-11-overflow/target-060-evil-triangles/solution.html",
+        "reference": "battle-11-overflow/target-060-evil-triangles/reference.png",
+        "rendered": "battle-11-overflow/target-060-evil-triangles/rendered.png"
+      },
+      "scoreNowCharacters": 99,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 61,
+      "battleId": 12,
+      "targetName": "ImprovMX",
+      "submissionId": "PM9oEpSj4TxPpEeHJmJD",
+      "scoreThen": 600.87,
+      "scoreNow": 522.88,
+      "match": 100,
+      "codeSize": 643,
+      "lastUpdated": "2021-09-06T11:46:38.974Z",
+      "solution": "<p a><p b><p c><p d><p e><p f><p x><style>body{background:#191919;margin:0;display:flex;justify-content:center;align-items:center;--:10px solid#5DBCF9}p{position:absolute;border:var(--);border-bottom:none}[a]{width:30px;height:5vw;top:50}[b]{width:80px;height:50px;top:80}[c],[d]{width:80;height:30;top:130;border:none;border-top:var(--)}[c]{transform:rotate(-30deg);left:126;border-left:var(--)}[d]{right:126;transform:rotate(30deg);border-right:var(--)}[e],[f]{background:#5DBCF9;border:10px solid#191919}[e]{width:50vw;height:10px;top:178}[f]{width:110px;height:10px;top:198}[x]{width:10px;height:58px;top:120;background:#5DBCF9;border:none",
+      "files": {
+        "solution": "battle-12-blend/target-061-improvmx/solution.html",
+        "reference": "battle-12-blend/target-061-improvmx/reference.png",
+        "rendered": "battle-12-blend/target-061-improvmx/rendered.png"
+      },
+      "scoreNowCharacters": 643,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 62,
+      "battleId": 12,
+      "targetName": "Sunset",
+      "submissionId": "99ZZQZk051XU0q7kHJ1V",
+      "scoreThen": 684.6,
+      "scoreNow": 684.6,
+      "match": 100,
+      "codeSize": 163,
+      "lastUpdated": "2021-07-21T09:56:25.027Z",
+      "solution": "<body bgcolor=191919 style=\"zoom:21;margin:.1.3;text-shadow:-7.5q 0#E08027,7.2Q -3Q#FFf58f,-4Q -6Q#F2AD43;clip-path:inset(11%6Q.57em ROUND 6Q 6Q 8%8%\"text=824B2>･⬤",
+      "files": {
+        "solution": "battle-12-blend/target-062-sunset/solution.html",
+        "reference": "battle-12-blend/target-062-sunset/reference.png",
+        "rendered": "battle-12-blend/target-062-sunset/rendered.png"
+      },
+      "scoreNowCharacters": 163,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 63,
+      "battleId": 12,
+      "targetName": "Command Key",
+      "submissionId": "Iw4xON1y4SCcFI4ZH6tG",
+      "scoreThen": 678.39,
+      "scoreNow": 678.39,
+      "match": 100,
+      "codeSize": 171,
+      "lastUpdated": "2021-11-10T22:49:36.026Z",
+      "solution": "<b><b><b><style>*+*{margin:-60}*>*{border-radius:50%50%0;--:'M120 0v1'}*{border:10px solid#5dbcf9;padding:25;background:#191919;position:fixed;offset:path(var(--,'M201 149",
+      "files": {
+        "solution": "battle-12-blend/target-063-command-key/solution.html",
+        "reference": "battle-12-blend/target-063-command-key/reference.png",
+        "rendered": "battle-12-blend/target-063-command-key/rendered.png"
+      },
+      "scoreNowCharacters": 171,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 64,
+      "battleId": 12,
+      "targetName": "Door Knob",
+      "submissionId": "iPJ6m7yj2j8rlmcAYYCs",
+      "scoreThen": 688.73,
+      "scoreNow": 2.21,
+      "match": 100,
+      "codeSize": 158,
+      "lastUpdated": "2021-10-20T15:43:10.484Z",
+      "solution": "<style>*>*{--:42q,#FFF58F 0 64q;clip-path:polygon(99%87%,63%46%,50%58%,37%46%,0%87%)}*{background:radial-gradient(1q,#E08027 var(--,53q),#824B20 0 85q,#191919",
+      "files": {
+        "solution": "battle-12-blend/target-064-door-knob/solution.html",
+        "reference": "battle-12-blend/target-064-door-knob/reference.png",
+        "rendered": "battle-12-blend/target-064-door-knob/rendered.png"
+      },
+      "scoreNowCharacters": 158,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 65,
+      "battleId": 12,
+      "targetName": "Max Volume",
+      "submissionId": "P9EMvK9Oi54npGXVYNGw",
+      "scoreThen": 624.98,
+      "scoreNow": 40.38,
+      "match": 100,
+      "codeSize": 291,
+      "lastUpdated": "2021-10-26T22:15:41.104Z",
+      "solution": "<style>*{--:53q/50%50vw no-repeat;background:radial-gradient(1q at 0,#0000 42q,#5DBCF9 0 53q,#0000 0 69q,#5DBCF9 0 79q,#0000 0 95q,#5DBCF9 0 25vw,#0000)75vh var(--),conic-gradient(from 45deg,#5DBCF9 25%,#0000 0)0 var(--)#191919}*>*{border-radius:10px;margin:125 240 125 75;background:#5DBCF9",
+      "files": {
+        "solution": "battle-12-blend/target-065-max-volume/solution.html",
+        "reference": "battle-12-blend/target-065-max-volume/reference.png",
+        "rendered": "battle-12-blend/target-065-max-volume/rendered.png"
+      },
+      "scoreNowCharacters": 291,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 66,
+      "battleId": 12,
+      "targetName": "Batmicky",
+      "submissionId": "T9SCxL6zBXkprUeHBAdB",
+      "scoreThen": 683,
+      "scoreNow": 683,
+      "match": 100,
+      "codeSize": 165,
+      "lastUpdated": "2022-04-23T10:58:13.191Z",
+      "solution": "<p><p><style>*+*{background:#191919;transform:scalex(-1)}p{outline:solid 9in#F2AD43;clip-pat\\68:path('m315 92q-49 5-48 61-50-4-75 19v-70h5c4-13 18 0 5 5v15h23l7-6V92",
+      "files": {
+        "solution": "battle-12-blend/target-066-batmicky/solution.html",
+        "reference": "battle-12-blend/target-066-batmicky/reference.png",
+        "rendered": "battle-12-blend/target-066-batmicky/rendered.png"
+      },
+      "scoreNowCharacters": 165,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 67,
+      "battleId": 12,
+      "targetName": "Video Reel",
+      "submissionId": "EbUzGjamc2gFOF4k1drr",
+      "scoreThen": 728.67,
+      "scoreNow": 2.22,
+      "match": 100,
+      "codeSize": 119,
+      "lastUpdated": "2021-11-22T00:38:42.029Z",
+      "solution": "<style>*>*{margin:0;--:205%80%}*{background:var(--,#5DBCF9 55%74q)/75%50%conic-gradient(at 46.7%73%,#0000 75%,#191919 0",
+      "files": {
+        "solution": "battle-12-blend/target-067-video-reel/solution.html",
+        "reference": "battle-12-blend/target-067-video-reel/reference.png",
+        "rendered": "battle-12-blend/target-067-video-reel/rendered.png"
+      },
+      "scoreNowCharacters": 119,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 68,
+      "battleId": 12,
+      "targetName": "Bell",
+      "submissionId": "BCXuwvy8mVDzi4Db79JN",
+      "scoreThen": 687.89,
+      "scoreNow": 687.89,
+      "match": 100,
+      "codeSize": 159,
+      "lastUpdated": "2021-11-20T22:40:07.056Z",
+      "solution": "<style>*{background:radial-gradient(1q,#824B20,27q,#191919)0 63q}*>*{margin:90 140;background:#E08027;border-radius:50%50%11q 11q;box-shadow:0-62q 0-37q#F2AD43",
+      "files": {
+        "solution": "battle-12-blend/target-068-bell/solution.html",
+        "reference": "battle-12-blend/target-068-bell/reference.png",
+        "rendered": "battle-12-blend/target-068-bell/rendered.png"
+      },
+      "scoreNowCharacters": 159,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 69,
+      "battleId": 13,
+      "targetName": "PushOwl",
+      "submissionId": "yDAT10DnQgZ3MsL9e28E",
+      "scoreThen": 656.15,
+      "scoreNow": 656.15,
+      "match": 100,
+      "codeSize": 206,
+      "lastUpdated": "2022-08-22T10:44:57.101Z",
+      "solution": "<b>ᐢ ⏠ᐢ<img>◆<img><h5>　 ◤    ◥<style>img{padding:45;border:3vw solid;outline:solid 11q#191919;margin:-79-39 23;border-radius:50%}h5{margin:-109}body{margin:39%128;background:#191919;color:E08027;font:76q/0'",
+      "files": {
+        "solution": "battle-13-clip/target-069-pushowl/solution.html",
+        "reference": "battle-13-clip/target-069-pushowl/reference.png",
+        "rendered": "battle-13-clip/target-069-pushowl/rendered.png"
+      },
+      "scoreNowCharacters": 206,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 70,
+      "battleId": 13,
+      "targetName": "Froggy",
+      "submissionId": "uzxQ9tnE59DzYZ5u3WZz",
+      "scoreThen": 627.21,
+      "scoreNow": 2.43,
+      "match": 100,
+      "codeSize": 282,
+      "lastUpdated": "2021-10-25T14:49:40.388Z",
+      "solution": "<p><style>*>*{margin:110 125 90;--:at 50%-138q,#FE5F55 0 50vw,#A64942}p{position:fixed;--:,#293462 0 5q,#FFF1C1 0 16q,#FE5F55;padding:25;margin:-25 85;box-shadow:-26q 58q 0-21q#293462;-webkit-box-reflect:left 22q}*{border-radius:2in;background:radial-gradient(1q var(--,,#293462 0 0",
+      "files": {
+        "solution": "battle-13-clip/target-070-froggy/solution.html",
+        "reference": "battle-13-clip/target-070-froggy/reference.png",
+        "rendered": "battle-13-clip/target-070-froggy/rendered.png"
+      },
+      "scoreNowCharacters": 282,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 71,
+      "battleId": 13,
+      "targetName": "Elephant",
+      "submissionId": "WGlDBMZTWeaEZNxejUBg",
+      "scoreThen": 615.07,
+      "scoreNow": 615.07,
+      "match": 100,
+      "codeSize": 344,
+      "lastUpdated": "2021-12-20T16:31:01.792Z",
+      "solution": "<dl><dl><dd><dt><p><style>body{margin:-32;padding:68 118;--:9q,#0000 42Q,#998235}* * *{height:180;border-radius:2IN;--a:0}dd{--:at 61%0,#0000,10q,#998235 0 5vw,#1A4341 0;--a:95q/63q}dt{--:at bottom,#0000 42q,#FFF 0 63Q,#0000;--a:74q}p{margin:-72 46}*{margin:12;--:9Q,#0B2429 42q,#1A4341;background:radial-gradient(4q var(--)1070%)0 var(--a,/50%",
+      "files": {
+        "solution": "battle-13-clip/target-071-elephant/solution.html",
+        "reference": "battle-13-clip/target-071-elephant/reference.png",
+        "rendered": "battle-13-clip/target-071-elephant/rendered.png"
+      },
+      "scoreNowCharacters": 344,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 72,
+      "battleId": 13,
+      "targetName": "Sheep",
+      "submissionId": "W75RYXCtb6fMF0HMEbJg",
+      "scoreThen": 614.65,
+      "scoreNow": 194.42,
+      "match": 100,
+      "codeSize": 347,
+      "lastUpdated": "2021-10-25T14:19:28.099Z",
+      "solution": "<p><p o><b j><b><b i><b><b i><b><b i><b><style>*{background:#243D83;color:6592CF;position:fixed;margin:var(--,139 196)}[i]{--:-5 10}[j]{--:-50 30}p{border-radius:2in;padding:40 30;box-shadow:0 0 0 21q;--:-182-222}[o]{padding:5;--:-148-217;box-shadow:32q 0,11q 0}b{--:-11 12;background:#6592CF;border-radius:50%;padding:25 30;transform:rotate(45deg",
+      "files": {
+        "solution": "battle-13-clip/target-072-sheep/solution.html",
+        "reference": "battle-13-clip/target-072-sheep/reference.png",
+        "rendered": "battle-13-clip/target-072-sheep/rendered.png"
+      },
+      "scoreNowCharacters": 347,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 73,
+      "battleId": 13,
+      "targetName": "Happy Tiger",
+      "submissionId": "4pJsWsb69W3tfgbMTLM0",
+      "scoreThen": 618.94,
+      "scoreNow": 618.94,
+      "match": 100,
+      "codeSize": 320,
+      "lastUpdated": "2022-08-22T10:45:12.935Z",
+      "solution": "<p><p><p><dl><p><p><p><style>*{background:#F3AC3B;scale:-1 1}p+p{color:FFF;--p:'M192 163v39h29q38-26 9-41'}p+p+p{color:1A4341;--p:'m214,70-22-3v25m5,81q9,19,21-1h10a5,7,8,01-40-20h9m27-9a10,10,0,112,2m4-69a5,6,40,1129,28'}p{color:#1436;outline:9in solid;clip-path:pat\\68(var(--p,'M192 67v150q94 3 70-104a30 30 0 10-41-41",
+      "files": {
+        "solution": "battle-13-clip/target-073-happy-tiger/solution.html",
+        "reference": "battle-13-clip/target-073-happy-tiger/reference.png",
+        "rendered": "battle-13-clip/target-073-happy-tiger/rendered.png"
+      },
+      "scoreNowCharacters": 320,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 74,
+      "battleId": 13,
+      "targetName": "Danger Noodle",
+      "submissionId": "oAjQm9AZAC2PFPXyFEpr",
+      "scoreThen": 600.51,
+      "scoreNow": 25.79,
+      "match": 100,
+      "codeSize": 699,
+      "lastUpdated": "2021-09-07T09:53:32.883Z",
+      "solution": "<a><style>*{--:radial-gradient(1q at 60px 100%,var(--c))no-repeat;--b:radial-gradient(1q at 50%0%,var(--c))no-repeat;--c:#191919 15px,#E08027 0 20px,#191919 0 30px,#E08027 0 35px,#191919 0 65px;background:var(--)-10px -21px/100px 1in,var(--)90px -21px/100px 1in,var(--b)50px 225px/100px 9in,var(--b)150px 225px/100px 9in,var(--b)-50px 125px/100px 9in,var(--)190px -17px/60px 2in,repeating-linear-gradient(90deg,var(--c))no-repeat 0 75px/250px 200px,#191919}*>*{background:#E08027;margin:135 85 135 265;border-radius:60px 1in 1in 60px;box-shadow:-27px 0 0-10px#191919,-21px 0 0-5px#E08027}a{position:fixed;border-radius:1in;width:10;height:10;top:2;left:30;background:#191919;box-shadow:0 16px#191919",
+      "files": {
+        "solution": "battle-13-clip/target-074-danger-noodle/solution.html",
+        "reference": "battle-13-clip/target-074-danger-noodle/reference.png",
+        "rendered": "battle-13-clip/target-074-danger-noodle/rendered.png"
+      },
+      "scoreNowCharacters": 699,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 75,
+      "battleId": 13,
+      "targetName": "Hippo",
+      "submissionId": "gIxYBUHkNLzURrY99RmD",
+      "scoreThen": 600.11,
+      "scoreNow": 600.11,
+      "match": 100,
+      "codeSize": 861,
+      "lastUpdated": "2021-08-03T14:47:49.762Z",
+      "solution": " <div c><div b><img/><img/><i><img/><img/><u><img/><img/></u></i></div></div><style>body{background-color:#171d23;display:flex;flex-direction:column;align-items:center;justify-content:center;height:100vh;overflow:hidden;margin:0;}[c]{background-color:white;width:400;height:300;position:relative;}[b]{margin:0;top:0;left:0;right:0;bottom:0;position:absolute;}[c] *{position:absolute;background:var(--b, #191919);padding:var(--p, 0);margin:var(--m);border-radius:var(--r, 0);}[c] i{--b:#fe5f55;--p:65;--r:60px 60px 0 0;--m:75 135}[c] u{--b:#a64942;--p:50 75;--m:5 -75;--r:55px 55px 45px 45px;}[c] img{transform:rotate(var(--t, 45deg));--b:#000;--p:5px 10px;border:5px solid #fe5f55;--r:50%;--m:75 145}[c] img + img{--t:135deg;--m:75 225;}[c] i img{--p:5;--m:-15 -40;border:0;}[c] i * + img{--m:-15 30;}[c] u img{--p:15 10;--m:-30 -50}[c] u * + img{--m:-30px 30px",
+      "files": {
+        "solution": "battle-13-clip/target-075-hippo/solution.html",
+        "reference": "battle-13-clip/target-075-hippo/reference.png",
+        "rendered": "battle-13-clip/target-075-hippo/rendered.png"
+      },
+      "scoreNowCharacters": 861,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 76,
+      "battleId": 13,
+      "targetName": "Beeee",
+      "submissionId": "Cubz1rLFvGr4bYCXrfTa",
+      "scoreThen": 629.65,
+      "scoreNow": 21.4,
+      "match": 100,
+      "codeSize": 273,
+      "lastUpdated": "2021-11-10T15:48:15.276Z",
+      "solution": "<p><style>*>*{border-radius:1in;margin:150 125 75;color:FFF;--:repeating-linear-gradient(90deg,#191919,26q,#0000 0 37q)space 0/1in#EFF33C;box-shadow:0-63q 0-16q}p{position:fixed;padding:8q;margin:20 115;box-shadow:-90q -69q 0 32q,-11q -69q 0 32q}*{background:var(--,#998235",
+      "files": {
+        "solution": "battle-13-clip/target-076-beeee/solution.html",
+        "reference": "battle-13-clip/target-076-beeee/reference.png",
+        "rendered": "battle-13-clip/target-076-beeee/rendered.png"
+      },
+      "scoreNowCharacters": 273,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 77,
+      "battleId": 14,
+      "targetName": "Notes",
+      "submissionId": "5eLQQMYXWDXOUVD2t7L1",
+      "scoreThen": 654.57,
+      "scoreNow": 654.57,
+      "match": 100,
+      "codeSize": 209,
+      "lastUpdated": "2022-06-21T11:56:38.208Z",
+      "solution": "<p><style>*{color:#FE5F55;box-shadow:inset 2in 0,4.38em 0,222q 0,26.3em 21q,148q 0#A64942}html{background:#191919;border-radius:50%;margin:170 295 90 55}*>*{margin:-80 0 20 40}p{padding:5 20;margin:0;font:50%a",
+      "files": {
+        "solution": "battle-14-zindex/target-077-notes/solution.html",
+        "reference": "battle-14-zindex/target-077-notes/reference.png",
+        "rendered": "battle-14-zindex/target-077-notes/rendered.png"
+      },
+      "scoreNowCharacters": 209,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 78,
+      "battleId": 14,
+      "targetName": "Ukulele",
+      "submissionId": "b8UUKUoFHN0XYruonHO7",
+      "scoreThen": 614.93,
+      "scoreNow": 279.35,
+      "match": 100,
+      "codeSize": 345,
+      "lastUpdated": "2021-12-02T09:03:18.144Z",
+      "solution": "<b><c><e><d><style>*{background:var(--b,#F3AC3C)}b{color:998235;box-shadow:0 0 0 5px#F3AC3C,0 0 0 30px,-63q 0 0 5ch;--:138q 228q 138q 153q}c{--:138q 323q 138q 90q}d{--:151q 58q 162q 344q;box-shadow:0 10px#1A4341}e{--b:#998235;--:143q 48q 143q 333q;--r:3vh}*>*{position:fixed;--b:#1A4341;border-radius:var(--r,1in);inset:var(--,140q 70q 140q 100q",
+      "files": {
+        "solution": "battle-14-zindex/target-078-ukulele/solution.html",
+        "reference": "battle-14-zindex/target-078-ukulele/reference.png",
+        "rendered": "battle-14-zindex/target-078-ukulele/rendered.png"
+      },
+      "scoreNowCharacters": 345,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 79,
+      "battleId": 14,
+      "targetName": "Tambourine",
+      "submissionId": "p3dV1WEqAJyfV4r4Z7qk",
+      "scoreThen": 620.84,
+      "scoreNow": 3.67,
+      "match": 100,
+      "codeSize": 310,
+      "lastUpdated": "2021-11-22T15:29:48.612Z",
+      "solution": "<a><b><c><d><e><style>*>*{--:at 50%196q,#6592CF,53q,#243D83 0 64q,#0000;margin:75 115 55}*>*>*{position:fixed;padding:25;--:,#243D83 5q,#6592CF 0 5vh,#243D83 0;top:20;left:-10}c{top:-20;left:60}b,d{top:90}d,e{left:130}*{border-radius:49%;background:radial-gradient(1q var(--,,#6592CF 79q,#243D83 0 85px,#6592CF",
+      "files": {
+        "solution": "battle-14-zindex/target-079-tambourine/solution.html",
+        "reference": "battle-14-zindex/target-079-tambourine/reference.png",
+        "rendered": "battle-14-zindex/target-079-tambourine/rendered.png"
+      },
+      "scoreNowCharacters": 310,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 80,
+      "battleId": 14,
+      "targetName": "Piano",
+      "submissionId": "FV97Sqi6tbpQJ4c1eXeu",
+      "scoreThen": 626.45,
+      "scoreNow": 17.66,
+      "match": 100,
+      "codeSize": 285,
+      "lastUpdated": "2021-10-26T22:26:52.243Z",
+      "solution": "<a><k><c><c><c><c><c><c><c><s><r><r><r i><r><r><r><style>*{background:var(--,#998235);position:fixed}a,r{--:#191919}r{width:15;height:35;margin:0 25}a{inset:106q 116q;border-radius:11q}c{width:20;height:70;--:#FFF;margin:0 25;border-radius:5q}s{margin:0-160}[i]{--:#0000}k{margin:25-20",
+      "files": {
+        "solution": "battle-14-zindex/target-080-piano/solution.html",
+        "reference": "battle-14-zindex/target-080-piano/reference.png",
+        "rendered": "battle-14-zindex/target-080-piano/rendered.png"
+      },
+      "scoreNowCharacters": 285,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 81,
+      "battleId": 15,
+      "targetName": "Odoo",
+      "submissionId": "vJrbCEOmRSAExqunzfeb",
+      "scoreThen": 656.69,
+      "scoreNow": 351.67,
+      "match": 100,
+      "codeSize": 205,
+      "lastUpdated": "2021-10-19T22:41:44.798Z",
+      "solution": "<a j><a><a><a><a i><style>body{margin:121 36;background:#191919}[j]{--:#714B67}[i]{padding:40 10;margin:-101 143}a{float:left;padding:40;margin:1;border-radius:1in;box-shadow:inset 0 0 0 21q var(--,#8F8F8F",
+      "files": {
+        "solution": "battle-15-filter/target-081-odoo/solution.html",
+        "reference": "battle-15-filter/target-081-odoo/reference.png",
+        "rendered": "battle-15-filter/target-081-odoo/rendered.png"
+      },
+      "scoreNowCharacters": 205,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 82,
+      "battleId": 15,
+      "targetName": "Diamond Cut",
+      "submissionId": "DKrSY77JNbTTyQDb08yt",
+      "scoreThen": 694.85,
+      "scoreNow": 597.9,
+      "match": 100,
+      "codeSize": 151,
+      "lastUpdated": "2021-09-23T11:06:35.532Z",
+      "solution": "<body bgcolor=1A434 text=F3AC3C style=margin:135+187+135+183;box-shadow:0-60q,0-70q,69q+0,0+0+0+38q,0+0+0+68q#998235,0+0+0+5in;transform:rotate(-45deg>",
+      "files": {
+        "solution": "battle-15-filter/target-082-diamond-cut/solution.html",
+        "reference": "battle-15-filter/target-082-diamond-cut/reference.png",
+        "rendered": "battle-15-filter/target-082-diamond-cut/rendered.png"
+      },
+      "scoreNowCharacters": 151,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 83,
+      "battleId": 15,
+      "targetName": "Supernova",
+      "submissionId": "NAJzp2BJoKLMXYPGBrZs",
+      "scoreThen": 694.85,
+      "scoreNow": 2.46,
+      "match": 100,
+      "codeSize": 151,
+      "lastUpdated": "2021-10-25T08:41:19.152Z",
+      "solution": "<style>*{border-image:radial-gradient(#6592CF,var(--,67q),#EEB850 32q,#243D83 0)fill var(--,255/99%/54q)0}*+*{margin:90 140;--:0;transform:rotate(45deg",
+      "files": {
+        "solution": "battle-15-filter/target-083-supernova/solution.html",
+        "reference": "battle-15-filter/target-083-supernova/reference.png",
+        "rendered": "battle-15-filter/target-083-supernova/rendered.png"
+      },
+      "scoreNowCharacters": 151,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 84,
+      "battleId": 15,
+      "targetName": "Junction",
+      "submissionId": "bs61qTW3XNNRruKgEEY8",
+      "scoreThen": 742.9,
+      "scoreNow": 742.9,
+      "match": 100,
+      "codeSize": 108,
+      "lastUpdated": "2021-12-09T09:37:22.128Z",
+      "solution": "<body bgcolor=191919 text=A64A4><p> ⍑  ⍊</p>⏤ ⏤<style>*{margin:-110-66-541;font:700 513q/74%a}p{color:FE5F55",
+      "files": {
+        "solution": "battle-15-filter/target-084-junction/solution.html",
+        "reference": "battle-15-filter/target-084-junction/reference.png",
+        "rendered": "battle-15-filter/target-084-junction/rendered.png"
+      },
+      "scoreNowCharacters": 108,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 85,
+      "battleId": 15,
+      "targetName": "Pythagoras",
+      "submissionId": "SRPUeJxSp5jTBlXr2T3h",
+      "scoreThen": 694.85,
+      "scoreNow": 22.43,
+      "match": 100,
+      "codeSize": 151,
+      "lastUpdated": "2021-10-20T21:58:46.717Z",
+      "solution": "<p><style>*>*{--:#F7F3DA}p{transform:rotate(37deg);box-shadow:-30vh 16q 0 32q#6CB3A9,-22q -58q 0 42q#F6DF96}*{margin:75 75 25;background:var(--,#D25B70",
+      "files": {
+        "solution": "battle-15-filter/target-085-pythagoras/solution.html",
+        "reference": "battle-15-filter/target-085-pythagoras/reference.png",
+        "rendered": "battle-15-filter/target-085-pythagoras/rendered.png"
+      },
+      "scoreNowCharacters": 151,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 86,
+      "battleId": 15,
+      "targetName": "Stairway",
+      "submissionId": "tP2ZA0pRzD3VKV46FYtm",
+      "scoreThen": 684.6,
+      "scoreNow": 684.6,
+      "match": 100,
+      "codeSize": 163,
+      "lastUpdated": "2021-10-06T21:10:50.435Z",
+      "solution": "<style>html{background:#4F77FF;color:191919;margin:75 150;border-radius:1in 1in 0 0;box-shadow:0 0 0 2in}*>*{height:20;box-shadow:76q 53q,55q 79q,33q 104q,13q 130q",
+      "files": {
+        "solution": "battle-15-filter/target-086-stairway/solution.html",
+        "reference": "battle-15-filter/target-086-stairway/reference.png",
+        "rendered": "battle-15-filter/target-086-stairway/rendered.png"
+      },
+      "scoreNowCharacters": 163,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 87,
+      "battleId": 15,
+      "targetName": "Building Blocks",
+      "submissionId": "k4MI8XQWSf4YVQa8FiHW",
+      "scoreThen": 649.14,
+      "scoreNow": 0.94,
+      "match": 100,
+      "codeSize": 220,
+      "lastUpdated": "2021-10-20T21:45:38.678Z",
+      "solution": "<p><dt><style>*{margin:75 50%;box-shadow:var(--,#1A4341)0 0 0 9in}dt{mix-blend-mode:darken;--:#F3AC3e}p{mix-blend-mode:lighten;--:-90q -37q 0 53q,-11q -64q 0 26q,11q 64q 0 26q,90q 37q 0 53q,#fff;filter:blur(5q)contrast(9",
+      "files": {
+        "solution": "battle-15-filter/target-087-building-blocks/solution.html",
+        "reference": "battle-15-filter/target-087-building-blocks/reference.png",
+        "rendered": "battle-15-filter/target-087-building-blocks/rendered.png"
+      },
+      "scoreNowCharacters": 220,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 88,
+      "battleId": 15,
+      "targetName": "Tight Corner",
+      "submissionId": "8MpuesgDuk58zaTSFBTU",
+      "scoreThen": 705.33,
+      "scoreNow": 705.33,
+      "match": 100,
+      "codeSize": 140,
+      "lastUpdated": "2021-10-19T21:53:32.906Z",
+      "solution": "<body bgcolor=F7F3DA style='margin:150+50%17%-30;border-radius:5vw;box-shadow:10px -53q+0-10px,243q -87q#F7F3DA,55vw -34q+0-10px'text=D25B7>",
+      "files": {
+        "solution": "battle-15-filter/target-088-tight-corner/solution.html",
+        "reference": "battle-15-filter/target-088-tight-corner/reference.png",
+        "rendered": "battle-15-filter/target-088-tight-corner/rendered.png"
+      },
+      "scoreNowCharacters": 140,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 89,
+      "battleId": 16,
+      "targetName": "Summit",
+      "submissionId": "MyXQEjhWm1bz2IL7QvAR",
+      "scoreThen": 712.6,
+      "scoreNow": 2.21,
+      "match": 100,
+      "codeSize": 133,
+      "lastUpdated": "2021-11-19T11:41:27.843Z",
+      "solution": "<style>*{background:conic-gradient(from 225deg at 50%53%,var(--,#191919 75%,#25fc)0)}*>*{--:#F9E492 75%,#191919;clip-path:circle(25vw",
+      "files": {
+        "solution": "battle-16-aspect/target-089-summit/solution.html",
+        "reference": "battle-16-aspect/target-089-summit/reference.png",
+        "rendered": "battle-16-aspect/target-089-summit/rendered.png"
+      },
+      "scoreNowCharacters": 133,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 90,
+      "battleId": 16,
+      "targetName": "Eclipse",
+      "submissionId": "LwwJzwQq76fa51dhAdpw",
+      "scoreThen": 700.43,
+      "scoreNow": 597.91,
+      "match": 100,
+      "codeSize": 145,
+      "lastUpdated": "2021-11-09T08:00:31.190Z",
+      "solution": "<body bgcolor=998235 style=zoom:26.5;border-radius:49.6%;margin:6q+0-10q;box-shadow:0-8q+0-4q#1A4341,0-8q+0-3q,0-16q#998235,0+0+0+9q text=F3AC3C>",
+      "files": {
+        "solution": "battle-16-aspect/target-090-eclipse/solution.html",
+        "reference": "battle-16-aspect/target-090-eclipse/reference.png",
+        "rendered": "battle-16-aspect/target-090-eclipse/rendered.png"
+      },
+      "scoreNowCharacters": 145,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 91,
+      "battleId": 16,
+      "targetName": "Reflection",
+      "submissionId": "0Hgc2QwGRCaRhbTNEGQ2",
+      "scoreThen": 721.52,
+      "scoreNow": 721.52,
+      "match": 100,
+      "codeSize": 125,
+      "lastUpdated": "2021-11-08T23:35:01.981Z",
+      "solution": "<p>.<p>.<p>.<p>.<style>*{margin:75 0-65;background:radial-gradient(1q,#F6DF96 106q,#D25B70 0 775em,#6CB3A9)fixed;font:9%/5vh'",
+      "files": {
+        "solution": "battle-16-aspect/target-091-reflection/solution.html",
+        "reference": "battle-16-aspect/target-091-reflection/reference.png",
+        "rendered": "battle-16-aspect/target-091-reflection/rendered.png"
+      },
+      "scoreNowCharacters": 125,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 92,
+      "battleId": 16,
+      "targetName": "Squeeze",
+      "submissionId": "k6Dszvk13jZW66FLPxsA",
+      "scoreThen": 726.24,
+      "scoreNow": 2.72,
+      "match": 100,
+      "codeSize": 121,
+      "lastUpdated": "2021-11-08T00:40:28.080Z",
+      "solution": "<style>*>*{margin:130 22;--:21q/48q}*{background:92q var(--,/239q)125%radial-gradient(1q,#0000,5vh,#243D83 0 25vw,#6592CF",
+      "files": {
+        "solution": "battle-16-aspect/target-092-squeeze/solution.html",
+        "reference": "battle-16-aspect/target-092-squeeze/reference.png",
+        "rendered": "battle-16-aspect/target-092-squeeze/rendered.png"
+      },
+      "scoreNowCharacters": 121,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 93,
+      "battleId": 16,
+      "targetName": "Great Wall",
+      "submissionId": "OZX3j1vhMie6QFafyPpM",
+      "scoreThen": 621.65,
+      "scoreNow": 2.17,
+      "match": 100,
+      "codeSize": 306,
+      "lastUpdated": "2021-11-15T22:51:30.509Z",
+      "solution": "<p><p i><p j><style>*{background:var(--,#4F77FF)}*>*{--:radial-gradient(1q,#F9E492,5vw,#191919)-5ch -5ch;clip-path:circle(25vw)}[i]{margin:151 210}[j]{transform:matrix(.2,-.13,0,1,60,-7);--c:#D6B73F}p{position:fixed;padding:35 50;margin:164 92;--:repeating-linear-gradient(var(--c,#F9E492),1em,#0000 0 26px",
+      "files": {
+        "solution": "battle-16-aspect/target-093-great-wall/solution.html",
+        "reference": "battle-16-aspect/target-093-great-wall/reference.png",
+        "rendered": "battle-16-aspect/target-093-great-wall/rendered.png"
+      },
+      "scoreNowCharacters": 306,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 94,
+      "battleId": 16,
+      "targetName": "Ripples",
+      "submissionId": "yw1RsQlGo3pPXXtqAdtx",
+      "scoreThen": 688.73,
+      "scoreNow": 597.88,
+      "match": 100,
+      "codeSize": 158,
+      "lastUpdated": "2021-12-03T22:25:40.660Z",
+      "solution": "<dt><dl><slot><p><style>*{background:#0E2E2C;border-radius:5in;color:F3AC3C;border:solid.4em;margin:50 100}dt{color:998235}* *{font:125%a;margin:max(4.3% + 6q",
+      "files": {
+        "solution": "battle-16-aspect/target-094-ripples/solution.html",
+        "reference": "battle-16-aspect/target-094-ripples/reference.png",
+        "rendered": "battle-16-aspect/target-094-ripples/rendered.png"
+      },
+      "scoreNowCharacters": 158,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 95,
+      "battleId": 16,
+      "targetName": "Pokeball",
+      "submissionId": "gYTMeINMxipyLtsaRs9B",
+      "scoreThen": 687.89,
+      "scoreNow": 27.68,
+      "match": 100,
+      "codeSize": 159,
+      "lastUpdated": "2021-11-20T21:56:01.804Z",
+      "solution": "<p>.<style>*{background:radial-gradient(1q,#F6DF96 26q,#781728 0 37q,var(--,#D25B70)0 12.5ch,#6CB3A9)fixed}*>*{margin:35%0 0;--:#FFF}p{--:#781728;font:90%/5vw'",
+      "files": {
+        "solution": "battle-16-aspect/target-095-pokeball/solution.html",
+        "reference": "battle-16-aspect/target-095-pokeball/reference.png",
+        "rendered": "battle-16-aspect/target-095-pokeball/rendered.png"
+      },
+      "scoreNowCharacters": 159,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 96,
+      "battleId": 16,
+      "targetName": "Mandala",
+      "submissionId": "GZb6x0BUcUC4GB56MyLF",
+      "scoreThen": 699.48,
+      "scoreNow": 3.71,
+      "match": 100,
+      "codeSize": 146,
+      "lastUpdated": "2021-11-20T10:55:59.779Z",
+      "solution": "<style>*{--:50vh radial-gradient(1q,#0000,69q,#243D83 0 90q,#0000),;background:18%/var(--)50%-6%/50%var(--)radial-gradient(1q,#6592CF,25vw,#243D83",
+      "files": {
+        "solution": "battle-16-aspect/target-096-mandala/solution.html",
+        "reference": "battle-16-aspect/target-096-mandala/reference.png",
+        "rendered": "battle-16-aspect/target-096-mandala/rendered.png"
+      },
+      "scoreNowCharacters": 146,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 97,
+      "battleId": 17,
+      "targetName": "Snowman",
+      "submissionId": "qSfyB32wkKS0ntsbWySy",
+      "scoreThen": 620.64,
+      "scoreNow": 620.64,
+      "match": 100,
+      "codeSize": 311,
+      "lastUpdated": "2022-04-04T19:07:40.574Z",
+      "solution": "<p>⬤<style>*>*{background:#AC474B;-webkit-box-reflect:left -24em}p{background:linear-gradient(#0E1F2B 66q,#FFF 0 9ch,#0E1F2B 0 97q,#FFF 0 139q,#0000 0 45vh,#FFA63F 0 36%,#0000 0 37%,#FFF 0);padding:101 198;height:200;color:#0E1F2B;clip-pat\\68:path('m191 47h21v40h10v5h-13q21 17 8 42 10 3 1 14h5a50 50 2 01-34 89",
+      "files": {
+        "solution": "battle-17-christmas/target-097-snowman/solution.html",
+        "reference": "battle-17-christmas/target-097-snowman/reference.png",
+        "rendered": "battle-17-christmas/target-097-snowman/rendered.png"
+      },
+      "scoreNowCharacters": 311,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 98,
+      "battleId": 17,
+      "targetName": "Candle",
+      "submissionId": "dwyToDC2jQjCqsqK1JpZ",
+      "scoreThen": 660.03,
+      "scoreNow": 437.72,
+      "match": 100,
+      "codeSize": 199,
+      "lastUpdated": "2021-12-25T22:17:31.051Z",
+      "solution": "<style>*{background:#14313E;margin:110 40%60;color:F3695A;box-shadow:0-25vw var(--,#7137)inset,9q -82pt inset,-9q -82pt inset;border-radius:40q var(--r,/16q)}*+*{margin:-50 10 130 40;--r:0;--:#F3AC3C",
+      "files": {
+        "solution": "battle-17-christmas/target-098-candle/solution.html",
+        "reference": "battle-17-christmas/target-098-candle/reference.png",
+        "rendered": "battle-17-christmas/target-098-candle/rendered.png"
+      },
+      "scoreNowCharacters": 199,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 99,
+      "battleId": 17,
+      "targetName": "Gift Box",
+      "submissionId": "fK4NA95DaOXfVJ7Jlt9L",
+      "scoreThen": 676.91,
+      "scoreNow": 595.85,
+      "match": 100,
+      "codeSize": 173,
+      "lastUpdated": "2021-12-26T00:19:34.598Z",
+      "solution": "■ ■<p><style>p{border:10px solid;padding:10;border-radius:50%50%0;margin:-206 43}*+*{background:#AC474B;margin:24%50%0 122;color:fff;-webkit-box-reflect:right;font:31vw/65%'",
+      "files": {
+        "solution": "battle-17-christmas/target-099-gift-box/solution.html",
+        "reference": "battle-17-christmas/target-099-gift-box/reference.png",
+        "rendered": "battle-17-christmas/target-099-gift-box/rendered.png"
+      },
+      "scoreNowCharacters": 173,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 100,
+      "battleId": 17,
+      "targetName": "CSSBattle",
+      "submissionId": "jFnoSGbx7MLNajuPkVuI",
+      "scoreThen": 639.84,
+      "scoreNow": 639.84,
+      "match": 100,
+      "codeSize": 242,
+      "lastUpdated": "2022-08-22T10:45:32.068Z",
+      "solution": "<body bgcolor=14314 text=FFDF><b></p></p> ⸝<style>*+*{font:7cm/27%a;scale:-1+1}p{outline:solid 230q;clip-path:pat\\68('m55 80v42.5h-9.5v39h9v42l40 38v-49l-14-4V96l14-5V67H69m50 18V63h21l45 45-21 21m0 14 21 22-62 52-11-12m5-50 14-14 56 57-14 14",
+      "files": {
+        "solution": "battle-17-christmas/target-100-cssbattle/solution.html",
+        "reference": "battle-17-christmas/target-100-cssbattle/reference.png",
+        "rendered": "battle-17-christmas/target-100-cssbattle/rendered.png"
+      },
+      "scoreNowCharacters": 242,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 101,
+      "battleId": 18,
+      "targetName": "Sharingan",
+      "submissionId": "FTG9GCMLczhNRrcPZrVB",
+      "scoreThen": 662.36,
+      "scoreNow": 5.19,
+      "match": 100,
+      "codeSize": 195,
+      "lastUpdated": "2022-03-24T15:12:50.666Z",
+      "solution": "<style>*{background:radial-gradient(1q,#000 25px,#E96A23 0 37q,#0000 0 95px,#000 0 25vw,#161616),var(--),var(--)46q -45q/37vw,var(--)0 90q#A22015;--:radial-gradient(1q,#0000 37q,#000 0 53q,#0000)",
+      "files": {
+        "solution": "battle-18-float/target-101-sharingan/solution.html",
+        "reference": "battle-18-float/target-101-sharingan/reference.png",
+        "rendered": "battle-18-float/target-101-sharingan/rendered.png"
+      },
+      "scoreNowCharacters": 195,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 102,
+      "battleId": 18,
+      "targetName": "One Piece",
+      "submissionId": "aWPQetakE5gJxBLCtDPD",
+      "scoreThen": 606.09,
+      "scoreNow": 606.09,
+      "match": 100,
+      "codeSize": 439,
+      "lastUpdated": "2022-04-04T15:54:02.650Z",
+      "solution": "<p i><p j><p j k><div><p j l><style>*,p{background:#000}*>*,[j]{background:#fff}body{-webkit-box-reflect:left;margin:110 125 90 200;padding:30 5;border-radius:0 1in 1in 0}[i]{height:40;width:50;margin:0;border-radius:50%;transform:rotate(30deg)}[j]{position:fixed;height:20;width:15;margin:40 -12}[k]{margin:40 8}div{-webkit-box-reflect:above 5ch}[l]{margin:0 55;padding:20;clip-pat\\68:path('m17 12 9 9c27-6 22 23 9 24-5 19-33 11-24-9l-9-9",
+      "files": {
+        "solution": "battle-18-float/target-102-one-piece/solution.html",
+        "reference": "battle-18-float/target-102-one-piece/reference.png",
+        "rendered": "battle-18-float/target-102-one-piece/rendered.png"
+      },
+      "scoreNowCharacters": 439,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 103,
+      "battleId": 18,
+      "targetName": "Super Saiyan",
+      "submissionId": "E8m94uOlbboNYn30UP53",
+      "scoreThen": 610,
+      "scoreNow": 610,
+      "match": 100,
+      "codeSize": 387,
+      "lastUpdated": "2022-04-04T15:53:44.924Z",
+      "solution": "<p><p i><style>*{background:#161616;border-radius:0 0 5ch 5ch}*+*{margin:159 160 84;background:linear-gradient(90deg,#FFF 50%,#FFDEB9 0)}p{position:fixed;width:20;height:10;margin:37 30}[i]{background:#EBAE11;padding:200;margin:-120;clip-pat\\68:path('m144 101q-7-33 16-57 23 24 16 57l14-24q23 17 11 41l17-5q5 26-20 37 2-7 2-30-17 21-40 9-24 11-40-9 0 24 2 30-25-9-21-37l18 5q-13-24 10-41",
+      "files": {
+        "solution": "battle-18-float/target-103-super-saiyan/solution.html",
+        "reference": "battle-18-float/target-103-super-saiyan/reference.png",
+        "rendered": "battle-18-float/target-103-super-saiyan/rendered.png"
+      },
+      "scoreNowCharacters": 387,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 104,
+      "battleId": 18,
+      "targetName": "Amegakure",
+      "submissionId": "hOPKXgsqruyYtv2I4tF9",
+      "scoreThen": 613.31,
+      "scoreNow": 613.31,
+      "match": 100,
+      "codeSize": 357,
+      "lastUpdated": "2022-03-31T14:39:08.168Z",
+      "solution": "<div><p><p j><style>html{background:#37385A;margin:90 80;box-shadow:0 0 0 9in#000;border-radius:5vw}p{height:10;width:10;color:0;box-shadow:16q 5vh,16q 37q,16q 58q}[j]{height:50;margin:3;box-shadow:66q -12q,87q -12q}div{-webkit-box-reflect:left -50vw}*>*{border-radius:11q}*+*{margin:20;background:linear-gradient(105deg,#9897AE 87q,#C0C3DB 0 44vh,#9897AE 0",
+      "files": {
+        "solution": "battle-18-float/target-104-amegakure/solution.html",
+        "reference": "battle-18-float/target-104-amegakure/reference.png",
+        "rendered": "battle-18-float/target-104-amegakure/rendered.png"
+      },
+      "scoreNowCharacters": 357,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 105,
+      "battleId": 18,
+      "targetName": "Ryuk",
+      "submissionId": "Z6QJpRZKicRUH17u8tQT",
+      "scoreThen": 620.84,
+      "scoreNow": 620.84,
+      "match": 100,
+      "codeSize": 310,
+      "lastUpdated": "2022-03-31T14:13:15.433Z",
+      "solution": "<p><style>*+*{background:conic-gradient(from 45deg at 50%97q,#BAC7CE 75%,#475862 0);-webkit-box-reflect:right -4in}p{padding:60;margin:130 242;transform:rotate(15deg);border-radius:50%0;background:radial-gradient(#4E2B24 5vh,#000 0 5vw,#0000 0 53q,#000 0),radial-gradient(6in at 4em 74px,#868A64 50px,#5A6042 0",
+      "files": {
+        "solution": "battle-18-float/target-105-ryuk/solution.html",
+        "reference": "battle-18-float/target-105-ryuk/reference.png",
+        "rendered": "battle-18-float/target-105-ryuk/rendered.png"
+      },
+      "scoreNowCharacters": 310,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 106,
+      "battleId": 18,
+      "targetName": "Ryuk's Apple",
+      "submissionId": "BljU27EF9VliR4nAprvH",
+      "scoreThen": 713.68,
+      "scoreNow": 713.68,
+      "match": 100,
+      "codeSize": 132,
+      "lastUpdated": "2022-04-04T21:28:39.836Z",
+      "solution": "█<body text=D4393 bgcolor=0 style=font:5in\"\";clip-pat\\68:path('m128,93a50,60-30,113,89q20-9,6-46l6-9v-20m53-9a49,60,30,11-9,9V62h10>",
+      "files": {
+        "solution": "battle-18-float/target-106-ryuk-s-apple/solution.html",
+        "reference": "battle-18-float/target-106-ryuk-s-apple/reference.png",
+        "rendered": "battle-18-float/target-106-ryuk-s-apple/rendered.png"
+      },
+      "scoreNowCharacters": 132,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 107,
+      "battleId": 18,
+      "targetName": "Sealing Wand",
+      "submissionId": "i8gph9jTOvYRRYwYAtw7",
+      "scoreThen": 611.99,
+      "scoreNow": 611.99,
+      "match": 100,
+      "codeSize": 368,
+      "lastUpdated": "2022-04-04T15:54:24.891Z",
+      "solution": "<s><l><o><n><style>*{background:var(--,#161616)}*>*{position:fixed;inset:40%193q -9%;--:#E96A23;border-radius:var(--r,9%8ch)}s{inset:43%30%139q 46%}l{inset:48%185px 97px;--r:9q;--:#A22015}o{--r:50%;inset:40%180q;--:radial-gradient(#161616 11q,#A22015 0 5vh,#FFF 0 26q,#A22015 0)}n{inset:44%32%;--:#fff;--r:0;clip-pat\\68:path('m55 0h-53q1 13 15 12 1 12 15 12 0 14 23 12",
+      "files": {
+        "solution": "battle-18-float/target-107-sealing-wand/solution.html",
+        "reference": "battle-18-float/target-107-sealing-wand/reference.png",
+        "rendered": "battle-18-float/target-107-sealing-wand/rendered.png"
+      },
+      "scoreNowCharacters": 368,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 108,
+      "battleId": 18,
+      "targetName": "Clow Card",
+      "submissionId": "52OaVW2O1gkegt9BOue0",
+      "scoreThen": 613.57,
+      "scoreNow": 12.9,
+      "match": 100,
+      "codeSize": 355,
+      "lastUpdated": "2022-04-04T13:10:13.900Z",
+      "solution": "<s><l><o><n><t><style>*{background:var(--,#000)}*>*{inset:71q 44q;--:linear-gradient(105deg,#E96A23 30vw,#EBAE11 0 180q,#E96A23 0 23ch,#EBAE11 0 222q,#E96A23 0);position:fixed}s,l,o,n,t{--:#000;inset:95q 5em;border-radius:3vw}l{inset:35vh 69q}o,n,t{border:solid 6q#EBAE11;border-radius:50%}o{inset:35vh 95px}n{inset:115px 45vh}t{inset:132q 185q;--:#EBAE11",
+      "files": {
+        "solution": "battle-18-float/target-108-clow-card/solution.html",
+        "reference": "battle-18-float/target-108-clow-card/reference.png",
+        "rendered": "battle-18-float/target-108-clow-card/rendered.png"
+      },
+      "scoreNowCharacters": 355,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 109,
+      "battleId": 19,
+      "targetName": "Curtain",
+      "submissionId": "xgXnvrC17KybEaB6QWVU",
+      "scoreThen": 771.26,
+      "scoreNow": 771.26,
+      "match": 100,
+      "codeSize": 89,
+      "lastUpdated": "2022-07-04T10:18:46.514Z",
+      "solution": "⦁ ⦁ ⦁ ⦁  ⦁ ⦁ ⦁  ⦁ ⦁   ⦁<body bgcolor=191919 text=F6E59C style=margin:9+10;font:916%/.41'>",
+      "files": {
+        "solution": "battle-19-spacing/target-109-curtain/solution.html",
+        "reference": "battle-19-spacing/target-109-curtain/reference.png",
+        "rendered": "battle-19-spacing/target-109-curtain/rendered.png"
+      },
+      "scoreNowCharacters": 89,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 110,
+      "battleId": 19,
+      "targetName": "Sunrays",
+      "submissionId": "A7sNGIQadQJaWV22ygxx",
+      "scoreThen": 687.89,
+      "scoreNow": 687.89,
+      "match": 100,
+      "codeSize": 159,
+      "lastUpdated": "2022-06-21T11:54:55.759Z",
+      "solution": "<dl><dl><dl><dl><dl><dl><style>html{background:#D25B70;margin:187 72}*>*{background:#F2E09F;border-radius:9q;width:100;height:10}dl{offset:path('M59.4-30l9 5.2",
+      "files": {
+        "solution": "battle-19-spacing/target-110-sunrays/solution.html",
+        "reference": "battle-19-spacing/target-110-sunrays/reference.png",
+        "rendered": "battle-19-spacing/target-110-sunrays/rendered.png"
+      },
+      "scoreNowCharacters": 159,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 111,
+      "battleId": 19,
+      "targetName": "Rain Drops",
+      "submissionId": "fzl1khvpI3dcASRV4TxR",
+      "scoreThen": 734.95,
+      "scoreNow": 734.95,
+      "match": 100,
+      "codeSize": 114,
+      "lastUpdated": "2022-06-21T11:36:31.128Z",
+      "solution": "  ⬤     ◆<body bgcolor=F3AC3C style=\"text-shadow:0 148q,-84q 74q,0-267q,0-162q,-62q -214q;font:142q/1'\"text=25434>",
+      "files": {
+        "solution": "battle-19-spacing/target-111-rain-drops/solution.html",
+        "reference": "battle-19-spacing/target-111-rain-drops/reference.png",
+        "rendered": "battle-19-spacing/target-111-rain-drops/rendered.png"
+      },
+      "scoreNowCharacters": 114,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 112,
+      "battleId": 19,
+      "targetName": "Chevron",
+      "submissionId": "8BlIK1UNM6k9NQXdsP2X",
+      "scoreThen": 687.05,
+      "scoreNow": 687.05,
+      "match": 100,
+      "codeSize": 160,
+      "lastUpdated": "2022-06-21T11:58:16.911Z",
+      "solution": "<p><p><style>*+*{background:#6592CF;transform:scalex(-1)}p{outline:3in solid#293D7E;clip-path:pat\\68('m67 42h38l87 70v30m0 19v31l125-100h-39m0 50h38L192 242v-31",
+      "files": {
+        "solution": "battle-19-spacing/target-112-chevron/solution.html",
+        "reference": "battle-19-spacing/target-112-chevron/reference.png",
+        "rendered": "battle-19-spacing/target-112-chevron/rendered.png"
+      },
+      "scoreNowCharacters": 160,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 113,
+      "battleId": 19,
+      "targetName": "Black Light",
+      "submissionId": "OxOZ72VI7tsSLBI5bhXb",
+      "scoreThen": 790.19,
+      "scoreNow": 790.19,
+      "match": 100,
+      "codeSize": 78,
+      "lastUpdated": "2022-07-05T07:30:04.249Z",
+      "solution": "<style>*{background:conic-gradient(from 86.4deg at -25em,#191919,2%,#5776F6 0 ",
+      "files": {
+        "solution": "battle-19-spacing/target-113-black-light/solution.html",
+        "reference": "battle-19-spacing/target-113-black-light/reference.png",
+        "rendered": "battle-19-spacing/target-113-black-light/rendered.png"
+      },
+      "scoreNowCharacters": 78,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 114,
+      "battleId": 19,
+      "targetName": "Negative Box",
+      "submissionId": "tN5XKDkO40atlOy4tbOF",
+      "scoreThen": 747.04,
+      "scoreNow": 747.04,
+      "match": 100,
+      "codeSize": 105,
+      "lastUpdated": "2022-06-22T13:32:42.039Z",
+      "solution": "<style>*{background:#172D2C}*>*{background:#E9AF53;clip-pat\\68:path('m12 76v131l180 65v-261l180 66-180 65",
+      "files": {
+        "solution": "battle-19-spacing/target-114-negative-box/solution.html",
+        "reference": "battle-19-spacing/target-114-negative-box/reference.png",
+        "rendered": "battle-19-spacing/target-114-negative-box/rendered.png"
+      },
+      "scoreNowCharacters": 105,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 115,
+      "battleId": 19,
+      "targetName": "Droplet",
+      "submissionId": "UqtOq8oOZc8oCndUuneH",
+      "scoreThen": 684.6,
+      "scoreNow": 684.6,
+      "match": 100,
+      "codeSize": 163,
+      "lastUpdated": "2022-07-05T07:15:27.259Z",
+      "solution": "<style>*{background:#F2E09F}*>*{margin:0;background:#C36271;clip-pat\\68:path('m20 300 0-53q10-104 130-97a1 1 0 00100 0h-100a1 1 0 01100 0q122 8 130-103v-179l82 455",
+      "files": {
+        "solution": "battle-19-spacing/target-115-droplet/solution.html",
+        "reference": "battle-19-spacing/target-115-droplet/reference.png",
+        "rendered": "battle-19-spacing/target-115-droplet/rendered.png"
+      },
+      "scoreNowCharacters": 163,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 116,
+      "battleId": 19,
+      "targetName": "Headphones",
+      "submissionId": "ENl6qCqI3ZPzXLwlVB1G",
+      "scoreThen": 676.18,
+      "scoreNow": 676.18,
+      "match": 100,
+      "codeSize": 174,
+      "lastUpdated": "2022-07-05T07:25:15.604Z",
+      "solution": "█<body text=6E91CA bgcolor=293D7E style=font:9in\"\";clip-pat\\68:path('m107,207a1,1,0,0060,0v-30q0-25-40-20v-35a1,1-1,01130,0v35q-39-4-40,20v30a1,1,0,0060,0v-85a1,1,0,00-170,0>",
+      "files": {
+        "solution": "battle-19-spacing/target-116-headphones/solution.html",
+        "reference": "battle-19-spacing/target-116-headphones/reference.png",
+        "rendered": "battle-19-spacing/target-116-headphones/rendered.png"
+      },
+      "scoreNowCharacters": 174,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 117,
+      "battleId": 20,
+      "targetName": "Arineo",
+      "submissionId": "2M3DE2n91jhnpQCWnGsK",
+      "scoreThen": 600.97,
+      "scoreNow": 600.97,
+      "match": 100,
+      "codeSize": 632,
+      "lastUpdated": "2022-08-30T11:31:05.040Z",
+      "solution": "<div class=\"a\"></div><div class=\"a b\"></div><div class=\"c\"></div><div class=\"c d\"></div><div class=\"c e\"></div><div class=\"d e f\"></div><div class=\"e g\"></div></a> <style>*{position:fixed;}.a{height:180px;width:44px;background:#2E2926;translate:126px 52px;transform:skew(-25deg);}.b{transform:skew(25deg);translate:214px 52px}.c{background:white;height:51px;width:80px;transform:skew(0,45deg);translate:113px 131.5px;}.d{width:120px;transform:skew(0,-45deg);translate:193px 108.5px;}.e{background:#0088CA;height:28px;translate:112px 141px;}.f{translate:192px 121px}.g{height:22px;width:22px;border-radius:22px;translate:181px 131px}",
+      "files": {
+        "solution": "battle-20-hover/target-117-arineo/solution.html",
+        "reference": "battle-20-hover/target-117-arineo/reference.png",
+        "rendered": "battle-20-hover/target-117-arineo/rendered.png"
+      },
+      "scoreNowCharacters": 632,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 118,
+      "battleId": 20,
+      "targetName": "Donkey Kong",
+      "submissionId": "9ukY1g3ppv9aijYIybij",
+      "scoreThen": 625.22,
+      "scoreNow": 625.22,
+      "match": 100,
+      "codeSize": 290,
+      "lastUpdated": "2022-08-29T09:43:00.133Z",
+      "solution": "<a><b x><b z><b y><style>*{margin:0;background:#000;position:fixed;width:20;height:60;color:fff}a{box-shadow:5em 1in,190px 50vh,75vw 1in,75vw 50vh}b{width:300;height:20;background:#AF067C;border-radius:1in}[x]{left:50;top:90}[y]{left:50;top:140;transform:rotate(-4deg)}[z]{left:50;bottom:90",
+      "files": {
+        "solution": "battle-20-hover/target-118-donkey-kong/solution.html",
+        "reference": "battle-20-hover/target-118-donkey-kong/reference.png",
+        "rendered": "battle-20-hover/target-118-donkey-kong/rendered.png"
+      },
+      "scoreNowCharacters": 290,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 119,
+      "battleId": 20,
+      "targetName": "Pacman",
+      "submissionId": "jd04xWeeYf9PG9406m6k",
+      "scoreThen": 602.04,
+      "scoreNow": 602.04,
+      "match": 100,
+      "codeSize": 554,
+      "lastUpdated": "2022-08-30T11:32:00.631Z",
+      "solution": "<p a></p><p b></p><style>body{background:#000}\n    [a]{background:#E0E246;border-radius:50%;width:60px;aspect-ratio:1;position:absolute;left:60px;top:104px;box-shadow:80px 0 0 -25px #fff,110px 0 0 -25px #fff,140px 0 0 -25px #fff,220px 0 0 0 #C74E4E;}[a]::before{background:#000;width:33px;aspect-ratio:1;transform:rotate(45deg);position:absolute;left:34px;top:13.5px;content:'';box-shadow:170px -112px 0 0 #000,155px -97.5px 0 0 #000,184px -126px 0 0 #000;}[b]{background:#C74E4E;width:60px;height:33px;position:absolute;left:280px;top:130px;z-index:-1;}",
+      "files": {
+        "solution": "battle-20-hover/target-119-pacman/solution.html",
+        "reference": "battle-20-hover/target-119-pacman/reference.png",
+        "rendered": "battle-20-hover/target-119-pacman/rendered.png"
+      },
+      "scoreNowCharacters": 554,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 120,
+      "battleId": 20,
+      "targetName": "Tank",
+      "submissionId": "fdPeBgOnOUxLlCVb4mlI",
+      "scoreThen": 648.67,
+      "scoreNow": 648.67,
+      "match": 100,
+      "codeSize": 221,
+      "lastUpdated": "2022-08-22T10:45:50.658Z",
+      "solution": "<body bgcolor=0>▜▛ ▔▗▖<a>▖▖</a>    ▟▙<p>█<style>html{color:54C144;border:solid+5vw}a{color:fff}*+*{font:5vw/25%a;margin:52%77%0%40}p{color:C74E4E;margin:-402%0;zoom:20;clip-path:pat\\68('m0 0v4h10v2H0V2h4V0h2v2h4V0h2v9h2V0",
+      "files": {
+        "solution": "battle-20-hover/target-120-tank/solution.html",
+        "reference": "battle-20-hover/target-120-tank/reference.png",
+        "rendered": "battle-20-hover/target-120-tank/rendered.png"
+      },
+      "scoreNowCharacters": 221,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 121,
+      "battleId": 20,
+      "targetName": "Duck Hunt",
+      "submissionId": "k2qLyEsZseJPntWaQihx",
+      "scoreThen": 617.22,
+      "scoreNow": 617.22,
+      "match": 100,
+      "codeSize": 330,
+      "lastUpdated": "2022-08-29T10:26:25.816Z",
+      "solution": "<body bgcolor=1E92FF style=box-shadow:inset+0-87q#6f6100,inset+0-129q#69d10a;width:9in;height:8cm><p><i><style>*{position:fixed;margin:0}p{width:20;height:80;background:#441A0A;top:100;left:50}i{background:#69d10a;width:40;color:69d10a;height:40;top:80;left:40;border-radius:50%;box-shadow:0-5vw,-5vw 0px,5vw 0,90vh 50px,90vh 70px",
+      "files": {
+        "solution": "battle-20-hover/target-121-duck-hunt/solution.html",
+        "reference": "battle-20-hover/target-121-duck-hunt/reference.png",
+        "rendered": "battle-20-hover/target-121-duck-hunt/rendered.png"
+      },
+      "scoreNowCharacters": 330,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 122,
+      "battleId": 20,
+      "targetName": "Tetris",
+      "submissionId": "wNOoTVh9VFkN3aeEUwtY",
+      "scoreThen": 606.27,
+      "scoreNow": 606.27,
+      "match": 100,
+      "codeSize": 436,
+      "lastUpdated": "2022-08-29T10:14:51.999Z",
+      "solution": "<style>*{background:#173889}*>*{position:fixed;left:42;top:145;width:45;height:45;background:#F8DA37;color:EE4F63;box-shadow:51px 0#F8DA37,51px -51px#F8DA37,0 -51px#F8DA37,0 102px#F8DA37,0 51px,51px 51px,102px 51px,102px 0,153px -51px,153px -102px,204px -102px,204px -153px,204px 0#B069F7,204px 51px#B069F7,255px 51px#B069F7,153px 51px#2CE1EA,153px 102px#2CE1EA,204px 102px#B069F7,255px 102px#2CE1EA,102px 102px#2CE1EA,51px 102px#2CE1EA",
+      "files": {
+        "solution": "battle-20-hover/target-122-tetris/solution.html",
+        "reference": "battle-20-hover/target-122-tetris/reference.png",
+        "rendered": "battle-20-hover/target-122-tetris/rendered.png"
+      },
+      "scoreNowCharacters": 436,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 123,
+      "battleId": 20,
+      "targetName": "Snake",
+      "submissionId": "VVoVfIJ9cNct2MD9WKE4",
+      "scoreThen": 627.74,
+      "scoreNow": 627.74,
+      "match": 100,
+      "codeSize": 280,
+      "lastUpdated": "2022-08-30T11:27:50.728Z",
+      "solution": "<style>*>*{color:e0e246;border-radius:6q;margin:190 315 90 65;box-shadow:26q 0,53q 0,79q 0,25vw 0,132q 0,50vh 0,185q 0,50vw 0,238q 0,238q -26q,238q -53q,238q -79q,238q -25vw,50vw -25vw,185q -25vw,50vh -25vw,132q -25vw}*{background:radial-gradient(1in at 25%25vw,#fff 11q,#C74E4E 0",
+      "files": {
+        "solution": "battle-20-hover/target-123-snake/solution.html",
+        "reference": "battle-20-hover/target-123-snake/reference.png",
+        "rendered": "battle-20-hover/target-123-snake/rendered.png"
+      },
+      "scoreNowCharacters": 280,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 124,
+      "battleId": 20,
+      "targetName": "Space Invaders",
+      "submissionId": "rDqdY1inKqlTspKGlQb9",
+      "scoreThen": 603.31,
+      "scoreNow": 603.31,
+      "match": 100,
+      "codeSize": 503,
+      "lastUpdated": "2022-08-29T11:51:51.924Z",
+      "solution": "<a a><a a b><a c><style>body{background:#071945}a{position:fixed;color:B069F7}[a]{left:40;top:40;width:50;height:10;background:#B069F7;box-shadow:90px 0,45vw 0,90vh 0,0 50px#F8DA37,90vh 50px#F8DA37,60vh 50px#F8DA37,var(--a,0 0)}[b]{left:30;top:50;width:10;height:10;--a:50vh 0,60px 0,60vw 0,330px 0,60px 50px#F8DA37,330px 50px#F8DA37,60vw 50px#F8DA37,55vh 190px#2CE1EA,55vh 40vw#2CE1EA,55vh 55vw#2CE1EA,55vh 230px#2CE1EA}[c]{left:179;top:258;border:solid 21px transparent;border-bottom:solid 21px#2CE1EA",
+      "files": {
+        "solution": "battle-20-hover/target-124-space-invaders/solution.html",
+        "reference": "battle-20-hover/target-124-space-invaders/reference.png",
+        "rendered": "battle-20-hover/target-124-space-invaders/rendered.png"
+      },
+      "scoreNowCharacters": 503,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 130,
+      "battleId": 21,
+      "targetName": "Letter O",
+      "submissionId": "9AHGN9XJF6mucL62dU1f",
+      "scoreThen": 728.67,
+      "scoreNow": 728.67,
+      "match": 100,
+      "codeSize": 119,
+      "lastUpdated": "2022-10-07T11:17:35.034Z",
+      "solution": "<body bgcolor=926927 style=border:solid#fff+5vw;margin:70+35%70+160;border-radius:32q;filter:drop-shadow(-5vw+0#6D480A>",
+      "files": {
+        "solution": "battle-21-rotate/target-130-letter-o/solution.html",
+        "reference": "battle-21-rotate/target-130-letter-o/reference.png",
+        "rendered": "battle-21-rotate/target-130-letter-o/rendered.png"
+      },
+      "scoreNowCharacters": 119,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 137,
+      "battleId": 22,
+      "targetName": "Elbow",
+      "submissionId": "wLvUAerGLMiCIDxv5oyz",
+      "scoreThen": 783.08,
+      "scoreNow": 783.08,
+      "match": 100,
+      "codeSize": 82,
+      "lastUpdated": "2024-10-28T07:22:43.276Z",
+      "solution": " ▢█ ➣┸<style>*{color:60F55;text-shadow:9q+0,0+9q,-8in -343q#6592CF;font:873q/241q'",
+      "files": {
+        "solution": "battle-22-grid/target-137-elbow/solution.html",
+        "reference": "battle-22-grid/target-137-elbow/reference.png",
+        "rendered": "battle-22-grid/target-137-elbow/rendered.png"
+      },
+      "scoreNowCharacters": 82,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 148,
+      "battleId": 24,
+      "targetName": "Eight",
+      "submissionId": "qiL9tA4I8HBX6eezSmHr",
+      "scoreThen": 754.22,
+      "scoreNow": 754.22,
+      "match": 100,
+      "codeSize": 100,
+      "lastUpdated": "2023-08-22T13:47:50.638Z",
+      "solution": "_° ¯¸¨ '_°<body bgcolor=926924 text=6D480A style=-webkit-text-stroke:14q;margin:73-83;font:580q/9%'>",
+      "files": {
+        "solution": "battle-24-offset/target-148-eight/solution.html",
+        "reference": "battle-24-offset/target-148-eight/reference.png",
+        "rendered": "battle-24-offset/target-148-eight/rendered.png"
+      },
+      "scoreNowCharacters": 100,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "last-score-matching-chars"
+    },
+    {
+      "levelId": 160,
+      "battleId": 26,
+      "targetName": "Donut",
+      "submissionId": "g6mEV1zHC9NNrCzakRHb",
+      "scoreThen": 703.34,
+      "scoreNow": 703.34,
+      "match": 100,
+      "codeSize": 142,
+      "lastUpdated": "2024-10-28T09:08:46.947Z",
+      "solution": "<style>*{background:conic-gradient(#F7EC7D 270deg, #E38F66 0)}*>*{margin:0;background:radial-gradient(9in,#62306D 7%, #0000 0 11.6%, #62306D 0",
+      "files": {
+        "solution": "battle-26-initial/target-160-donut/solution.html",
+        "reference": "battle-26-initial/target-160-donut/reference.png",
+        "rendered": "battle-26-initial/target-160-donut/rendered.png"
+      },
+      "scoreNowCharacters": 142,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    },
+    {
+      "levelId": 187,
+      "battleId": 30,
+      "targetName": "Striped Triangle",
+      "submissionId": "0E3Fwjmni4RGSHgdZqA3",
+      "scoreThen": 602.9,
+      "scoreNow": 602.9,
+      "match": 100,
+      "codeSize": 517,
+      "lastUpdated": "2024-10-28T13:01:36.618Z",
+      "solution": "<style>*{background:#40234B}*>*{width:230;height:3in;rotate: 30deg;margin: 50 20 0 85;transform-origin:100% 0;background: linear-gradient(-90deg, \n      #A94EA4 0,  19px, #0000   0,  29px, \n      #A94EA4 0,  45px, #0000   0,  55px,\n      #A94EA4 0,  71px, #0000   0,  81px,\n      #A94EA4 0,  97px, #0000   0,  107px,\n      #A94EA4 0,  123px,#0000   0,  133px,\n      #A94EA4 0,  149px,#0000   0,  159px,\n      #A94EA4 0,  175px,#0000   0,  185px, \n      #A94EA4 0);\n  clip-path: polygon(100% 0, 100% 80%, 13.5% 39.8%)}",
+      "files": {
+        "solution": "battle-30-gradient/target-187-striped-triangle/solution.html",
+        "reference": "battle-30-gradient/target-187-striped-triangle/reference.png",
+        "rendered": "battle-30-gradient/target-187-striped-triangle/rendered.png"
+      },
+      "scoreNowCharacters": 517,
+      "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+      "scoreNowSource": "submitted-your-stats"
+    }
+  ],
+  "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+  "scoreNowNote": "Current scores were collected by loading each exported solution into CSSBattle and clicking Submit."
+}

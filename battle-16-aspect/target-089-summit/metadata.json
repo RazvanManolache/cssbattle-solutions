@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 89,
+    "name": "Summit",
+    "url": "https://cssbattle.dev/play/89"
+  },
+  "battle": {
+    "id": 16,
+    "name": "Aspect"
+  },
+  "submission": {
+    "id": "MyXQEjhWm1bz2IL7QvAR",
+    "url": "https://cssbattle.dev/submission/MyXQEjhWm1bz2IL7QvAR",
+    "submittedAt": "2021-11-19T11:41:27.843Z"
+  },
+  "scores": {
+    "scoreThen": 712.6,
+    "scoreNow": 2.21,
+    "match": 100,
+    "characters": 133,
+    "scoreNowCharacters": 133,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

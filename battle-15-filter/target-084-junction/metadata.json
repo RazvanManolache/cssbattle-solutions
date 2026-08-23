@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 84,
+    "name": "Junction",
+    "url": "https://cssbattle.dev/play/84"
+  },
+  "battle": {
+    "id": 15,
+    "name": "Filter"
+  },
+  "submission": {
+    "id": "bs61qTW3XNNRruKgEEY8",
+    "url": "https://cssbattle.dev/submission/bs61qTW3XNNRruKgEEY8",
+    "submittedAt": "2021-12-09T09:37:22.128Z"
+  },
+  "scores": {
+    "scoreThen": 742.9,
+    "scoreNow": 742.9,
+    "match": 100,
+    "characters": 108,
+    "scoreNowCharacters": 108,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "last-score-matching-chars"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

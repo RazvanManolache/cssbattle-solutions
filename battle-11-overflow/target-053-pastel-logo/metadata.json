@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 53,
+    "name": "Pastel Logo",
+    "url": "https://cssbattle.dev/play/53"
+  },
+  "battle": {
+    "id": 11,
+    "name": "Overflow"
+  },
+  "submission": {
+    "id": "6FBIYRwpEFJEBmDvvB9x",
+    "url": "https://cssbattle.dev/submission/6FBIYRwpEFJEBmDvvB9x",
+    "submittedAt": "2021-11-15T15:19:08.887Z"
+  },
+  "scores": {
+    "scoreThen": 713.68,
+    "scoreNow": 1.47,
+    "match": 100,
+    "characters": 132,
+    "scoreNowCharacters": 132,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

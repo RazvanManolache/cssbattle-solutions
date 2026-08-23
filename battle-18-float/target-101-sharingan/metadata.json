@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 101,
+    "name": "Sharingan",
+    "url": "https://cssbattle.dev/play/101"
+  },
+  "battle": {
+    "id": 18,
+    "name": "Float"
+  },
+  "submission": {
+    "id": "FTG9GCMLczhNRrcPZrVB",
+    "url": "https://cssbattle.dev/submission/FTG9GCMLczhNRrcPZrVB",
+    "submittedAt": "2022-03-24T15:12:50.666Z"
+  },
+  "scores": {
+    "scoreThen": 662.36,
+    "scoreNow": 5.19,
+    "match": 100,
+    "characters": 195,
+    "scoreNowCharacters": 195,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 34,
+    "name": "Christmas Tree",
+    "url": "https://cssbattle.dev/play/34"
+  },
+  "battle": {
+    "id": 7,
+    "name": "Backface"
+  },
+  "submission": {
+    "id": "sH8RnuQvFpkPdxLHRc0c",
+    "url": "https://cssbattle.dev/submission/sH8RnuQvFpkPdxLHRc0c",
+    "submittedAt": "2021-10-06T22:34:30.920Z"
+  },
+  "scores": {
+    "scoreThen": 729.91,
+    "scoreNow": 597.96,
+    "match": 100,
+    "characters": 118,
+    "scoreNowCharacters": 118,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

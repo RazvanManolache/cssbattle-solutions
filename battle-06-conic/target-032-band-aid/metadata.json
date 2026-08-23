@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 32,
+    "name": "Band-aid",
+    "url": "https://cssbattle.dev/play/32"
+  },
+  "battle": {
+    "id": 6,
+    "name": "Conic"
+  },
+  "submission": {
+    "id": "uS9q6i3crxwM0RJVts2S",
+    "url": "https://cssbattle.dev/submission/uS9q6i3crxwM0RJVts2S",
+    "submittedAt": "2021-10-29T21:55:17.652Z"
+  },
+  "scores": {
+    "scoreThen": 687.89,
+    "scoreNow": 321.74,
+    "match": 100,
+    "characters": 159,
+    "scoreNowCharacters": 159,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

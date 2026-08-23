@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 87,
+    "name": "Building Blocks",
+    "url": "https://cssbattle.dev/play/87"
+  },
+  "battle": {
+    "id": 15,
+    "name": "Filter"
+  },
+  "submission": {
+    "id": "k4MI8XQWSf4YVQa8FiHW",
+    "url": "https://cssbattle.dev/submission/k4MI8XQWSf4YVQa8FiHW",
+    "submittedAt": "2021-10-20T21:45:38.678Z"
+  },
+  "scores": {
+    "scoreThen": 649.14,
+    "scoreNow": 0.94,
+    "match": 100,
+    "characters": 220,
+    "scoreNowCharacters": 220,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

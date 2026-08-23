@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 66,
+    "name": "Batmicky",
+    "url": "https://cssbattle.dev/play/66"
+  },
+  "battle": {
+    "id": 12,
+    "name": "Blend"
+  },
+  "submission": {
+    "id": "T9SCxL6zBXkprUeHBAdB",
+    "url": "https://cssbattle.dev/submission/T9SCxL6zBXkprUeHBAdB",
+    "submittedAt": "2022-04-23T10:58:13.191Z"
+  },
+  "scores": {
+    "scoreThen": 683,
+    "scoreNow": 683,
+    "match": 100,
+    "characters": 165,
+    "scoreNowCharacters": 165,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "last-score-matching-chars"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

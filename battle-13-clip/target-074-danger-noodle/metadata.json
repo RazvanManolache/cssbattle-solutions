@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 74,
+    "name": "Danger Noodle",
+    "url": "https://cssbattle.dev/play/74"
+  },
+  "battle": {
+    "id": 13,
+    "name": "Clip"
+  },
+  "submission": {
+    "id": "oAjQm9AZAC2PFPXyFEpr",
+    "url": "https://cssbattle.dev/submission/oAjQm9AZAC2PFPXyFEpr",
+    "submittedAt": "2021-09-07T09:53:32.883Z"
+  },
+  "scores": {
+    "scoreThen": 600.51,
+    "scoreNow": 25.79,
+    "match": 100,
+    "characters": 699,
+    "scoreNowCharacters": 699,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

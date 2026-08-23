@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 107,
+    "name": "Sealing Wand",
+    "url": "https://cssbattle.dev/play/107"
+  },
+  "battle": {
+    "id": 18,
+    "name": "Float"
+  },
+  "submission": {
+    "id": "i8gph9jTOvYRRYwYAtw7",
+    "url": "https://cssbattle.dev/submission/i8gph9jTOvYRRYwYAtw7",
+    "submittedAt": "2022-04-04T15:54:24.891Z"
+  },
+  "scores": {
+    "scoreThen": 611.99,
+    "scoreNow": 611.99,
+    "match": 100,
+    "characters": 368,
+    "scoreNowCharacters": 368,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "last-score-matching-chars"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

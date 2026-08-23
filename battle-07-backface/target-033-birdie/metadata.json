@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 33,
+    "name": "Birdie",
+    "url": "https://cssbattle.dev/play/33"
+  },
+  "battle": {
+    "id": 7,
+    "name": "Backface"
+  },
+  "submission": {
+    "id": "4t3FZiQ9BNHPfvsAc6jx",
+    "url": "https://cssbattle.dev/submission/4t3FZiQ9BNHPfvsAc6jx",
+    "submittedAt": "2021-11-04T08:49:53.333Z"
+  },
+  "scores": {
+    "scoreThen": 670.59,
+    "scoreNow": 1.2,
+    "match": 100,
+    "characters": 182,
+    "scoreNowCharacters": 182,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

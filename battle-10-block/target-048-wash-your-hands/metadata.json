@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 48,
+    "name": "Wash Your Hands",
+    "url": "https://cssbattle.dev/play/48"
+  },
+  "battle": {
+    "id": 10,
+    "name": "Block"
+  },
+  "submission": {
+    "id": "TX5prBfafdi5gSD5BhZ6",
+    "url": "https://cssbattle.dev/submission/TX5prBfafdi5gSD5BhZ6",
+    "submittedAt": "2021-10-06T12:36:32.615Z"
+  },
+  "scores": {
+    "scoreThen": 698.53,
+    "scoreNow": 9.2,
+    "match": 100,
+    "characters": 147,
+    "scoreNowCharacters": 147,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

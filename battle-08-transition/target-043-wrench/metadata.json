@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 43,
+    "name": "Wrench",
+    "url": "https://cssbattle.dev/play/43"
+  },
+  "battle": {
+    "id": 8,
+    "name": "Transition"
+  },
+  "submission": {
+    "id": "M7YFJjsUfnshLhK1WZhu",
+    "url": "https://cssbattle.dev/submission/M7YFJjsUfnshLhK1WZhu",
+    "submittedAt": "2021-10-26T19:45:24.622Z"
+  },
+  "scores": {
+    "scoreThen": 697.6,
+    "scoreNow": 697.6,
+    "match": 100,
+    "characters": 148,
+    "scoreNowCharacters": 148,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

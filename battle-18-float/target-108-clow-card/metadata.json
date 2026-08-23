@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 108,
+    "name": "Clow Card",
+    "url": "https://cssbattle.dev/play/108"
+  },
+  "battle": {
+    "id": 18,
+    "name": "Float"
+  },
+  "submission": {
+    "id": "52OaVW2O1gkegt9BOue0",
+    "url": "https://cssbattle.dev/submission/52OaVW2O1gkegt9BOue0",
+    "submittedAt": "2022-04-04T13:10:13.900Z"
+  },
+  "scores": {
+    "scoreThen": 613.57,
+    "scoreNow": 12.9,
+    "match": 100,
+    "characters": 355,
+    "scoreNowCharacters": 355,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

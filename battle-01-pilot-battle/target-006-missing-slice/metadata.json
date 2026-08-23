@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 6,
+    "name": "Missing Slice",
+    "url": "https://cssbattle.dev/play/6"
+  },
+  "battle": {
+    "id": 1,
+    "name": "Pilot Battle"
+  },
+  "submission": {
+    "id": "yBpg6pkJhfwN9un8k2Cj",
+    "url": "https://cssbattle.dev/submission/yBpg6pkJhfwN9un8k2Cj",
+    "submittedAt": "2021-11-01T13:07:17.354Z"
+  },
+  "scores": {
+    "scoreThen": 723.86,
+    "scoreNow": 723.86,
+    "match": 100,
+    "characters": 123,
+    "scoreNowCharacters": 123,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

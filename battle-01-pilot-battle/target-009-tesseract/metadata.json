@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 9,
+    "name": "Tesseract",
+    "url": "https://cssbattle.dev/play/9"
+  },
+  "battle": {
+    "id": 1,
+    "name": "Pilot Battle"
+  },
+  "submission": {
+    "id": "xI6ZvlNf7GMR1r8MAhc4",
+    "url": "https://cssbattle.dev/submission/xI6ZvlNf7GMR1r8MAhc4",
+    "submittedAt": "2021-07-28T11:25:44.583Z"
+  },
+  "scores": {
+    "scoreThen": 699.48,
+    "scoreNow": 699.48,
+    "match": 100,
+    "characters": 146,
+    "scoreNowCharacters": 146,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

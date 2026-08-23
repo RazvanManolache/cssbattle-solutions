@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 50,
+    "name": "Use Hand Sanitizer",
+    "url": "https://cssbattle.dev/play/50"
+  },
+  "battle": {
+    "id": 10,
+    "name": "Block"
+  },
+  "submission": {
+    "id": "CZc3naOXEx5FIBQEhqKv",
+    "url": "https://cssbattle.dev/submission/CZc3naOXEx5FIBQEhqKv",
+    "submittedAt": "2021-10-07T14:44:46.220Z"
+  },
+  "scores": {
+    "scoreThen": 610.2,
+    "scoreNow": 483.37,
+    "match": 100,
+    "characters": 385,
+    "scoreNowCharacters": 385,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

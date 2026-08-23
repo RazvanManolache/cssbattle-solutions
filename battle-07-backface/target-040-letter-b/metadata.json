@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 40,
+    "name": "Letter B",
+    "url": "https://cssbattle.dev/play/40"
+  },
+  "battle": {
+    "id": 7,
+    "name": "Backface"
+  },
+  "submission": {
+    "id": "Dt9yxg5tRJqzBWBPyPXT",
+    "url": "https://cssbattle.dev/submission/Dt9yxg5tRJqzBWBPyPXT",
+    "submittedAt": "2021-11-02T10:34:06.044Z"
+  },
+  "scores": {
+    "scoreThen": 713.68,
+    "scoreNow": 1.71,
+    "match": 100,
+    "characters": 132,
+    "scoreNowCharacters": 132,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

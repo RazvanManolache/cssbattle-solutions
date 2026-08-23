@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 118,
+    "name": "Donkey Kong",
+    "url": "https://cssbattle.dev/play/118"
+  },
+  "battle": {
+    "id": 20,
+    "name": "Hover"
+  },
+  "submission": {
+    "id": "9ukY1g3ppv9aijYIybij",
+    "url": "https://cssbattle.dev/submission/9ukY1g3ppv9aijYIybij",
+    "submittedAt": "2022-08-29T09:43:00.133Z"
+  },
+  "scores": {
+    "scoreThen": 625.22,
+    "scoreNow": 625.22,
+    "match": 100,
+    "characters": 290,
+    "scoreNowCharacters": 290,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

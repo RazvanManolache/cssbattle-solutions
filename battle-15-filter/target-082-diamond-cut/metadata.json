@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 82,
+    "name": "Diamond Cut",
+    "url": "https://cssbattle.dev/play/82"
+  },
+  "battle": {
+    "id": 15,
+    "name": "Filter"
+  },
+  "submission": {
+    "id": "DKrSY77JNbTTyQDb08yt",
+    "url": "https://cssbattle.dev/submission/DKrSY77JNbTTyQDb08yt",
+    "submittedAt": "2021-09-23T11:06:35.532Z"
+  },
+  "scores": {
+    "scoreThen": 694.85,
+    "scoreNow": 597.9,
+    "match": 100,
+    "characters": 151,
+    "scoreNowCharacters": 151,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

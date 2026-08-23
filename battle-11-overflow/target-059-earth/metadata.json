@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 59,
+    "name": "Earth",
+    "url": "https://cssbattle.dev/play/59"
+  },
+  "battle": {
+    "id": 11,
+    "name": "Overflow"
+  },
+  "submission": {
+    "id": "7TlPJpgqMjHCbgH0d0C3",
+    "url": "https://cssbattle.dev/submission/7TlPJpgqMjHCbgH0d0C3",
+    "submittedAt": "2021-11-09T23:55:04.347Z"
+  },
+  "scores": {
+    "scoreThen": 654.57,
+    "scoreNow": 2.94,
+    "match": 100,
+    "characters": 209,
+    "scoreNowCharacters": 209,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 44,
+    "name": "Stripes",
+    "url": "https://cssbattle.dev/play/44"
+  },
+  "battle": {
+    "id": 8,
+    "name": "Transition"
+  },
+  "submission": {
+    "id": "xfcpmqYhbU8XA5ysLphY",
+    "url": "https://cssbattle.dev/submission/xfcpmqYhbU8XA5ysLphY",
+    "submittedAt": "2021-11-22T17:35:04.485Z"
+  },
+  "scores": {
+    "scoreThen": 726.24,
+    "scoreNow": 726.24,
+    "match": 100,
+    "characters": 121,
+    "scoreNowCharacters": 121,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

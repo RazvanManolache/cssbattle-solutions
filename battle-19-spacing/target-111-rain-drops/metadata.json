@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 111,
+    "name": "Rain Drops",
+    "url": "https://cssbattle.dev/play/111"
+  },
+  "battle": {
+    "id": 19,
+    "name": "Spacing"
+  },
+  "submission": {
+    "id": "fzl1khvpI3dcASRV4TxR",
+    "url": "https://cssbattle.dev/submission/fzl1khvpI3dcASRV4TxR",
+    "submittedAt": "2022-06-21T11:36:31.128Z"
+  },
+  "scores": {
+    "scoreThen": 734.95,
+    "scoreNow": 734.95,
+    "match": 100,
+    "characters": 114,
+    "scoreNowCharacters": 114,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "last-score-matching-chars"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

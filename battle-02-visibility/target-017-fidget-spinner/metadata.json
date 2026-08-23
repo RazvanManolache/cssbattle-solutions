@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 17,
+    "name": "Fidget Spinner",
+    "url": "https://cssbattle.dev/play/17"
+  },
+  "battle": {
+    "id": 2,
+    "name": "Visibility"
+  },
+  "submission": {
+    "id": "0inrTTz8I8b9D6olE7hm",
+    "url": "https://cssbattle.dev/submission/0inrTTz8I8b9D6olE7hm",
+    "submittedAt": "2021-10-05T12:01:41.940Z"
+  },
+  "scores": {
+    "scoreThen": 649.61,
+    "scoreNow": 649.61,
+    "match": 100,
+    "characters": 219,
+    "scoreNowCharacters": 219,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

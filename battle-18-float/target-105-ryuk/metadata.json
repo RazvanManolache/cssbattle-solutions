@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 105,
+    "name": "Ryuk",
+    "url": "https://cssbattle.dev/play/105"
+  },
+  "battle": {
+    "id": 18,
+    "name": "Float"
+  },
+  "submission": {
+    "id": "Z6QJpRZKicRUH17u8tQT",
+    "url": "https://cssbattle.dev/submission/Z6QJpRZKicRUH17u8tQT",
+    "submittedAt": "2022-03-31T14:13:15.433Z"
+  },
+  "scores": {
+    "scoreThen": 620.84,
+    "scoreNow": 620.84,
+    "match": 100,
+    "characters": 310,
+    "scoreNowCharacters": 310,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 106,
+    "name": "Ryuk's Apple",
+    "url": "https://cssbattle.dev/play/106"
+  },
+  "battle": {
+    "id": 18,
+    "name": "Float"
+  },
+  "submission": {
+    "id": "BljU27EF9VliR4nAprvH",
+    "url": "https://cssbattle.dev/submission/BljU27EF9VliR4nAprvH",
+    "submittedAt": "2022-04-04T21:28:39.836Z"
+  },
+  "scores": {
+    "scoreThen": 713.68,
+    "scoreNow": 713.68,
+    "match": 100,
+    "characters": 132,
+    "scoreNowCharacters": 132,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "last-score-matching-chars"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

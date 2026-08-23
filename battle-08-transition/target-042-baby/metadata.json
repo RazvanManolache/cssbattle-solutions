@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 42,
+    "name": "Baby",
+    "url": "https://cssbattle.dev/play/42"
+  },
+  "battle": {
+    "id": 8,
+    "name": "Transition"
+  },
+  "submission": {
+    "id": "eHJ6V4PfgJHrjFL66k3d",
+    "url": "https://cssbattle.dev/submission/eHJ6V4PfgJHrjFL66k3d",
+    "submittedAt": "2021-11-03T08:39:09.688Z"
+  },
+  "scores": {
+    "scoreThen": 640.61,
+    "scoreNow": 179.72,
+    "match": 100,
+    "characters": 240,
+    "scoreNowCharacters": 240,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

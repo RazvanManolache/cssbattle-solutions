@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 70,
+    "name": "Froggy",
+    "url": "https://cssbattle.dev/play/70"
+  },
+  "battle": {
+    "id": 13,
+    "name": "Clip"
+  },
+  "submission": {
+    "id": "uzxQ9tnE59DzYZ5u3WZz",
+    "url": "https://cssbattle.dev/submission/uzxQ9tnE59DzYZ5u3WZz",
+    "submittedAt": "2021-10-25T14:49:40.388Z"
+  },
+  "scores": {
+    "scoreThen": 627.21,
+    "scoreNow": 2.43,
+    "match": 100,
+    "characters": 282,
+    "scoreNowCharacters": 282,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

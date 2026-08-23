@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 116,
+    "name": "Headphones",
+    "url": "https://cssbattle.dev/play/116"
+  },
+  "battle": {
+    "id": 19,
+    "name": "Spacing"
+  },
+  "submission": {
+    "id": "ENl6qCqI3ZPzXLwlVB1G",
+    "url": "https://cssbattle.dev/submission/ENl6qCqI3ZPzXLwlVB1G",
+    "submittedAt": "2022-07-05T07:25:15.604Z"
+  },
+  "scores": {
+    "scoreThen": 676.18,
+    "scoreNow": 676.18,
+    "match": 100,
+    "characters": 174,
+    "scoreNowCharacters": 174,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "last-score-matching-chars"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

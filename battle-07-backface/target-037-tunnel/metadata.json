@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 37,
+    "name": "Tunnel",
+    "url": "https://cssbattle.dev/play/37"
+  },
+  "battle": {
+    "id": 7,
+    "name": "Backface"
+  },
+  "submission": {
+    "id": "aZOsJFfxVGFu8AAWrmtf",
+    "url": "https://cssbattle.dev/submission/aZOsJFfxVGFu8AAWrmtf",
+    "submittedAt": "2021-11-05T14:55:21.797Z"
+  },
+  "scores": {
+    "scoreThen": 705.33,
+    "scoreNow": 325.78,
+    "match": 100,
+    "characters": 140,
+    "scoreNowCharacters": 140,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

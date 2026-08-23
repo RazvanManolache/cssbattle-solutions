@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 120,
+    "name": "Tank",
+    "url": "https://cssbattle.dev/play/120"
+  },
+  "battle": {
+    "id": 20,
+    "name": "Hover"
+  },
+  "submission": {
+    "id": "fdPeBgOnOUxLlCVb4mlI",
+    "url": "https://cssbattle.dev/submission/fdPeBgOnOUxLlCVb4mlI",
+    "submittedAt": "2022-08-22T10:45:50.658Z"
+  },
+  "scores": {
+    "scoreThen": 648.67,
+    "scoreNow": 648.67,
+    "match": 100,
+    "characters": 221,
+    "scoreNowCharacters": 221,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "last-score-matching-chars"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

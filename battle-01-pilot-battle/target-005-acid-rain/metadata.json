@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 5,
+    "name": "Acid Rain",
+    "url": "https://cssbattle.dev/play/5"
+  },
+  "battle": {
+    "id": 1,
+    "name": "Pilot Battle"
+  },
+  "submission": {
+    "id": "rJ6FzfBODBTUPozVAqgA",
+    "url": "https://cssbattle.dev/submission/rJ6FzfBODBTUPozVAqgA",
+    "submittedAt": "2021-11-01T13:09:34.916Z"
+  },
+  "scores": {
+    "scoreThen": 683.8,
+    "scoreNow": 683.8,
+    "match": 100,
+    "characters": 164,
+    "scoreNowCharacters": 164,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

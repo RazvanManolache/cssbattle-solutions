@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 30,
+    "name": "Horizon",
+    "url": "https://cssbattle.dev/play/30"
+  },
+  "battle": {
+    "id": 5,
+    "name": "Inline"
+  },
+  "submission": {
+    "id": "sgcNoCO3ytGkK24KeJtp",
+    "url": "https://cssbattle.dev/submission/sgcNoCO3ytGkK24KeJtp",
+    "submittedAt": "2021-07-16T15:29:13.498Z"
+  },
+  "scores": {
+    "scoreThen": 771.26,
+    "scoreNow": 771.26,
+    "match": 100,
+    "characters": 89,
+    "scoreNowCharacters": 89,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

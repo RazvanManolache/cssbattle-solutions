@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 72,
+    "name": "Sheep",
+    "url": "https://cssbattle.dev/play/72"
+  },
+  "battle": {
+    "id": 13,
+    "name": "Clip"
+  },
+  "submission": {
+    "id": "W75RYXCtb6fMF0HMEbJg",
+    "url": "https://cssbattle.dev/submission/W75RYXCtb6fMF0HMEbJg",
+    "submittedAt": "2021-10-25T14:19:28.099Z"
+  },
+  "scores": {
+    "scoreThen": 614.65,
+    "scoreNow": 194.42,
+    "match": 100,
+    "characters": 347,
+    "scoreNowCharacters": 347,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

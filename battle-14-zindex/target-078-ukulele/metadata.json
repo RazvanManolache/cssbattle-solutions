@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 78,
+    "name": "Ukulele",
+    "url": "https://cssbattle.dev/play/78"
+  },
+  "battle": {
+    "id": 14,
+    "name": "ZIndex"
+  },
+  "submission": {
+    "id": "b8UUKUoFHN0XYruonHO7",
+    "url": "https://cssbattle.dev/submission/b8UUKUoFHN0XYruonHO7",
+    "submittedAt": "2021-12-02T09:03:18.144Z"
+  },
+  "scores": {
+    "scoreThen": 614.93,
+    "scoreNow": 279.35,
+    "match": 100,
+    "characters": 345,
+    "scoreNowCharacters": 345,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 160,
+    "name": "Donut",
+    "url": "https://cssbattle.dev/play/160"
+  },
+  "battle": {
+    "id": 26,
+    "name": "Initial"
+  },
+  "submission": {
+    "id": "g6mEV1zHC9NNrCzakRHb",
+    "url": "https://cssbattle.dev/submission/g6mEV1zHC9NNrCzakRHb",
+    "submittedAt": "2024-10-28T09:08:46.947Z"
+  },
+  "scores": {
+    "scoreThen": 703.34,
+    "scoreNow": 703.34,
+    "match": 100,
+    "characters": 142,
+    "scoreNowCharacters": 142,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

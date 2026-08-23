@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 18,
+    "name": "Matrix",
+    "url": "https://cssbattle.dev/play/18"
+  },
+  "battle": {
+    "id": 2,
+    "name": "Visibility"
+  },
+  "submission": {
+    "id": "yPVRVdOz1vGG2APmJHqh",
+    "url": "https://cssbattle.dev/submission/yPVRVdOz1vGG2APmJHqh",
+    "submittedAt": "2022-06-21T11:57:26.123Z"
+  },
+  "scores": {
+    "scoreThen": 702.36,
+    "scoreNow": 702.36,
+    "match": 100,
+    "characters": 143,
+    "scoreNowCharacters": 143,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

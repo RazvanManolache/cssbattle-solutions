@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 47,
+    "name": "Corona Virus",
+    "url": "https://cssbattle.dev/play/47"
+  },
+  "battle": {
+    "id": 10,
+    "name": "Block"
+  },
+  "submission": {
+    "id": "p493PzbaO2Wz2h0pyRVf",
+    "url": "https://cssbattle.dev/submission/p493PzbaO2Wz2h0pyRVf",
+    "submittedAt": "2021-10-22T12:38:59.773Z"
+  },
+  "scores": {
+    "scoreThen": 629.93,
+    "scoreNow": 17.91,
+    "match": 100,
+    "characters": 272,
+    "scoreNowCharacters": 272,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

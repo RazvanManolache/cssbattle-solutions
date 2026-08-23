@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 117,
+    "name": "Arineo",
+    "url": "https://cssbattle.dev/play/117"
+  },
+  "battle": {
+    "id": 20,
+    "name": "Hover"
+  },
+  "submission": {
+    "id": "2M3DE2n91jhnpQCWnGsK",
+    "url": "https://cssbattle.dev/submission/2M3DE2n91jhnpQCWnGsK",
+    "submittedAt": "2022-08-30T11:31:05.040Z"
+  },
+  "scores": {
+    "scoreThen": 600.97,
+    "scoreNow": 600.97,
+    "match": 100,
+    "characters": 632,
+    "scoreNowCharacters": 632,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

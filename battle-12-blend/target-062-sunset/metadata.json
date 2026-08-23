@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 62,
+    "name": "Sunset",
+    "url": "https://cssbattle.dev/play/62"
+  },
+  "battle": {
+    "id": 12,
+    "name": "Blend"
+  },
+  "submission": {
+    "id": "99ZZQZk051XU0q7kHJ1V",
+    "url": "https://cssbattle.dev/submission/99ZZQZk051XU0q7kHJ1V",
+    "submittedAt": "2021-07-21T09:56:25.027Z"
+  },
+  "scores": {
+    "scoreThen": 684.6,
+    "scoreNow": 684.6,
+    "match": 100,
+    "characters": 163,
+    "scoreNowCharacters": 163,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "last-score-matching-chars"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

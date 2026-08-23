@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 79,
+    "name": "Tambourine",
+    "url": "https://cssbattle.dev/play/79"
+  },
+  "battle": {
+    "id": 14,
+    "name": "ZIndex"
+  },
+  "submission": {
+    "id": "p3dV1WEqAJyfV4r4Z7qk",
+    "url": "https://cssbattle.dev/submission/p3dV1WEqAJyfV4r4Z7qk",
+    "submittedAt": "2021-11-22T15:29:48.612Z"
+  },
+  "scores": {
+    "scoreThen": 620.84,
+    "scoreNow": 3.67,
+    "match": 100,
+    "characters": 310,
+    "scoreNowCharacters": 310,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

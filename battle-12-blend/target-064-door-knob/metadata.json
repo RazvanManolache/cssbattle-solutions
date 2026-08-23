@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 64,
+    "name": "Door Knob",
+    "url": "https://cssbattle.dev/play/64"
+  },
+  "battle": {
+    "id": 12,
+    "name": "Blend"
+  },
+  "submission": {
+    "id": "iPJ6m7yj2j8rlmcAYYCs",
+    "url": "https://cssbattle.dev/submission/iPJ6m7yj2j8rlmcAYYCs",
+    "submittedAt": "2021-10-20T15:43:10.484Z"
+  },
+  "scores": {
+    "scoreThen": 688.73,
+    "scoreNow": 2.21,
+    "match": 100,
+    "characters": 158,
+    "scoreNowCharacters": 158,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

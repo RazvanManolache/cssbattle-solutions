@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 20,
+    "name": "Ticket",
+    "url": "https://cssbattle.dev/play/20"
+  },
+  "battle": {
+    "id": 3,
+    "name": "Cursor"
+  },
+  "submission": {
+    "id": "0lIbDeI8LK97MKqBNstR",
+    "url": "https://cssbattle.dev/submission/0lIbDeI8LK97MKqBNstR",
+    "submittedAt": "2021-11-18T09:43:15.134Z"
+  },
+  "scores": {
+    "scoreThen": 672.63,
+    "scoreNow": 672.63,
+    "match": 100,
+    "characters": 179,
+    "scoreNowCharacters": 179,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

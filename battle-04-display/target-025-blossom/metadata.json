@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 25,
+    "name": "Blossom",
+    "url": "https://cssbattle.dev/play/25"
+  },
+  "battle": {
+    "id": 4,
+    "name": "Display"
+  },
+  "submission": {
+    "id": "eii1WrGXpW8P2Yplaqz7",
+    "url": "https://cssbattle.dev/submission/eii1WrGXpW8P2Yplaqz7",
+    "submittedAt": "2021-09-06T09:09:14.416Z"
+  },
+  "scores": {
+    "scoreThen": 646.85,
+    "scoreNow": 1.44,
+    "match": 100,
+    "characters": 225,
+    "scoreNowCharacters": 225,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 109,
+    "name": "Curtain",
+    "url": "https://cssbattle.dev/play/109"
+  },
+  "battle": {
+    "id": 19,
+    "name": "Spacing"
+  },
+  "submission": {
+    "id": "xgXnvrC17KybEaB6QWVU",
+    "url": "https://cssbattle.dev/submission/xgXnvrC17KybEaB6QWVU",
+    "submittedAt": "2022-07-04T10:18:46.514Z"
+  },
+  "scores": {
+    "scoreThen": 771.26,
+    "scoreNow": 771.26,
+    "match": 100,
+    "characters": 89,
+    "scoreNowCharacters": 89,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

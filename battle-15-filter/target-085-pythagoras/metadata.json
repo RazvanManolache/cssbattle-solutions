@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 85,
+    "name": "Pythagoras",
+    "url": "https://cssbattle.dev/play/85"
+  },
+  "battle": {
+    "id": 15,
+    "name": "Filter"
+  },
+  "submission": {
+    "id": "SRPUeJxSp5jTBlXr2T3h",
+    "url": "https://cssbattle.dev/submission/SRPUeJxSp5jTBlXr2T3h",
+    "submittedAt": "2021-10-20T21:58:46.717Z"
+  },
+  "scores": {
+    "scoreThen": 694.85,
+    "scoreNow": 22.43,
+    "match": 100,
+    "characters": 151,
+    "scoreNowCharacters": 151,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

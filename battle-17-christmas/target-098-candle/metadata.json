@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 98,
+    "name": "Candle",
+    "url": "https://cssbattle.dev/play/98"
+  },
+  "battle": {
+    "id": 17,
+    "name": "Christmas 🎄"
+  },
+  "submission": {
+    "id": "dwyToDC2jQjCqsqK1JpZ",
+    "url": "https://cssbattle.dev/submission/dwyToDC2jQjCqsqK1JpZ",
+    "submittedAt": "2021-12-25T22:17:31.051Z"
+  },
+  "scores": {
+    "scoreThen": 660.03,
+    "scoreNow": 437.72,
+    "match": 100,
+    "characters": 199,
+    "scoreNowCharacters": 199,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

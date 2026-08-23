@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 71,
+    "name": "Elephant",
+    "url": "https://cssbattle.dev/play/71"
+  },
+  "battle": {
+    "id": 13,
+    "name": "Clip"
+  },
+  "submission": {
+    "id": "WGlDBMZTWeaEZNxejUBg",
+    "url": "https://cssbattle.dev/submission/WGlDBMZTWeaEZNxejUBg",
+    "submittedAt": "2021-12-20T16:31:01.792Z"
+  },
+  "scores": {
+    "scoreThen": 615.07,
+    "scoreNow": 615.07,
+    "match": 100,
+    "characters": 344,
+    "scoreNowCharacters": 344,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "last-score-matching-chars"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL after retry",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}

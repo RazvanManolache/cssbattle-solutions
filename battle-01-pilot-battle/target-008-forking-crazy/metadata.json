@@ -1,0 +1,33 @@
+{
+  "target": {
+    "id": 8,
+    "name": "Forking Crazy",
+    "url": "https://cssbattle.dev/play/8"
+  },
+  "battle": {
+    "id": 1,
+    "name": "Pilot Battle"
+  },
+  "submission": {
+    "id": "243k3yVVROu9c6aCC3Lm",
+    "url": "https://cssbattle.dev/submission/243k3yVVROu9c6aCC3Lm",
+    "submittedAt": "2022-01-06T09:45:16.197Z"
+  },
+  "scores": {
+    "scoreThen": 669.92,
+    "scoreNow": 575.82,
+    "match": 100,
+    "characters": 183,
+    "scoreNowCharacters": 183,
+    "scoreNowCollectedAt": "2026-08-23T01:04:14.062Z",
+    "scoreNowSource": "submitted-your-stats"
+  },
+  "files": {
+    "solution": "solution.html",
+    "reference": "reference.png",
+    "rendered": "rendered.png",
+    "submitResults": "../../submit-results.json"
+  },
+  "extractionNote": "extracted from exact saved high-score submission URL",
+  "currentScoreNote": "Collected by loading this solution into CSSBattle and clicking Submit."
+}
