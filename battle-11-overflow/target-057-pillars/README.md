@@ -12,6 +12,20 @@ Battle: #11 - Overflow
 - Characters: 225
 - Characters on current submit: 225
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<dl><p><style>*+*{margin:95 145}*>*{--b:#4F77FF;border-image:radial-gradient(var(--,#191919)71%,#0000 0)100%fill/var(--w,64q)/5vw}dl,p{height:100%;--b:#0000;--:#F9E492;--w:48q}p{--:#4F77FF;--w:32q}*{background:var(--b,#191919
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

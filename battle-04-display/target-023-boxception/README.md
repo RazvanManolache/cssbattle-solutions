@@ -12,6 +12,20 @@ Battle: #4 - Display
 - Characters: 102
 - Characters on current submit: 102
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<style>*{color:F3AC3C;zoom:5;box-shadow:-1px 1px 0 1px,-2px 0 0 2px#998235,0-2px 0 4px#1A4341,0 0 0 9q
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

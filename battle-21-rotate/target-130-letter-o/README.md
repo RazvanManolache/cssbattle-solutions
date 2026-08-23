@@ -12,6 +12,20 @@ Battle: #21 - Rotate
 - Characters: 119
 - Characters on current submit: 119
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<body bgcolor=926927 style=border:solid#fff+5vw;margin:70+35%70+160;border-radius:32q;filter:drop-shadow(-5vw+0#6D480A>
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

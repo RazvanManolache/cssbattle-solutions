@@ -12,6 +12,20 @@ Battle: #14 - ZIndex
 - Characters: 310
 - Characters on current submit: 310
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<a><b><c><d><e><style>*>*{--:at 50%196q,#6592CF,53q,#243D83 0 64q,#0000;margin:75 115 55}*>*>*{position:fixed;padding:25;--:,#243D83 5q,#6592CF 0 5vh,#243D83 0;top:20;left:-10}c{top:-20;left:60}b,d{top:90}d,e{left:130}*{border-radius:49%;background:radial-gradient(1q var(--,,#6592CF 79q,#243D83 0 85px,#6592CF
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

@@ -12,6 +12,20 @@ Battle: #13 - Clip
 - Characters: 282
 - Characters on current submit: 282
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<p><style>*>*{margin:110 125 90;--:at 50%-138q,#FE5F55 0 50vw,#A64942}p{position:fixed;--:,#293462 0 5q,#FFF1C1 0 16q,#FE5F55;padding:25;margin:-25 85;box-shadow:-26q 58q 0-21q#293462;-webkit-box-reflect:left 22q}*{border-radius:2in;background:radial-gradient(1q var(--,,#293462 0 0
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

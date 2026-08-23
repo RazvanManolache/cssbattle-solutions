@@ -12,6 +12,20 @@ Battle: #19 - Spacing
 - Characters: 159
 - Characters on current submit: 159
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<dl><dl><dl><dl><dl><dl><style>html{background:#D25B70;margin:187 72}*>*{background:#F2E09F;border-radius:9q;width:100;height:10}dl{offset:path('M59.4-30l9 5.2
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

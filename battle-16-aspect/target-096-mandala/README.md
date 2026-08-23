@@ -12,6 +12,20 @@ Battle: #16 - Aspect
 - Characters: 146
 - Characters on current submit: 146
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<style>*{--:50vh radial-gradient(1q,#0000,69q,#243D83 0 90q,#0000),;background:18%/var(--)50%-6%/50%var(--)radial-gradient(1q,#6592CF,25vw,#243D83
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

@@ -12,6 +12,20 @@ Battle: #24 - Offset
 - Characters: 100
 - Characters on current submit: 100
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+_° ¯¸¨ '_°<body bgcolor=926924 text=6D480A style=-webkit-text-stroke:14q;margin:73-83;font:580q/9%'>
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

@@ -12,6 +12,20 @@ Battle: #19 - Spacing
 - Characters: 114
 - Characters on current submit: 114
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+  ⬤     ◆<body bgcolor=F3AC3C style="text-shadow:0 148q,-84q 74q,0-267q,0-162q,-62q -214q;font:142q/1'"text=25434>
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

@@ -12,6 +12,20 @@ Battle: #16 - Aspect
 - Characters: 133
 - Characters on current submit: 133
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<style>*{background:conic-gradient(from 225deg at 50%53%,var(--,#191919 75%,#25fc)0)}*>*{--:#F9E492 75%,#191919;clip-path:circle(25vw
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

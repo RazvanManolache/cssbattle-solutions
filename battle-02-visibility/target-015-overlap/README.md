@@ -12,6 +12,20 @@ Battle: #2 - Visibility
 - Characters: 109
 - Characters on current submit: 109
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<body bgcolor=09042A style=margin:75+44%75+75;border-radius:50%;box-shadow:25vw+0#E78481,inset+25vw+0#7B3F61>
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

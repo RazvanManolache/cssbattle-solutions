@@ -12,6 +12,20 @@ Battle: #2 - Visibility
 - Characters: 143
 - Characters on current submit: 143
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<style>*>*{background:radial-gradient(at 99%99%,#0000,84q,#5C434C 0)30%45%/25%106q,0 0/50%67%repeating-conic-gradient(#F5D6B4,25%,#F09462 0 50%
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

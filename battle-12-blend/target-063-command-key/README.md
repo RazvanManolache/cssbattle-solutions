@@ -12,6 +12,20 @@ Battle: #12 - Blend
 - Characters: 171
 - Characters on current submit: 171
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<b><b><b><style>*+*{margin:-60}*>*{border-radius:50%50%0;--:'M120 0v1'}*{border:10px solid#5dbcf9;padding:25;background:#191919;position:fixed;offset:path(var(--,'M201 149
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

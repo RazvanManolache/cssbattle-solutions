@@ -12,6 +12,20 @@ Battle: #15 - Filter
 - Characters: 220
 - Characters on current submit: 220
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<p><dt><style>*{margin:75 50%;box-shadow:var(--,#1A4341)0 0 0 9in}dt{mix-blend-mode:darken;--:#F3AC3e}p{mix-blend-mode:lighten;--:-90q -37q 0 53q,-11q -64q 0 26q,11q 64q 0 26q,90q 37q 0 53q,#fff;filter:blur(5q)contrast(9
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

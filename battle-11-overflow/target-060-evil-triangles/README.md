@@ -12,6 +12,20 @@ Battle: #11 - Overflow
 - Characters: 99
 - Characters on current submit: 99
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<body bgcolor=191919 style=margin:77+93;letter-spacing:-14;font:68q/53q' text=4F77FF>◥◤◥◤ ◣◢◣◢ ◥◤◥◤
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

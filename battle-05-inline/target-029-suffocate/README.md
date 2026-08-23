@@ -12,6 +12,20 @@ Battle: #5 - Inline
 - Characters: 137
 - Characters on current submit: 137
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<style>*{background:#F3AC3C}*>*{margin:50 100;background:#1A4341;border-image:radial-gradient(#F3AC3C 70.3%,#0000 71%0)100%fill/50vw/25vw
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

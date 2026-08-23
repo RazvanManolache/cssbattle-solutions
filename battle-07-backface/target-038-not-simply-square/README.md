@@ -12,6 +12,20 @@ Battle: #7 - Backface
 - Characters: 117
 - Characters on current submit: 117
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<body bgcolor=FFF1C text=293462 style=margin:0%50%25%0;zoom:52.92;box-shadow:6q+0,4q+4q,3q+3q#A64942,0+0+0+2q#FE5F55>
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

@@ -12,6 +12,20 @@ Battle: #10 - Block
 - Characters: 282
 - Characters on current submit: 282
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<a><b><c><d><style>*{background:var(--,#293462);position:fixed}*>*{border-radius:5vw;box-shadow:0 0 0 11q#FFF1C1;inset:116q 79q 50vh}b{--:#FFF1C1;inset:116q 143q;border-radius:0 0 42q 42q}c,d{--:#FE5F55;inset:30vw 228q 180q 153q}c{box-shadow:0 5vw#FE5F55}d{inset:148q 153q 30vw 228q
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

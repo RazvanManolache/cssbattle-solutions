@@ -12,6 +12,20 @@ Battle: #10 - Block
 - Characters: 147
 - Characters on current submit: 147
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<p><style>*{border-radius:21q;background:var(--,#293462)}*+*{margin:90 100 110;--:#FE5F55;box-shadow:0 21q#A64942;padding:30}p{height:40;--:#A64942
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

@@ -12,6 +12,20 @@ Battle: #4 - Display
 - Characters: 199
 - Characters on current submit: 199
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<a><a b c><a c><a b><a b d><a><a b><a d><style>a{--x:#EA39;float:left;margin:32 8-12 12;border-radius:50%50%3ch 3ch}[b]{--x:#F3AC3C}[c]{font:0%a}[d]{font:2in a}*{padding:25;background:var(--x,#1A443F
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

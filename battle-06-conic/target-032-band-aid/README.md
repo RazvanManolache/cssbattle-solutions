@@ -12,6 +12,20 @@ Battle: #6 - Conic
 - Characters: 159
 - Characters on current submit: 159
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<style>*{--:#F3AC3C;margin:125 100;background:linear-gradient(var(--)79q,#fbe18c 0,132q,var(--)0)space}*>*{margin:-75 75;--:#A3A368}html{transform:rotate(45deg
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

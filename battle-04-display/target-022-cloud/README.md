@@ -12,6 +12,20 @@ Battle: #4 - Display
 - Characters: 135
 - Characters on current submit: 135
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<style>*{background:#F5D6B4}*>*{background:#D86F45;clip-pat\68:path('M136 207h134a1 1 0 0 0-7-50c41-68-65-120-90-39c-68-47-124 67-37 89
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

@@ -12,6 +12,20 @@ Battle: #17 - Christmas 🎄
 - Characters: 199
 - Characters on current submit: 199
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<style>*{background:#14313E;margin:110 40%60;color:F3695A;box-shadow:0-25vw var(--,#7137)inset,9q -82pt inset,-9q -82pt inset;border-radius:40q var(--r,/16q)}*+*{margin:-50 10 130 40;--r:0;--:#F3AC3C
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

@@ -12,6 +12,20 @@ Battle: #3 - Cursor
 - Characters: 149
 - Characters on current submit: 149
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<body bgcolor=0B2429 style=margin:-97+59+45;border:solid+47vh;border-color:0#4984#F3AC3C#998235;clip-pat\68:path('m141,141,71,70v71l-71,71-70-70v-72>
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

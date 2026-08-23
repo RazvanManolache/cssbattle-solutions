@@ -12,6 +12,20 @@ Battle: #26 - Initial
 - Characters: 142
 - Characters on current submit: 142
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<style>*{background:conic-gradient(#F7EC7D 270deg, #E38F66 0)}*>*{margin:0;background:radial-gradient(9in,#62306D 7%, #0000 0 11.6%, #62306D 0
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

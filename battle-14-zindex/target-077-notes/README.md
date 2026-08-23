@@ -12,6 +12,20 @@ Battle: #14 - ZIndex
 - Characters: 209
 - Characters on current submit: 209
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<p><style>*{color:#FE5F55;box-shadow:inset 2in 0,4.38em 0,222q 0,26.3em 21q,148q 0#A64942}html{background:#191919;border-radius:50%;margin:170 295 90 55}*>*{margin:-80 0 20 40}p{padding:5 20;margin:0;font:50%a
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

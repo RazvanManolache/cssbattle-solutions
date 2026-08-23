@@ -12,6 +12,29 @@ Battle: #30 - Gradient
 - Characters: 517
 - Characters on current submit: 517
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<style>*{background:#40234B}*>*{width:230;height:3in;rotate: 30deg;margin: 50 20 0 85;transform-origin:100% 0;background: linear-gradient(-90deg,
+      #A94EA4 0,  19px, #0000   0,  29px,
+      #A94EA4 0,  45px, #0000   0,  55px,
+      #A94EA4 0,  71px, #0000   0,  81px,
+      #A94EA4 0,  97px, #0000   0,  107px,
+      #A94EA4 0,  123px,#0000   0,  133px,
+      #A94EA4 0,  149px,#0000   0,  159px,
+      #A94EA4 0,  175px,#0000   0,  185px,
+      #A94EA4 0);
+  clip-path: polygon(100% 0, 100% 80%, 13.5% 39.8%)}
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

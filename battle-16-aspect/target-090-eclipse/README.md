@@ -12,6 +12,20 @@ Battle: #16 - Aspect
 - Characters: 145
 - Characters on current submit: 145
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<body bgcolor=998235 style=zoom:26.5;border-radius:49.6%;margin:6q+0-10q;box-shadow:0-8q+0-4q#1A4341,0-8q+0-3q,0-16q#998235,0+0+0+9q text=F3AC3C>
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

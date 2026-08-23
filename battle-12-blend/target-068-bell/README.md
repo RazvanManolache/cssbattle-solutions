@@ -12,6 +12,20 @@ Battle: #12 - Blend
 - Characters: 159
 - Characters on current submit: 159
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<style>*{background:radial-gradient(1q,#824B20,27q,#191919)0 63q}*>*{margin:90 140;background:#E08027;border-radius:50%50%11q 11q;box-shadow:0-62q 0-37q#F2AD43
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

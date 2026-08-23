@@ -12,6 +12,20 @@ Battle: #12 - Blend
 - Characters: 163
 - Characters on current submit: 163
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<body bgcolor=191919 style="zoom:21;margin:.1.3;text-shadow:-7.5q 0#E08027,7.2Q -3Q#FFf58f,-4Q -6Q#F2AD43;clip-path:inset(11%6Q.57em ROUND 6Q 6Q 8%8%"text=824B2>･⬤
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

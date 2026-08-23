@@ -12,6 +12,20 @@ Battle: #8 - Transition
 - Characters: 148
 - Characters on current submit: 148
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<style>*>*{background:#6592cf;margin:30 185 7%0;border-radius:74q;border:32q solid#243d83;-webkit-box-reflect:right -30px;clip-path:inset(0-19%0%67%
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

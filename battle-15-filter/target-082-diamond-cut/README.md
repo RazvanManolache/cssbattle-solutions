@@ -12,6 +12,20 @@ Battle: #15 - Filter
 - Characters: 151
 - Characters on current submit: 151
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<body bgcolor=1A434 text=F3AC3C style=margin:135+187+135+183;box-shadow:0-60q,0-70q,69q+0,0+0+0+38q,0+0+0+68q#998235,0+0+0+5in;transform:rotate(-45deg>
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

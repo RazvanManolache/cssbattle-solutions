@@ -12,6 +12,20 @@ Battle: #15 - Filter
 - Characters: 151
 - Characters on current submit: 151
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<style>*{border-image:radial-gradient(#6592CF,var(--,67q),#EEB850 32q,#243D83 0)fill var(--,255/99%/54q)0}*+*{margin:90 140;--:0;transform:rotate(45deg
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

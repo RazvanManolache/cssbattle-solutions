@@ -12,6 +12,20 @@ Battle: #12 - Blend
 - Characters: 119
 - Characters on current submit: 119
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<style>*>*{margin:0;--:205%80%}*{background:var(--,#5DBCF9 55%74q)/75%50%conic-gradient(at 46.7%73%,#0000 75%,#191919 0
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

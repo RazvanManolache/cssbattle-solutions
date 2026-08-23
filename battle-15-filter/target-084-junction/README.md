@@ -12,6 +12,20 @@ Battle: #15 - Filter
 - Characters: 108
 - Characters on current submit: 108
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<body bgcolor=191919 text=A64A4><p> ⍑  ⍊</p>⏤ ⏤<style>*{margin:-110-66-541;font:700 513q/74%a}p{color:FE5F55
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

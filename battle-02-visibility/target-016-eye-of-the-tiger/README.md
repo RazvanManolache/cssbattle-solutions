@@ -12,6 +12,20 @@ Battle: #2 - Visibility
 - Characters: 160
 - Characters on current submit: 160
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<style>*{margin:7%50;background:#0b2429}*>*{background:radial-gradient(1q,#0000 26q,#f3ac3c 0 74q,#0000 0 95q,#998235);border-radius:50%0;transform:rotate(45deg
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

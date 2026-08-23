@@ -12,6 +12,20 @@ Battle: #16 - Aspect
 - Characters: 158
 - Characters on current submit: 158
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<dt><dl><slot><p><style>*{background:#0E2E2C;border-radius:5in;color:F3AC3C;border:solid.4em;margin:50 100}dt{color:998235}* *{font:125%a;margin:max(4.3% + 6q
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

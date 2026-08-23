@@ -12,6 +12,20 @@ Battle: #6 - Conic
 - Characters: 100
 - Characters on current submit: 100
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+◖<c>◗<style>c{color:E38F66;margin:-169}*+*{background:#aa445f;margin:-6 63.7;color:F7EC7D;font:292q'
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

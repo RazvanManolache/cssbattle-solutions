@@ -12,6 +12,20 @@ Battle: #5 - Inline
 - Characters: 89
 - Characters on current submit: 89
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<style>*>*{background:linear-gradient(#F7EC7D 53q,#E38F66 0 106q,#AA445F 0 212q,#62306D 0
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

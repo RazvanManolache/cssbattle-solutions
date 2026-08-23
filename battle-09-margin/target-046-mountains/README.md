@@ -12,6 +12,20 @@ Battle: #9 - Margin
 - Characters: 145
 - Characters on current submit: 145
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+◆<style>*{background:#293462}*+*{background:#FFF1C1;color:FE5F55;padding:31 42;clip-path:circle(25vw at 50%142px);text-shadow:-119q 75q;font:4in'
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

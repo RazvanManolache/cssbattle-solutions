@@ -12,6 +12,20 @@ Battle: #18 - Float
 - Characters: 132
 - Characters on current submit: 132
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+█<body text=D4393 bgcolor=0 style=font:5in"";clip-pat\68:path('m128,93a50,60-30,113,89q20-9,6-46l6-9v-20m53-9a49,60,30,11-9,9V62h10>
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

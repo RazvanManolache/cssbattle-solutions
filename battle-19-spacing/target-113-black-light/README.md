@@ -12,6 +12,20 @@ Battle: #19 - Spacing
 - Characters: 78
 - Characters on current submit: 78
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<style>*{background:conic-gradient(from 86.4deg at -25em,#191919,2%,#5776F6 0
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

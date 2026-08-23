@@ -12,6 +12,20 @@ Battle: #3 - Cursor
 - Characters: 179
 - Characters on current submit: 179
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<style>*{margin:100;border-image:radial-gradient(#62306D 71%,#0000 0)100%fill/43q/5vw}*+*{zoom:.5;margin:0 30%0 0;background:conic-gradient(at 70%99in,#E38F66,#F7EC7D)space#62306d
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

@@ -12,6 +12,20 @@ Battle: #20 - Hover
 - Characters: 221
 - Characters on current submit: 221
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<body bgcolor=0>▜▛ ▔▗▖<a>▖▖</a>    ▟▙<p>█<style>html{color:54C144;border:solid+5vw}a{color:fff}*+*{font:5vw/25%a;margin:52%77%0%40}p{color:C74E4E;margin:-402%0;zoom:20;clip-path:pat\68('m0 0v4h10v2H0V2h4V0h2v2h4V0h2v9h2V0
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

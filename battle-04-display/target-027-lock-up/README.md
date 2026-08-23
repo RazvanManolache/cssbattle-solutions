@@ -12,6 +12,20 @@ Battle: #4 - Display
 - Characters: 137
 - Characters on current submit: 137
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<style>*{background:radial-gradient(1q,#AA445F 5ch,#0000 0 74q,#AA445F 0 25vw,#E38F66),repeating-conic-gradient(#F7EC7D,25%,#AA445F 0 50%
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

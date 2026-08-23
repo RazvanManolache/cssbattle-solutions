@@ -12,6 +12,20 @@ Battle: #4 - Display
 - Characters: 195
 - Characters on current submit: 195
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<p><style>p{offset:path('M40 85')90deg;border-radius:9q 0;--:-55q -53q}*>*{height:80;width:30;color:2D9CDB;background:#f2994a;box-shadow:var(--,106q 40q,0 0 0 3in#222);offset:path('M169 93')45deg
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

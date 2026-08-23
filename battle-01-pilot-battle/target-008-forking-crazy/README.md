@@ -12,6 +12,20 @@ Battle: #1 - Pilot Battle
 - Characters: 183
 - Characters on current submit: 183
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<body bgcolor=6592CF style=margin:50+190+140;border-radius:1in;box-shadow:5vw+0,-5vw+0,10vw+0#6592CF,-10vw+0#6592CF,15vw+0,-15vw+0,0-201q+0+25vw#6592CF,0+32q+0+60px,0+2in text=060F55>
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

@@ -12,6 +12,20 @@ Battle: #11 - Overflow
 - Characters: 368
 - Characters on current submit: 368
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<a><b><c><d><e><f><style>*{background:#F9E492;position:fixed}*>*{background:#191919;margin:var(--,69 75);height:var(--h,40)}a{width:100;border-radius:0 0 8pt 8pt}a *{width:50;--h:60;--:25;border-radius:8pt}b *{width:20;--h:45;--:-75-20}c{box-shadow:50px 0#191919}d{--h:55;--:-10 25}e{--h:35;--:20 50}f{--h:65;box-shadow:0 0 0 5px#F9E492;--:12-73;transform:rotate(60deg
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

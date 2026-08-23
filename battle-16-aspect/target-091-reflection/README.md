@@ -12,6 +12,20 @@ Battle: #16 - Aspect
 - Characters: 125
 - Characters on current submit: 125
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<p>.<p>.<p>.<p>.<style>*{margin:75 0-65;background:radial-gradient(1q,#F6DF96 106q,#D25B70 0 775em,#6CB3A9)fixed;font:9%/5vh'
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

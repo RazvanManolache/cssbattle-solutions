@@ -12,6 +12,20 @@ Battle: #9 - Margin
 - Characters: 171
 - Characters on current submit: 171
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<body bgcolor=F3AC3C text=1A434 style=margin:-78+185;box-shadow:0-3in+0+32q,0-3in+0+64q#998235,0-3in+0+95q,0-3in+0+30vw#F3AC3C,0-3in+0+50vh,0-76vh+0+30vw#998235,0+0+0+5in>
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

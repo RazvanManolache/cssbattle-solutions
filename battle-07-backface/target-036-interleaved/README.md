@@ -12,6 +12,20 @@ Battle: #7 - Backface
 - Characters: 145
 - Characters on current submit: 145
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<style>*>*{margin:25%400-30-50;border-radius:30q;color:F3AC3C;box-shadow:79q 0,238q 0,397q 0,158q -138q#998235,317q -138q#998235,0 0 0 5in#1a4341
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution

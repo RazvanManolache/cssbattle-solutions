@@ -12,6 +12,20 @@ Battle: #19 - Spacing
 - Characters: 105
 - Characters on current submit: 105
 
+## Reference image
+
+![Reference image](./reference.png)
+
+## Rendered output
+
+![Rendered output](./rendered.png)
+
+## Solution
+
+```html
+<style>*{background:#172D2C}*>*{background:#E9AF53;clip-pat\68:path('m12 76v131l180 65v-261l180 66-180 65
+```
+
 ## Files
 
 - `solution.html` - extracted HTML/CSS solution
